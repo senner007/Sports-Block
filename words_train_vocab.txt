@@ -176,6 +176,7 @@ atleter
 atleterne
 atletik
 atter
+australier
 australieren
 av
 b
@@ -325,6 +326,7 @@ brasilianer
 brasiliansk
 brik
 bringer
+briten
 bronze
 bronzemedalje
 bronzen
@@ -462,6 +464,7 @@ dig
 digitalt
 direkte
 disciplin
+diskvalifikation
 disse
 distancen
 dm
@@ -580,6 +583,7 @@ entré
 entusiasmen
 episode
 er
+erfarer
 erkender
 erkendt
 esbjergenserne
@@ -618,6 +622,7 @@ fantastisk
 fare
 farfar
 farmand
+farten
 farvel
 farver
 faste
@@ -843,6 +848,7 @@ gigant
 giganter
 gigantisk
 gik
+giroen
 give
 giver
 givet
@@ -870,6 +876,7 @@ golfstjerne
 golfturneringen
 grand
 grapefrugter
+grim
 grinene
 griner
 groteske
@@ -883,6 +890,7 @@ gruppespil
 gruppespillet
 grådkvalt
 græd
+grænser
 græstæppe
 græstæppet
 gu
@@ -916,6 +924,7 @@ h
 hadefulde
 haft
 hag
+hagles
 hald
 hallen
 halsede
@@ -993,8 +1002,10 @@ hobby
 hockey
 hof
 hold
+holdbarheden
 holde
 holdenes
+holder
 holdet
 holdets
 holdkammerat
@@ -1139,6 +1150,7 @@ international
 internationale
 internet
 investorer
+invitere
 irriterende
 isen
 ishockey
@@ -1153,6 +1165,7 @@ israelske
 italiensk
 italienske
 jagt
+jagte
 jagten
 jagter
 jamaicanske
@@ -1167,12 +1180,14 @@ jo
 jobbet
 joke
 journalist
+jubel
 jubelfest
 jublen
 jubler
 jublet
 jumbo
 juni
+kaffe
 kalde
 kalder
 kaldes
@@ -1183,6 +1198,7 @@ kamp
 kampe
 kampen
 kampene
+kampens
 kampprogrammet
 kan
 kanaler
@@ -1228,6 +1244,7 @@ kold
 kolding
 kollaps
 kom
+komet
 komité
 komme
 kommende
@@ -1267,6 +1284,7 @@ kron
 kronede
 kroner
 krop
+krydser
 kræft
 kræfter
 kræftsygdom
@@ -1394,8 +1412,10 @@ livebloggen
 livrem
 livslang
 lokale
+lokke
 lokkes
 lov
+lovede
 lover
 lufthavn
 lukker
@@ -1668,6 +1688,7 @@ om
 omgang
 omgange
 omkamp
+omklædningen
 omkring
 omspil
 omvendt
@@ -1735,6 +1756,7 @@ overvejede
 p4
 palle
 pande
+par
 paraatlet
 paralympiske
 parat
@@ -1800,6 +1822,7 @@ pres
 presse
 presset
 prikken
+prioriteter
 privatlektion
 problem
 problemer
@@ -1852,6 +1875,7 @@ redde
 redningsprocent
 reducerede
 reel
+regelbrud
 regelsættet
 regering
 regi
@@ -1888,6 +1912,7 @@ rider
 rigmand
 rigtig
 ringe
+ringede
 rival
 rivalerne
 riven
@@ -1919,6 +1944,7 @@ rutsjebanetur
 ryger
 ryggen
 rygskade
+rykker
 rystende
 rytter
 ryttere
@@ -1980,6 +2006,7 @@ semifinalemodstander
 semifinalen
 semifinaler
 semifinalerne
+sende
 sendeplan
 sender
 sendes
@@ -2063,6 +2090,7 @@ skifter
 skiller
 skiløber
 skjul
+sko
 skovlen
 skrev
 skrevet
@@ -2094,6 +2122,7 @@ skøjter
 slam
 slap
 slem
+slemt
 slet
 slide
 slip
@@ -2188,6 +2217,7 @@ standarder
 standardvogne
 start
 starte
+startede
 starter
 statistikker
 statsborgere
@@ -2267,6 +2297,7 @@ superligaens
 superligakampe
 superligamandskabet
 superserv
+supersprinter
 superstjerne
 superstjernen
 supertalent
@@ -2397,6 +2428,7 @@ topatleter
 topbrag
 topkamp
 topkarakter
+topklub
 topniveauet
 topopgør
 toppen
@@ -2491,6 +2523,7 @@ uden
 udenfor
 udesejr
 udfaldet
+udgået
 udgår
 udlandet
 udleve
@@ -2525,7 +2558,9 @@ underdoggen
 underholder
 underordnet
 underskrevet
+undertal
 undgå
+undskylder
 ung
 ungarere
 ungarske
@@ -2678,6 +2713,7 @@ wimbledon
 world
 x
 yderligere
+ydmygelse
 ydmyger
 åben
 åbner
