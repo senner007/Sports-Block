@@ -32,6 +32,7 @@
 21
 22
 23
+24
 25
 258
 26
@@ -61,9 +62,11 @@
 59
 6
 61
+623
 67
 7
 700
+7125
 72
 74
 75
@@ -193,6 +196,7 @@ badmintonstjerner
 baduljen
 bag
 bagagen
+bagende
 bagspilleren
 bagud
 bah
@@ -200,7 +204,10 @@ bakgear
 bakken
 ballade
 bane
+banecykelryttere
 banecykling
+banelandshold
+banelandsholdet
 banen
 baner
 bange
@@ -327,6 +334,7 @@ boss
 boston
 bowl
 brag
+bragede
 braget
 brasilianer
 brasiliansk
@@ -404,8 +412,10 @@ curling
 curlingherrer
 curlingherrernes
 curlingkvinder
+curlingkvinderne
 curlingkvindernes
 curlinglandsholdet
+curlinglejr
 cykelekspert
 cykelhold
 cykelholdet
@@ -489,6 +499,7 @@ dommeren
 dommerformand
 dommerne
 dommerstemmerne
+dommerteamet
 domstol
 dopingsag
 dopingsagen
@@ -577,6 +588,7 @@ endagsløb
 ende
 endelig
 endelige
+ender
 endestationen
 endnu
 endte
@@ -607,6 +619,7 @@ etapesejre
 etapesejren
 etiopier
 etiopieren
+etiopisk
 etårig
 europa
 europamesterskabet
@@ -655,6 +668,7 @@ finale
 finaledrøm
 finalen
 finalenederlag
+finaleplads
 finalerne
 finaleserien
 finde
@@ -703,6 +717,8 @@ foran
 forandrer
 forbandede
 forbandelse
+forbedrede
+forbedrer
 forberedelserne
 forberedt
 forbi
@@ -869,6 +885,7 @@ givet
 gjorde
 gjort
 glad
+glas
 glemmer
 globale
 glohed
@@ -888,6 +905,7 @@ golfspillere
 golfspilleren
 golfstjerne
 golfturneringen
+golfvogne
 grand
 grapefrugter
 grim
@@ -910,6 +928,7 @@ græstæppet
 gu
 guld
 gulddans
+gulddrøm
 guldet
 guldfavoritten
 guldfugl
@@ -950,6 +969,7 @@ halveret
 halvskidt
 halvt
 ham
+hammerkast
 han
 handlede
 handles
@@ -1105,6 +1125,8 @@ hård
 hårdeste
 hårdt
 hæfter
+hækkeløb
+hækkeløber
 hænder
 hængende
 hængt
@@ -1227,6 +1249,7 @@ karrieren
 karrierens
 karrierestop
 kasakhiske
+kast
 kaster
 kastet
 kedelig
@@ -1235,6 +1258,7 @@ kendte
 ketsjeren
 kilden
 kilometer
+kilometerløb
 kim
 kineserne
 kinesiske
@@ -1454,6 +1478,7 @@ lå
 låg
 lægge
 lægger
+lækkerbisken
 læne
 længe
 længere
@@ -1499,6 +1524,7 @@ manglende
 mangler
 manøvre
 maraton
+maratonløbet
 marc
 mareridt
 mark
@@ -1514,6 +1540,7 @@ med
 medalje
 medaljefest
 medaljehåb
+medaljepodiet
 medaljer
 medaljerne
 medfart
@@ -1604,6 +1631,7 @@ målløs
 målmandsposten
 målmænd
 målnæse
+målræv
 målscorer
 målstregen
 målvogter
@@ -1614,6 +1642,7 @@ måtte
 måtten
 mægtige
 mænd
+mændene
 mæssigt
 møde
 møder
@@ -1756,6 +1785,7 @@ overdyngede
 overdænget
 overgangen
 overhalede
+overhovedet
 overkommer
 overlegen
 overlegne
@@ -1764,6 +1794,7 @@ overraskende
 overs
 oversat
 overskud
+overskudstid
 overstrålede
 overtage
 overtaget
@@ -1811,11 +1842,13 @@ pligt
 pligtsejrer
 pludselig
 plæne
+podiedrama
 podiepladser
 podiet
 point
 pointlighed
 pointrekord
+pointstraf
 pointtab
 pokalen
 pokalfinalen
@@ -1937,6 +1970,7 @@ ringe
 ringede
 rival
 rivalerne
+rivalopgøret
 riven
 roede
 roen
@@ -2140,6 +2174,7 @@ skålede
 skæbne
 skæbnekamp
 skærpet
+skøjteatlet
 skøjteløber
 skøjteløbere
 skøjter
@@ -2173,6 +2208,7 @@ slås
 slæden
 slædesportsatleter
 smadrer
+smadret
 smag
 smertestillende
 smidt
@@ -2198,6 +2234,7 @@ sover
 spanier
 spansk
 spanske
+speedskatere
 speedway
 spektakulære
 spil
@@ -2236,10 +2273,12 @@ sprænge
 spørgsmål
 spørgsmålstegn
 stadig
+stadion
 stafethold
 stand
 standarder
 standardvogne
+stangspring
 start
 starte
 startede
@@ -2300,6 +2339,7 @@ stribe
 struben
 stryg
 strålede
+stykke
 stykker
 styr
 styre
@@ -2308,11 +2348,13 @@ stå
 står
 stærke
 stærkt
+stævne
 stævnet
 større
 størst
 største
 succes
+succesduo
 succestræner
 sundhedsskadelig
 super
@@ -2476,6 +2518,7 @@ tre
 tredje
 tredjeplads
 triatlonsporten
+triple
 trist
 triumf
 triumferede
@@ -2486,6 +2529,7 @@ trodser
 troet
 trofæ
 trofæet
+trofæhylde
 tronen
 tror
 truende
@@ -2626,6 +2670,7 @@ varen
 varme
 varmen
 varmer
+varmt
 ved
 vej
 vejen
@@ -2698,6 +2743,7 @@ vist
 viste
 vm
 vogn
+vogne
 vokset
 voldsom
 voldtægt
@@ -2776,6 +2822,7 @@ ydmyger
 øjeblikke
 øjeblikkelig
 øjeblikket
+øjet
 øjner
 økonomisk
 ønsker
