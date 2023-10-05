@@ -56,6 +56,7 @@
 50
 500
 53
+55
 59
 6
 61
@@ -96,6 +97,7 @@ afgørelse
 afgørende
 afgøres
 afhjælper
+afholdes
 afholdt
 afklaring
 aflyst
@@ -145,6 +147,7 @@ amok
 an
 anden
 andenplads
+andenpladsen
 anderledes
 andet
 andre
@@ -163,6 +166,7 @@ argentinsk
 arrangørerne
 arsenal
 artiklen
+asien
 assist
 assistent
 assistentens
@@ -255,6 +259,7 @@ beskytter
 beslutning
 beslutningen
 besluttet
+besparelser
 bestemt
 besvær
 besøg
@@ -337,10 +342,12 @@ budskaber
 bueskytte
 buldrer
 bulgarske
+bundlinjen
 bundprop
 burde
 buret
 butikken
+byder
 byen
 byens
 bytte
@@ -348,6 +355,7 @@ byttet
 både
 bælte
 bø
+bøder
 bølge
 bør
 bøvl
@@ -442,6 +450,7 @@ den
 denne
 der
 derby
+derbyet
 deres
 derfor
 dermed
@@ -525,6 +534,7 @@ død
 døden
 dødstrusler
 døren
+e
 efter
 efterfølgende
 efterlader
@@ -571,6 +581,7 @@ entusiasmen
 episode
 er
 erkender
+erkendt
 esbjergenserne
 eskorteret
 et
@@ -582,6 +593,7 @@ etapesejre
 etapesejren
 etiopier
 etiopieren
+etårig
 europa
 europamesterskabet
 europas
@@ -596,6 +608,7 @@ falder
 falk
 familie
 familieforetagende
+familien
 familiens
 fan
 fanden
@@ -620,6 +633,7 @@ fem
 fest
 fiaskoer
 fifa
+fifas
 fik
 film
 finale
@@ -673,6 +687,7 @@ for
 foran
 forandrer
 forbandede
+forbandelse
 forberedt
 forbi
 forbillede
@@ -700,6 +715,7 @@ forlade
 forlader
 forlig
 forlod
+forlænger
 forløb
 forløsning
 form
@@ -712,6 +728,7 @@ forrest
 forrygende
 forrykt
 forskellen
+forskellige
 forskelligt
 forskelsbehandling
 forslaget
@@ -732,6 +749,7 @@ fortsætte
 fortælle
 fortæller
 forventer
+forventninger
 forventningerne
 forvirring
 fosser
@@ -752,6 +770,7 @@ fremtid
 fremtiden
 friskhed
 frit
+frivillige
 froholdt
 frosne
 frustrerer
@@ -794,6 +813,7 @@ følges
 følte
 før
 førende
+fører
 førertrøjen
 første
 førstevalg
@@ -818,12 +838,14 @@ gense
 gentage
 genvinder
 gesten
+gidsel
 gigant
 giganter
 gigantisk
 gik
 give
 giver
+givet
 gjorde
 gjort
 glad
@@ -878,6 +900,7 @@ gule
 gult
 gyldent
 gymnast
+gymnastik
 gymnastikkens
 gyngede
 gyser
@@ -919,6 +942,7 @@ heftig
 hektisk
 hele
 heller
+hellere
 helt
 helte
 helvede
@@ -1114,6 +1138,7 @@ intern
 international
 internationale
 internet
+investorer
 irriterende
 isen
 ishockey
@@ -1218,7 +1243,9 @@ konkurrence
 konkurrencer
 konkurrenterne
 konkurrere
+konkurs
 konsekvenserne
+kontinenter
 kontoret
 kontrakt
 kontroversiel
@@ -1273,6 +1300,7 @@ kyrie
 kys
 kåret
 kæmpe
+kæmpende
 kæmpeopgave
 kæmper
 kæmpet
@@ -1290,6 +1318,7 @@ labradoodle
 lade
 lagt
 lande
+landede
 landes
 landet
 landets
@@ -1326,6 +1355,7 @@ latterlig
 lavede
 lavine
 league
+leder
 lege
 legendarisk
 legende
@@ -1375,6 +1405,7 @@ lunde
 lungen
 lussing
 lyder
+lykke
 lykkedes
 lykken
 lykkens
@@ -1450,6 +1481,7 @@ medaljerne
 medfart
 medicineret
 medier
+medlemslandene
 meget
 mekanikeren
 meldte
@@ -1512,10 +1544,12 @@ modstander
 modtaget
 mor
 morgen
+mors
 moste
 motiverer
 motorsport
 mulighed
+muligheder
 munden
 mundlamme
 muren
@@ -1546,6 +1580,7 @@ møde
 møder
 mødes
 mødet
+mødtes
 møller
 møllers
 mørk
@@ -1559,6 +1594,7 @@ narkosmugling
 nat
 nation
 nationalsang
+nationer
 nations
 natten
 nattens
@@ -1631,6 +1667,7 @@ olympiske
 om
 omgang
 omgange
+omkamp
 omkring
 omspil
 omvendt
@@ -1642,6 +1679,7 @@ opbakning
 open
 opfattet
 opfordrer
+opfordring
 opfylde
 opfyldt
 opgaver
@@ -1654,12 +1692,16 @@ oplevede
 oplevelse
 oplevelser
 oplæg
+oplægget
 opmærksomhed
 opnå
+opnåeligt
 oprindeligt
 oprykning
+opsat
 ord
 ordet
+organisation
 orienteringen
 orienteringsløb
 orienteringsløber
@@ -1681,6 +1723,7 @@ overraskelse
 overraskende
 overs
 oversat
+overskud
 overstrålede
 overtage
 overtaget
@@ -1711,6 +1754,7 @@ perfekte
 periode
 perle
 personlig
+personlige
 pille
 pinden
 pionér
@@ -1768,6 +1812,7 @@ profilen
 profiler
 program
 programmet
+prominent
 protester
 præ
 præsident
@@ -1794,11 +1839,14 @@ racerkørere
 radioen
 rammerne
 ramt
+ramte
+rangerer
 raser
 reagerer
 reaktioner
 reaktionerne
 real
+realistisk
 realitet
 redde
 redningsprocent
@@ -1806,6 +1854,7 @@ reducerede
 reel
 regelsættet
 regering
+regi
 regler
 reglerne
 regner
@@ -1847,9 +1896,12 @@ roen
 roer
 rokkede
 rolle
+romerlys
 roret
+ros
 rosende
 roser
+rotte
 rullede
 runde
 rundede
@@ -1885,7 +1937,10 @@ samlet
 samme
 sammen
 sammenligner
+sammenlignes
+sammenlignet
 sammenstød
+samt
 san
 sat
 satser
@@ -1937,6 +1992,7 @@ sensation
 sensationen
 sensationer
 sent
+ser
 serberen
 serberens
 serbisk
@@ -1961,6 +2017,7 @@ signalet
 signe
 sigt
 sigter
+sikker
 sikkerhed
 sikkerheden
 sikkerhedshensyn
@@ -2006,6 +2063,7 @@ skifter
 skiller
 skiløber
 skjul
+skovlen
 skrev
 skrevet
 skridt
@@ -2047,6 +2105,7 @@ slukke
 slukker
 slukket
 slut
+slutfasen
 slutrunde
 slutrundebillet
 slutrunden
@@ -2079,6 +2138,7 @@ snævert
 sociale
 som
 sommer
+sorte
 sov
 sover
 spanier
@@ -2102,10 +2162,12 @@ spilles
 spillet
 spilletid
 spjældet
+sponsorater
 sporet
 sport
 sporten
 sportens
+sports
 sportsdirektør
 sportsdomstols
 sportsgrene
@@ -2234,6 +2296,7 @@ sydkorea
 symbol
 synderligt
 syv
+syvende
 så
 sådan
 såkaldte
@@ -2247,6 +2310,7 @@ sæsons
 sæsonstart
 sæt
 sætter
+søgte
 sølv
 sølvmedalje
 søndag
@@ -2327,9 +2391,11 @@ to
 toft
 tog
 tom
+toneangivende
 top
 topatleter
 topbrag
+topkamp
 topkarakter
 topniveauet
 topopgør
@@ -2364,6 +2430,7 @@ trofæ
 trofæet
 tronen
 tror
+truende
 trup
 truppen
 tryller
@@ -2427,6 +2494,7 @@ udfaldet
 udgår
 udlandet
 udleve
+udligning
 udløber
 udnytte
 udnyttet
@@ -2598,6 +2666,8 @@ været
 værste
 vært
 værter
+værterne
+værtskab
 waliserne
 weekend
 weekenden
@@ -2608,6 +2678,7 @@ wimbledon
 world
 x
 yderligere
+ydmyger
 åben
 åbner
 åbningsceremoni
