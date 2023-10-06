@@ -6,9 +6,11 @@
 1000
 11
 12
+122
 13
 13!
 14
+140
 15
 16
 17
@@ -93,10 +95,12 @@ adskillelse
 advarer
 advaret
 af
+afblæst
 afbrudt
 afbrød
 afdød
 affære
+afgang
 afgøre
 afgørelse
 afgørende
@@ -104,6 +108,7 @@ afgøres
 afhjælper
 afholdes
 afholdt
+afklapsning
 afklaring
 aflyst
 afløser
@@ -118,6 +123,7 @@ aftener
 afviser
 afviste
 afværger
+ageren
 akkurat
 aktion
 alder
@@ -156,6 +162,7 @@ andenpladsen
 anderledes
 andet
 andre
+anfald
 anfører
 angreb
 angrebet
@@ -165,6 +172,7 @@ anklaget
 ansigt
 ansvar
 antal
+april
 arbejde
 arbejdede
 arena
@@ -202,10 +210,12 @@ bagud
 bah
 bakgear
 bakken
+bakker
 ballade
 bane
 banecykelryttere
 banecykling
+banede
 banelandshold
 banelandsholdet
 banen
@@ -247,6 +257,7 @@ bedømmelserne
 begejstret
 begge
 begivenheden
+begrænset
 begrænsningerne
 begynde
 begynder
@@ -274,6 +285,7 @@ beslutningen
 besluttet
 besparelser
 bestemt
+bestyrelse
 besvær
 besøg
 betinget
@@ -381,6 +393,7 @@ cannabis
 cannabisolie
 cavendish
 center
+centralt
 champions
 championship
 chance
@@ -488,6 +501,7 @@ dm
 dobbelt
 dobbeltredning
 dog
+dollar
 dollars
 dom
 dominans
@@ -501,6 +515,7 @@ dommerne
 dommerstemmerne
 dommerteamet
 domstol
+doping
 dopingsag
 dopingsagen
 double
@@ -513,6 +528,7 @@ dramaet
 dramatisk
 drastiske
 dreng
+drenge
 dressur
 dressurlandshold
 dressurrytter
@@ -541,6 +557,7 @@ duel
 dueller
 duftede
 dufter
+dukkede
 dummer
 duo
 dygtigere
@@ -608,6 +625,7 @@ erfarer
 erfaret
 erkender
 erkendt
+erstatter
 esbjergenserne
 eskorteret
 et
@@ -629,6 +647,7 @@ europæisk
 europæiske
 eventyr
 exit
+fadæse
 faktisk
 fald
 falder
@@ -648,6 +667,7 @@ farmand
 farten
 farvel
 farver
+fast
 faste
 favorit
 februar
@@ -741,6 +761,7 @@ forhindre
 forhold
 forholdsvis
 forkert
+forklare
 forklarer
 forkælede
 forlade
@@ -751,6 +772,7 @@ forlænger
 forløb
 forløsning
 form
+formand
 formel
 formen
 formidabelt
@@ -791,6 +813,7 @@ frankrig
 fransk
 franske
 franskmand
+franskmanden
 frataget
 fravalg
 freak
@@ -812,6 +835,7 @@ frygte
 frygtelig
 frygter
 fucking
+fuldende
 fuldstændig
 fuldt
 fuldtidsprofessionelle
@@ -820,6 +844,7 @@ fulgtes
 fundet
 fungerede
 fusion
+fusionere
 fylder
 fyldt
 fyret
@@ -871,6 +896,7 @@ genmæle
 genoplev
 gense
 gentage
+gentog
 genvinder
 gesten
 gidsel
@@ -1002,6 +1028,7 @@ herredoublen
 herrelandsholdet
 herreligaen
 herrernes
+hertil
 herunder
 hest
 heste
@@ -1062,6 +1089,7 @@ hospitalet
 hoved
 hovedet
 hovedkontoret
+hovedpine
 hovedrolle
 hovedstad
 hovedårsagerne
@@ -1146,6 +1174,7 @@ høster
 i
 idiot
 idrætsgymnastik
+idrætter
 idé
 idømt
 ifølge
@@ -1202,6 +1231,7 @@ isolation
 israelske
 italiensk
 italienske
+ja
 jagt
 jagte
 jagten
@@ -1245,6 +1275,8 @@ kanter
 kaptajn
 karakterer
 karaktererne
+karantænedom
+karl
 karrieren
 karrierens
 karrierestop
@@ -1284,6 +1316,8 @@ kold
 kolding
 kollaps
 kom
+koma
+kombinere
 komet
 komité
 komme
@@ -1301,7 +1335,9 @@ konkurrencer
 konkurrenterne
 konkurrere
 konkurs
+konsekvenser
 konsekvenserne
+kontant
 kontinenter
 kontoret
 kontrakt
@@ -1311,6 +1347,7 @@ korsbåndsskade
 kort
 koste
 koster
+krampeanfald
 kriger
 krise
 krisen
@@ -1350,6 +1387,7 @@ kvartfinalen
 kvinde
 kvindelandshold
 kvindelandsholdet
+kvindelige
 kvinder
 kvinderne
 kvindernes
@@ -1357,6 +1395,7 @@ kvinders
 kyrie
 kys
 kåret
+kælk
 kæmpe
 kæmpebrag
 kæmpende
@@ -1396,6 +1435,7 @@ landsholdsspiller
 landsholdsspilleren
 landsholdsspillerne
 landsholdstrup
+landsholdstruppen
 landskamp
 landskampsmål
 landsmanden
@@ -1413,7 +1453,9 @@ latter
 latterlig
 lavede
 lavine
+lavpunkt
 league
+ledelse
 leder
 lege
 legendarisk
@@ -1543,6 +1585,8 @@ medaljehåb
 medaljepodiet
 medaljer
 medaljerne
+medaljesluger
+meddelte
 medfart
 medicineret
 medier
@@ -1638,6 +1682,7 @@ målvogter
 målvogteren
 måned
 måneder
+måneders
 måtte
 måtten
 mægtige
@@ -1685,6 +1730,7 @@ neutrale
 nhl
 ni
 niende
+nissen
 niveau
 nogen
 nogensinde
@@ -1733,6 +1779,7 @@ ols
 olympisk
 olympiske
 om
+omdiskuteret
 omgang
 omgange
 omkamp
@@ -1754,6 +1801,7 @@ opfyldt
 opgaver
 opgør
 opgøret
+ophæve
 ophæver
 oplagt
 opleve
@@ -1768,6 +1816,7 @@ opnåeligt
 oprindeligt
 oprykning
 opsat
+opskriften
 ord
 ordet
 organisation
@@ -1827,6 +1876,7 @@ periode
 perle
 personlig
 personlige
+piger
 pille
 pinden
 pionér
@@ -1867,11 +1917,13 @@ popcorn
 porten
 portugisiske
 positive
+post
 pot
 potentielt
 premier
 pres
 presse
+pressemøde
 presset
 prikken
 prioriteter
@@ -1898,6 +1950,7 @@ præstationsfremmende
 præsterer
 præsteret
 præstigefyldte
+prøve
 prøvede
 prøvet
 psykologhjælp
@@ -1917,6 +1970,7 @@ rammerne
 ramt
 ramte
 rangerer
+ranglistens
 raser
 reagerer
 reaktioner
@@ -1947,6 +2001,7 @@ rekruttere
 religiøse
 ren
 rent
+repræsentere
 respekt
 respektere
 respektive
@@ -1977,12 +2032,15 @@ roen
 roer
 rokkede
 rolle
+rollen
 romerlys
 roret
 ros
 rosende
 roser
 rotte
+royale
+rugbrødsmadder
 rullede
 runde
 rundede
@@ -1991,6 +2049,7 @@ rune
 runes
 russer
 russere
+russerne
 russisk
 russiske
 rute
@@ -2082,6 +2141,7 @@ serbisk
 serbiske
 serie
 serien
+seriøse
 seriøst
 serv
 serverer
@@ -2094,6 +2154,7 @@ sider
 sidst
 sidste
 sig
+sige
 siger
 signal
 signalet
@@ -2139,10 +2200,13 @@ skarp
 skarpe
 skateboarderen
 skeer
+skeleton
 skete
 ski
 skidt
+skiflyvning
 skifter
+skihoppere
 skiller
 skiløber
 skjul
@@ -2155,6 +2219,7 @@ skrift
 skriger
 skrive
 skriver
+skubbede
 skubber
 skud
 skudsår
@@ -2178,6 +2243,7 @@ skøjteatlet
 skøjteløber
 skøjteløbere
 skøjter
+slalomløbet
 slam
 slap
 slem
@@ -2235,6 +2301,7 @@ spanier
 spansk
 spanske
 speedskatere
+speedskateren
 speedway
 spektakulære
 spil
@@ -2254,6 +2321,7 @@ spillet
 spilletid
 spjældet
 sponsorater
+spor
 sporet
 sport
 sporten
@@ -2278,6 +2346,7 @@ stafethold
 stand
 standarder
 standardvogne
+standpunkt
 stangspring
 start
 starte
@@ -2353,6 +2422,7 @@ stævnet
 større
 størst
 største
+støvlerne
 succes
 succesduo
 succestræner
@@ -2378,6 +2448,7 @@ suveræn
 suveræne
 suverænitet
 svar
+svare
 svarer
 svaret
 svensk
@@ -2411,6 +2482,7 @@ sætter
 søgte
 sølv
 sølvmedalje
+sølvvindere
 søndag
 søndagens
 sønderjyske
@@ -2453,6 +2525,7 @@ tennisreporter
 tennisspiller
 tennisstjerne
 tennistalent
+testosteron
 tid
 tider
 tidlig
@@ -2564,6 +2637,7 @@ tvinger
 tvivl
 tvivlsom
 tvivlsomt
+tysk
 tyske
 tyskere
 tyskerne
@@ -2611,11 +2685,13 @@ udspillede
 udstødt
 udtager
 udtaget
+udtaler
 udtog
 udtrykte
 udviklede
 udvist
 udøverne
+uenig
 uenige
 uforglemmelig
 uge
@@ -2708,6 +2784,7 @@ vest
 vi
 viceborgmester
 vicemestre
+vicepræsident
 vide
 videnskaben
 video
@@ -2725,6 +2802,7 @@ vilje
 ville
 vin
 vinde
+vindende
 vinder
 vinderens
 vindernation
@@ -2733,6 +2811,7 @@ vinker
 vinter
 vinterlegene
 vinternation
+vintersport
 vipper
 viralt
 virkelighed
@@ -2746,6 +2825,7 @@ vogn
 vogne
 vokset
 voldsom
+voldsomt
 voldtægt
 vores
 vred
@@ -2798,6 +2878,7 @@ ydmyger
 ånder
 åndssvagt
 år
+åre
 året
 årets
 århusianske
@@ -2805,6 +2886,7 @@ ydmyger
 årigt
 års
 årsager
+årsskiftet
 ægte
 ældre
 ældste
