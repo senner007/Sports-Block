@@ -58,6 +58,7 @@
 41
 46
 47
+49ers
 5
 50
 500
@@ -82,6 +83,7 @@
 8
 80
 83
+90
 93
 94
 94000
@@ -115,6 +117,7 @@ afklaring
 aflyst
 afløb
 afløser
+afsked
 afslutning
 afslutningen
 afsone
@@ -128,6 +131,7 @@ afviste
 afværger
 ageren
 ai
+akillessenen
 akkurat
 aktion
 al
@@ -169,6 +173,7 @@ andet
 andre
 anfald
 anfører
+anført
 angreb
 angrebet
 anholdt
@@ -199,6 +204,7 @@ atter
 australier
 australieren
 av
+avancere
 b
 back
 badminton
@@ -265,6 +271,7 @@ bedømme
 bedømmelserne
 begejstret
 begge
+begik
 begivenheden
 begrænset
 begrænsningerne
@@ -376,6 +383,7 @@ bruge
 brugt
 brugte
 brutal
+brutalt
 bryder
 brænde
 brænder
@@ -415,6 +423,7 @@ championship
 chance
 chanceløse
 chancer
+chargers
 cheerleaders
 chef
 chefen
@@ -596,6 +605,7 @@ dø
 død
 døden
 dødstrusler
+døende
 dømme
 døren
 e
@@ -704,6 +714,7 @@ fejringen
 felt
 feltet
 fem
+femte
 fest
 fiaskoer
 fifa
@@ -766,10 +777,12 @@ forbandelse
 forbedrede
 forbedrer
 forberedelserne
+forbereder
 forberedt
 forbi
 forbillede
 forbindelse
+forblive
 forbud
 forbuddet
 forbudt
@@ -806,6 +819,7 @@ formel
 formen
 formidabelt
 formiddag
+formåede
 formået
 forrest
 forrygende
@@ -839,9 +853,11 @@ forvente
 forventer
 forventninger
 forventningerne
+forventningsfulde
 forvirring
 fosser
 fra
+frank
 frankrig
 fransk
 franske
@@ -916,6 +932,7 @@ førte
 gadebarn
 gader
 gak
+galt
 games
 gamle
 gammel
@@ -978,6 +995,7 @@ grinene
 griner
 groteske
 groves
+gruelig
 grund
 grundet
 gruppe
@@ -1004,6 +1022,7 @@ guldvindere
 guldvinders
 gule
 gult
+gylden
 gyldent
 gymnast
 gymnastik
@@ -1043,11 +1062,13 @@ har
 hattrick
 havde
 have
+havner
 havnet
 heats
 hedder
 heftig
 hektisk
+held
 hele
 heller
 hellere
@@ -1063,6 +1084,7 @@ hentede
 henter
 hentet
 her
+herfra
 herredoublen
 herrelandsholdet
 herreligaen
@@ -1295,6 +1317,7 @@ jeg
 jens
 jernvilje
 jersey
+jets
 jo
 jobbet
 joe
@@ -1363,6 +1386,7 @@ knockout
 knokler
 knuser
 knust
+knæk
 knækker
 knælede
 kog
@@ -1377,6 +1401,7 @@ komité
 komme
 kommende
 kommentator
+kommentatorer
 kommer
 kommet
 kompagni
@@ -1403,6 +1428,7 @@ korsbåndsskade
 kort
 koste
 koster
+krampe
 krampeanfald
 kriger
 krise
@@ -1470,6 +1496,7 @@ kørerne
 køres
 kørt
 kørte
+la
 labradoodle
 lade
 lagt
@@ -1565,6 +1592,7 @@ lover
 lufthavn
 lukker
 lukket
+lukketid
 lund
 lunde
 lungen
@@ -1706,6 +1734,8 @@ minut
 minuts
 minutter
 mirakuløs
+mirakuløst
+misbruger
 mislykkes
 misse
 missede
@@ -1719,6 +1749,8 @@ modsat
 modstand
 modstander
 modtaget
+monument
+monumentet
 mor
 morgen
 mors
@@ -1746,6 +1778,7 @@ målnæse
 målræv
 målscorer
 målstregen
+målsætning
 målvogter
 målvogteren
 måned
@@ -1799,6 +1832,7 @@ neutrale
 nhl
 ni
 niende
+niendeplads
 nissen
 niveau
 nogen
@@ -1815,6 +1849,7 @@ norske
 nosser
 november
 nu
+nuet
 nummer
 ny
 nyd
@@ -1887,6 +1922,7 @@ oplægget
 opmærksomhed
 opnå
 opnåeligt
+oppe
 oprindeligt
 oprykning
 opsat
@@ -1899,6 +1935,7 @@ orienteringsløb
 orienteringsløber
 os
 otte
+ottende
 oven
 over
 overbevisende
@@ -1927,6 +1964,7 @@ overtage
 overtager
 overtaget
 overtalt
+overtid
 overtiden
 overtrædelse
 overveje
@@ -2035,6 +2073,7 @@ præsteret
 præstigefyldte
 prøve
 prøvede
+prøver
 prøvet
 psykologhjælp
 punktum
@@ -2044,6 +2083,7 @@ pustet
 på
 pådrog
 quarterback
+quarterbacken
 racer
 racerbanen
 racerkøren
@@ -2066,6 +2106,8 @@ realistisk
 realitet
 red
 redde
+redder
+reddet
 redningsprocent
 reducerede
 reel
@@ -2106,6 +2148,7 @@ revanche
 revanchekamp
 ride
 rider
+ridning
 rigmand
 rigtig
 ringe
@@ -2150,6 +2193,7 @@ rykker
 rystende
 rytter
 ryttere
+rytteren
 række
 røde
 rødt
@@ -2181,6 +2225,7 @@ scenarierne
 scene
 scenen
 scener
+score
 scorede
 scorende
 scorer
@@ -2276,6 +2321,7 @@ skaber
 skabt
 skade
 skader
+skadet
 skaffe
 skaffede
 skal
@@ -2336,6 +2382,7 @@ skøjteatlet
 skøjteløber
 skøjteløbere
 skøjter
+slagsen
 slalomløbet
 slam
 slap
@@ -2347,6 +2394,7 @@ slip
 slipper
 slog
 slovak
+sloveneren
 slovenske
 slukke
 slukker
@@ -2372,6 +2420,7 @@ smag
 smertestillende
 smidt
 smittede
+smuk
 smule
 smutter
 snart
@@ -2397,6 +2446,7 @@ speedskatere
 speedskateren
 speedway
 spektakulære
+spektakulært
 spil
 spille
 spillede
@@ -2461,6 +2511,7 @@ stensikkert
 step
 stift
 stigninger
+stil
 stille
 stiller
 stilles
@@ -2480,6 +2531,7 @@ stjernetrøjen
 stod
 stolen
 stolt
+stoppe
 stopper
 stoppet
 stor
@@ -2628,6 +2680,7 @@ tennisspiller
 tennisstjerne
 tennistalent
 testosteron
+ti
 tid
 tider
 tidlig
@@ -2738,6 +2791,7 @@ turneringer
 tusindevis
 tv
 tvillingesøster
+tvinge
 tvinger
 tvivl
 tvivlsom
@@ -2794,6 +2848,7 @@ udtaler
 udtog
 udtrykte
 udviklede
+udvisning
 udvist
 udøverne
 uenig
@@ -2828,6 +2883,7 @@ union
 uro
 urokkelige
 urørlige
+ustoppelige
 usynlige
 usædvanlig
 utilfreds
@@ -2880,6 +2936,7 @@ verdensmester
 verdensmesteren
 verdensmesterskab
 verdensmesterskaberne
+verdensmesterskabet
 verdensmestre
 verdensmestrene
 verdensranglisten
@@ -3002,6 +3059,7 @@ ydmyger
 ældre
 ældste
 ændrede
+ændrer
 ændret
 ændringer
 æra
