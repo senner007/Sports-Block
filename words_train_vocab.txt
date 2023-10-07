@@ -235,6 +235,7 @@ banelandsholdet
 banen
 baner
 bange
+bank
 banker
 bantamvægt
 bare
@@ -296,6 +297,7 @@ besejret
 besked
 beskeder
 beskrive
+beskylder
 beskytter
 beslutning
 beslutningen
@@ -388,6 +390,7 @@ bryder
 brænde
 brænder
 brød
+brødrene
 bud
 budskab
 budskaber
@@ -435,6 +438,7 @@ chokerede
 chokeret
 city
 cl
+clinch
 cola
 college
 colombianske
@@ -534,6 +538,7 @@ dollars
 dom
 dominans
 dominansen
+dominerede
 dommen
 dommer
 dommere
@@ -563,6 +568,7 @@ dressurlandshold
 dressurrytter
 dressurrytteren
 drillede
+drilske
 driver
 dronning
 dropper
@@ -709,6 +715,7 @@ februar
 federation
 fejl
 fejlagtigt
+fejlfrit
 fejltrin
 fejringen
 felt
@@ -792,6 +799,7 @@ forbyder
 forbydes
 fordel
 fordi
+fordomme
 foregår
 foreslår
 forfatter
@@ -929,6 +937,7 @@ førstepladsen
 førsteprioritet
 førstevalg
 førte
+g
 gadebarn
 gader
 gak
@@ -947,6 +956,7 @@ genfandt
 genforenes
 genialiteter
 genmæle
+gennem
 genoplev
 gense
 gentage
@@ -1166,6 +1176,7 @@ humør
 hun
 hunde
 hundrede
+hurtig
 hurtigløb
 hurtigst
 hurtigste
@@ -1192,6 +1203,7 @@ hvornår
 hygge
 hylde
 hylden
+hylder
 hyldes
 hyldest
 håb
@@ -1283,6 +1295,7 @@ indtager
 ingen
 intens
 interessante
+interessen
 intern
 international
 internationale
@@ -1315,6 +1328,7 @@ japansk
 japanske
 jeg
 jens
+jer
 jernvilje
 jersey
 jets
@@ -1330,6 +1344,7 @@ jubler
 jublet
 jumbo
 juni
+juniorers
 kaffe
 kalde
 kalder
@@ -1402,6 +1417,7 @@ komme
 kommende
 kommentator
 kommentatorer
+kommenterer
 kommer
 kommet
 kompagni
@@ -1409,6 +1425,7 @@ komplimenter
 kong
 kongeetape
 kongeetapen
+kongen
 konkurrence
 konkurrencen
 konkurrencer
@@ -1430,6 +1447,7 @@ koste
 koster
 krampe
 krampeanfald
+kredit
 kriger
 krise
 krisen
@@ -1509,6 +1527,7 @@ landevejscykling
 landshold
 landsholdet
 landsholdets
+landsholds
 landsholdsfløj
 landsholdsfløjen
 landsholdsmålmand
@@ -1524,6 +1543,7 @@ landsholdstruppen
 landskamp
 landskampsmål
 landsmanden
+landsmænd
 landstræner
 landstræneren
 lang
@@ -1590,6 +1610,7 @@ lov
 lovede
 lover
 lufthavn
+lukke
 lukker
 lukket
 lukketid
@@ -1686,6 +1707,7 @@ medfart
 medicineret
 medier
 medlemslandene
+medvirkende
 meget
 mekanikeren
 meldte
@@ -1705,6 +1727,7 @@ mente
 mere
 mest
 mester
+mesteren
 mesterskab
 mesterskabet
 mestre
@@ -1743,6 +1766,7 @@ misser
 misset
 mission
 mister
+mistet
 mistillid
 mod
 modsat
@@ -2024,7 +2048,9 @@ pokalfinalen
 pokalmester
 pokalturneringen
 polen
+polens
 police
+politi
 politik
 politisag
 politisager
@@ -2166,6 +2192,7 @@ rollen
 romerlys
 roret
 ros
+rose
 rosende
 roser
 rotte
@@ -2282,6 +2309,7 @@ serv
 serverer
 service
 set
+show
 showbiz
 side
 siden
@@ -2346,6 +2374,9 @@ skifter
 skihoppere
 skiller
 skiløber
+skiskytte
+skiskytter
+skisport
 skjul
 sko
 skovlen
@@ -2378,6 +2409,7 @@ skålede
 skæbne
 skæbnekamp
 skærpet
+skød
 skøjteatlet
 skøjteløber
 skøjteløbere
@@ -2489,6 +2521,7 @@ stablen
 stadig
 stadion
 stafethold
+stafetten
 stand
 standarder
 standardvogne
@@ -2502,6 +2535,7 @@ statistikker
 statsborgere
 statsborgerskab
 statsminister
+status
 steder
 stedsans
 stemme
@@ -2536,6 +2570,7 @@ stopper
 stoppet
 stor
 store
+storebror
 storesøster
 storfavorit
 storfavoritterne
@@ -2569,6 +2604,7 @@ stærke
 stærkt
 stævne
 stævnet
+støder
 større
 størst
 største
@@ -2650,6 +2686,7 @@ tackling
 tage
 tager
 taget
+takke
 takkede
 takker
 taknemmelig
@@ -2683,6 +2720,7 @@ testosteron
 ti
 tid
 tider
+tiderne
 tidlig
 tidligere
 tidspunkt
@@ -2730,6 +2768,7 @@ topniveauet
 topopgør
 toppen
 topper
+toppolitikere
 topresultat
 toprival
 topscorer
@@ -2826,6 +2865,7 @@ udebane
 udebanekampe
 uden
 udenfor
+udenrigsministerium
 udesejr
 udfaldet
 udgik
@@ -2890,7 +2930,9 @@ utilfreds
 utilfredse
 utraditionelt
 utrolig
+uundgåelig
 uvaccineret
+uventet
 vaccine
 vaccinere
 vaccineregler
@@ -2914,6 +2956,7 @@ ved
 vej
 vejen
 vejle
+vejrforhold
 vejrforholdene
 vejrtrækning
 vejs
@@ -2925,6 +2968,7 @@ vender
 vendt
 vendte
 venskabet
+vente
 venten
 venter
 verden
