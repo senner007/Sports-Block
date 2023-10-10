@@ -337,6 +337,7 @@ begejstret
 begge
 begik
 begivenheden
+begrundelsen
 begrænset
 begrænsningerne
 begynde
@@ -2468,6 +2469,7 @@ set
 show
 showbiz
 side
+sidegevinst
 siden
 sider
 sidst
@@ -2538,6 +2540,7 @@ skiskytter
 skisport
 skjul
 sko
+skotsk
 skovlen
 skrev
 skrevet
@@ -3043,6 +3046,7 @@ tør
 tørke
 tørner
 tørre
+u
 u17
 uacceptabel
 ubesejrede
@@ -3165,6 +3169,7 @@ vel
 velfortjent
 ven
 vender
+vending
 vendt
 vendte
 venskabet
