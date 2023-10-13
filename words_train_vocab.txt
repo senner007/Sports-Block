@@ -10,6 +10,7 @@
 0
 0
 000
+09
 1
 1
 10
@@ -246,6 +247,7 @@ akkurat
 akrobatisk
 aktion
 al
+alarmerende
 alder
 alderen
 aldersgrænse
@@ -257,6 +259,7 @@ alkoholkontrol
 alle
 allerede
 allerstørste
+alles
 alletiders
 alligevel
 alpine
@@ -310,6 +313,7 @@ ansigt
 anskaffet
 ansvar
 antal
+antallet
 antidoping
 antidopingenhed
 antik
@@ -354,6 +358,7 @@ australieren
 australske
 autisme
 av
+avancement
 avancere
 b
 baby
@@ -438,6 +443,7 @@ bede
 beder
 bedre
 bedrift
+bedriften
 bedring
 bedst
 bedste
@@ -582,6 +588,7 @@ bombe
 bommen
 bonde
 booke
+bor
 bord
 borgmester
 borgmesteren
@@ -691,6 +698,7 @@ chanceløse
 chancen
 chancer
 chargers
+cheerleadere
 cheerleaders
 chef
 chefen
@@ -756,6 +764,7 @@ dages
 daglige
 dal
 damedouble
+damer
 danmark
 danmarks
 danmarksmesteren
@@ -813,6 +822,7 @@ deres
 derfor
 dermed
 derop
+derudad
 det
 detaljer
 dette
@@ -821,6 +831,7 @@ digitalt
 ding
 direkte
 direktør
+direktøren
 direktørstolen
 disciplin
 disciplinærstraf
@@ -1111,6 +1122,7 @@ fifas
 fik
 film
 filosofi
+fin
 finale
 finaledrøm
 finalekamp
@@ -1597,6 +1609,7 @@ halvdelen
 halve
 halveret
 halvleg
+halvmaraton
 halvskidt
 halvt
 halvvejs
@@ -1713,6 +1726,7 @@ holdbarheden
 holde
 holdenes
 holder
+holdes
 holdet
 holdets
 holdkammerat
@@ -1771,6 +1785,7 @@ hviderussisk
 hviderussiske
 hvil
 hviledagene
+hvilede
 hviler
 hvilke
 hvilken
@@ -1839,6 +1854,7 @@ højde
 højdepunkt
 højdepunkter
 højdepunkterne
+højder
 højdespring
 højdespringer
 højdespringere
@@ -1883,6 +1899,7 @@ in
 ind
 indbyrdes
 inde
+indehaveren
 inden
 indendørs
 indenfor
@@ -1930,6 +1947,8 @@ ishockeyherrer
 ishockeyhistorie
 ishockeykarrieren
 ishockeykvinder
+ishockeylandshold
+ishockeylandsholdet
 ishockeylandstræner
 ishockeystjerne
 iskold
@@ -2039,6 +2058,7 @@ kendt
 kendte
 kenyaner
 kenyaneren
+kenyanerne
 ketsjeren
 kiks
 kiksede
@@ -2205,6 +2225,7 @@ kvartfinale
 kvartfinalen
 kvartfinalerne
 kvinde
+kvindedomineret
 kvindefinale
 kvindelandshold
 kvindelandsholdet
@@ -2282,6 +2303,7 @@ landsholdstruppen
 landskamp
 landskampe
 landskampsmål
+landsmand
 landsmanden
 landsmænd
 landstræner
@@ -2310,6 +2332,7 @@ latterliggjort
 lave
 lavede
 laver
+laveste
 lavine
 lavpunkt
 le
@@ -2381,6 +2404,7 @@ los
 lov
 lovede
 lover
+lovpriser
 luften
 lufthavn
 lukke
@@ -2466,6 +2490,7 @@ maj
 major
 majoren
 majorens
+majors
 makedonske
 makkerpar
 maksimumpoint
@@ -2490,6 +2515,7 @@ mans
 manøvre
 marathon
 maraton
+maratondistancen
 maratonløb
 maratonløbet
 marc
@@ -2668,6 +2694,7 @@ målræv
 målscorer
 målstregen
 målsætning
+måltavlen
 målvogter
 målvogteren
 måned
@@ -2754,6 +2781,7 @@ nogle
 nok
 nomineret
 nord
+nordens
 nordirske
 nordiske
 nordjyderne
@@ -2778,6 +2806,7 @@ nyfortolket
 nyfødte
 nyhed
 nykåret
+nylig
 nyt
 nå
 nåde
@@ -2788,6 +2817,7 @@ nægte
 nægtede
 nægter
 nær
+nærheden
 nærmer
 nærmest
 nærmeste
@@ -2880,7 +2910,9 @@ opsat
 opsigt
 opsigtsvækkende
 opskriften
+optakt
 optimalt
+optimistisk
 opvarmningen
 opvisning
 or
@@ -3168,6 +3200,7 @@ religiøse
 ren
 rent
 repræsentere
+repræsenterer
 repræsenteret
 reserver
 respekt
@@ -3256,6 +3289,7 @@ ryger
 ryggen
 rygskade
 rykker
+rykket
 rystende
 rystet
 rytter
@@ -3689,6 +3723,7 @@ spydkaster
 spydkasteren
 spyt
 spået
+spår
 spændende
 spænding
 spændingen
@@ -3714,6 +3749,7 @@ starte
 startede
 starter
 startet
+startskuddet
 stationer
 statistikker
 statsborgere
@@ -3763,6 +3799,7 @@ stjæler
 stod
 stolen
 stolt
+stolte
 stop
 stoppe
 stopper
@@ -3918,6 +3955,7 @@ særligt
 sæson
 sæsonen
 sæsonens
+sæsoner
 sæsonfinalen
 sæsonpremieren
 sæsons
@@ -3941,6 +3979,7 @@ søskendepar
 søstre
 søstrene
 t
+t46
 tabe
 tabellen
 taber
@@ -3953,6 +3992,7 @@ taekwondokæmper
 tage
 tager
 taget
+tak
 takke
 takkede
 takker
@@ -3963,6 +4003,7 @@ tal
 tale
 talent
 talenter
+talenterne
 taler
 talsmand
 talsperson
@@ -4263,6 +4304,9 @@ udskydes
 udskældte
 udsnit
 udspillede
+udspillet
+udspringer
+udspringere
 udstyr
 udstødt
 udsættelser
@@ -4299,6 +4343,7 @@ ukrainsk
 ulidelig
 ultimative
 ulvene
+umenneskelig
 umuligt
 under
 underdel
@@ -4577,6 +4622,7 @@ z
 året
 årets
 årevis
+århundredets
 århusianske
 årig
 årige
@@ -4584,6 +4630,7 @@ z
 års
 årsager
 årsskiftet
+årti
 ægte
 ægteskab
 ældre
@@ -4611,6 +4658,7 @@ z
 øjeblikkeligt
 øjeblikket
 øjet
+øjne
 øjnene
 øjner
 økonomisk

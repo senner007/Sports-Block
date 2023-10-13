@@ -16,6 +16,7 @@ Xer
 økonomisk
 øjner
 øjnene
+øjne
 øjet
 øjeblikket
 øjeblikkeligt
@@ -43,6 +44,7 @@ Xer
 ældre
 ægteskab
 ægte
+årti
 årsskiftet
 årsager
 års
@@ -50,6 +52,7 @@ Xer
 årige
 årig
 århusianske
+århundredets
 årevis
 årets
 året
@@ -328,6 +331,7 @@ underdoggen
 underdel
 under
 umuligt
+umenneskelig
 ulvene
 ultimative
 ulidelig
@@ -364,6 +368,9 @@ udsættes
 udsættelser
 udstødt
 udstyr
+udspringere
+udspringer
+udspillet
 udspillede
 udsnit
 udskældte
@@ -662,6 +669,7 @@ talt
 talsperson
 talsmand
 taler
+talenterne
 talenter
 talent
 tale
@@ -672,6 +680,7 @@ taknemmelig
 takker
 takkede
 takke
+tak
 taget
 tager
 tage
@@ -684,6 +693,7 @@ tabt
 taber
 tabellen
 tabe
+tX
 t
 søstrene
 søstre
@@ -707,6 +717,7 @@ sæsonstart
 sæsons
 sæsonpremieren
 sæsonfinalen
+sæsoner
 sæsonens
 sæsonen
 sæson
@@ -862,6 +873,7 @@ stoppet
 stopper
 stoppe
 stop
+stolte
 stolt
 stolen
 stod
@@ -911,6 +923,7 @@ statsborgerskab
 statsborgere
 statistikker
 stationer
+startskuddet
 startet
 starter
 startede
@@ -936,6 +949,7 @@ spøjst
 spændingen
 spænding
 spændende
+spår
 spået
 spyt
 spydkasteren
@@ -1369,6 +1383,7 @@ ryttere
 rytter
 rystet
 rystende
+rykket
 rykker
 rygskade
 ryggen
@@ -1457,6 +1472,7 @@ respektere
 respekt
 reserver
 repræsenteret
+repræsenterer
 repræsentere
 rent
 ren
@@ -1744,7 +1760,9 @@ ord
 or
 opvisning
 opvarmningen
+optimistisk
 optimalt
+optakt
 opskriften
 opsigtsvækkende
 opsigt
@@ -1837,6 +1855,7 @@ nærvær
 nærmeste
 nærmest
 nærmer
+nærheden
 nær
 nægter
 nægtede
@@ -1847,6 +1866,7 @@ nåede
 nåde
 nå
 nyt
+nylig
 nykåret
 nyhed
 nyfødte
@@ -1871,6 +1891,7 @@ nordjyske
 nordjyderne
 nordiske
 nordirske
+nordens
 nord
 nomineret
 nok
@@ -1957,6 +1978,7 @@ måneden
 måned
 målvogteren
 målvogter
+måltavlen
 målsætning
 målstregen
 målscorer
@@ -2135,6 +2157,7 @@ mareridt
 marc
 maratonløbet
 maratonløb
+maratondistancen
 maraton
 marathon
 manøvre
@@ -2159,6 +2182,7 @@ malm
 maksimumpoint
 makkerpar
 makedonske
+majors
 majorens
 majoren
 major
@@ -2244,6 +2268,7 @@ lukkede
 lukke
 lufthavn
 luften
+lovpriser
 lover
 lovede
 lov
@@ -2315,6 +2340,7 @@ league
 le
 lavpunkt
 lavine
+laveste
 laver
 lavede
 lave
@@ -2343,6 +2369,7 @@ landstrænere
 landstræner
 landsmænd
 landsmanden
+landsmand
 landskampsmål
 landskampe
 landskamp
@@ -2420,6 +2447,7 @@ kvindelandsholdets
 kvindelandsholdet
 kvindelandshold
 kvindefinale
+kvindedomineret
 kvinde
 kvartfinalerne
 kvartfinalen
@@ -2586,6 +2614,7 @@ kikser
 kiksede
 kiks
 ketsjeren
+kenyanerne
 kenyaneren
 kenyaner
 kendte
@@ -2695,6 +2724,8 @@ islandsk
 iskold
 ishockeystjerne
 ishockeylandstræner
+ishockeylandsholdet
+ishockeylandshold
 ishockeykvinder
 ishockeykarrieren
 ishockeyhistorie
@@ -2742,6 +2773,7 @@ inder
 indenfor
 indendørs
 inden
+indehaveren
 inde
 indbyrdes
 ind
@@ -2786,6 +2818,7 @@ højdespringerne
 højdespringere
 højdespringer
 højdespring
+højder
 højdepunkterne
 højdepunkter
 højdepunkt
@@ -2854,6 +2887,7 @@ hvilket
 hvilken
 hvilke
 hviler
+hvilede
 hviledagene
 hvil
 hviderussiske
@@ -2912,6 +2946,7 @@ holdkammeraten
 holdkammerat
 holdets
 holdet
+holdes
 holder
 holdenes
 holde
@@ -3028,6 +3063,7 @@ ham
 halvvejs
 halvt
 halvskidt
+halvmaraton
 halvleg
 halveret
 halve
@@ -3514,6 +3550,7 @@ finaleklar
 finalekamp
 finaledrøm
 finale
+fin
 filosofi
 film
 fik
@@ -3801,6 +3838,7 @@ diskos
 disciplinærstraf
 disciplin
 direktørstolen
+direktøren
 direktør
 direkte
 ding
@@ -3809,6 +3847,7 @@ dig
 dette
 detaljer
 det
+derudad
 derop
 dermed
 derfor
@@ -3866,6 +3905,7 @@ danmarksmesterskab
 danmarksmesteren
 danmarks
 danmark
+damer
 damedouble
 dal
 daglige
@@ -3931,6 +3971,7 @@ chefs
 chefen
 chef
 cheerleaders
+cheerleadere
 chargers
 chancer
 chancen
@@ -4040,6 +4081,7 @@ bort
 borgmesteren
 borgmester
 bord
+bor
 booke
 bonde
 bommen
@@ -4184,6 +4226,7 @@ bedøm
 bedste
 bedst
 bedring
+bedriften
 bedrift
 bedre
 beder
@@ -4268,6 +4311,7 @@ back
 baby
 b
 avancere
+avancement
 av
 autisme
 australske
@@ -4312,6 +4356,7 @@ april
 antik
 antidopingenhed
 antidoping
+antallet
 antal
 ansvar
 anskaffet
@@ -4365,6 +4410,7 @@ alt
 alpine
 alligevel
 alletiders
+alles
 allerstørste
 allerede
 alle
@@ -4376,6 +4422,7 @@ alderspræsidenterne
 aldersgrænse
 alderen
 alder
+alarmerende
 al
 aktion
 akrobatisk
