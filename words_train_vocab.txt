@@ -2453,6 +2453,7 @@ mistet
 mistillid
 mit
 mixdouble
+mma
 mod
 modbevise
 modboksestjernen
@@ -2569,6 +2570,7 @@ nattens
 navn
 navne
 navnet
+nba
 ned
 nedbrud
 neddrosles
@@ -2591,6 +2593,7 @@ nervepirrende
 net
 nets
 neutrale
+nfl
 nhl
 ni
 niende
@@ -4162,8 +4165,10 @@ udviklingen
 udvisning
 udvist
 udøverne
+uefa
 uenig
 uenige
+ufc
 uforglemmelig
 uge
 ugen
@@ -4212,6 +4217,7 @@ union
 uro
 urokkelige
 urørlige
+us
 usikkert
 uskøn
 ustoppelige
