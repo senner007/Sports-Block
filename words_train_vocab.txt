@@ -393,6 +393,7 @@ bokset
 bokseverdenen
 boksning
 bold
+boldbrætsdiscipliner
 bolde
 bolden
 boldklub
@@ -527,6 +528,7 @@ college
 comeback
 comebackkamp
 compound
+coronasmitte
 coronatest
 coronatilfælde
 coronavaccineres
@@ -878,6 +880,7 @@ farlige
 farmand
 fart
 farten
+fartfænomenet
 farvel
 farver
 fase
@@ -1114,6 +1117,7 @@ fred
 fredag
 fredagens
 freestyle
+freestylekonkurrencen
 frem
 fremgangen
 fremmede
@@ -1369,6 +1373,7 @@ gyldent
 gyldne
 gymnast
 gymnastik
+gymnastikfænomen
 gymnastikkens
 gymnastikscene
 gyngede
@@ -1608,6 +1613,7 @@ håndboldlandsholdets
 håndboldlegenden
 håndboldliga
 håndboldligaen
+håndboldrække
 håndboldslutrunde
 håndboldspiller
 håndboldstjerne
@@ -1660,6 +1666,7 @@ id
 idiot
 idol
 idrætsgymnastik
+idrætspræsident
 idrætter
 idømt
 if
@@ -1729,6 +1736,7 @@ ishockeykvinder
 ishockeylandshold
 ishockeylandsholdet
 ishockeylandstræner
+ishockeyliga
 ishockeystjerne
 iskold
 isolation
@@ -1782,6 +1790,7 @@ kampene
 kampens
 kampprogrammet
 kampsport
+kampsportsorganisationen
 kan
 kanaler
 kandidat
@@ -1797,6 +1806,7 @@ karantæne
 karantænedom
 karantæner
 karate
+karatekæmper
 karl
 karriere
 karrieren
@@ -2054,12 +2064,14 @@ landsholdsperiode
 landsholdsplads
 landsholdsprofil
 landsholdsprofilen
+landsholdsprofiler
 landsholdsspiller
 landsholdsspilleren
 landsholdsspillerne
 landsholdssvømmere
 landsholdstrup
 landsholdstruppen
+landsholdsudtagelse
 landskamp
 landskampe
 landskampsmål
@@ -2146,6 +2158,7 @@ liter
 liv
 live
 livebloggen
+livestreamede
 livet
 livløs
 livreddende
@@ -2344,6 +2357,7 @@ mesteren
 mesterskab
 mesterskaber
 mesterskabet
+mestertræner
 mestre
 mestrene
 metal
@@ -2363,6 +2377,7 @@ milliarder
 millimeter
 million
 millioner
+millionhandel
 min
 minder
 mindeværdig
@@ -2413,7 +2428,9 @@ morgen
 mors
 moser
 motiverer
+motorproblemer
 motorsport
+motorsportunion
 mulig
 mulige
 mulighed
@@ -2736,6 +2753,7 @@ papiret
 par
 paraatlet
 paradekørsel
+paradressurrytter
 paralympisk
 paralympiske
 parat
@@ -2869,6 +2887,7 @@ prøver
 prøvet
 psykologhjælp
 publikum
+publikumvenligt
 punkt
 punktum
 puste
@@ -3104,6 +3123,7 @@ sejlsport
 sejlsporten
 sejlsportens
 sejlsports
+sejlsportspræsident
 sejr
 sejre
 sejrede
@@ -3216,6 +3236,7 @@ skade
 skader
 skaderne
 skadeshelvede
+skadesmareridt
 skadet
 skaffe
 skaffede
@@ -3224,6 +3245,8 @@ skakgeniet
 skakspiller
 skakspillers
 skakstjerne
+skakstjernen
+skakstjerner
 skaktalent
 skal
 skalaen
@@ -3330,6 +3353,7 @@ slukker
 slukket
 slut
 slutfasen
+slutminutterne
 slutrunde
 slutrundebillet
 slutrunden
@@ -3434,6 +3458,7 @@ sportsdirektør
 sportsdomstols
 sportsgrene
 sportsgrenens
+sportspsykolog
 sportsstjerner
 sprang
 spring
@@ -3547,13 +3572,16 @@ storholdet
 storkamp
 storklub
 storklubben
+storkonkurrenten
 stormagt
 stormagten
 stormer
 storsejr
 storsejren
 storspillede
+storspillende
 storspiller
+storspillet
 stort
 stortalent
 straf
@@ -3603,6 +3631,7 @@ støtte
 støttet
 støvlerne
 succes
+succesbølge
 succesduo
 succestræner
 sulten
@@ -3741,6 +3770,7 @@ tasterne
 tavse
 tavsheden
 team
+teamkollega
 teams
 teenagefænomenet
 teenager
@@ -3884,6 +3914,7 @@ triumf
 triumferede
 triumferer
 triumferne
+triumfmarch
 trives
 tro
 trods
@@ -3933,6 +3964,7 @@ turnering
 turneringen
 turneringens
 turneringer
+turneringschef
 turneringssejr
 tusindevis
 tv
@@ -4219,6 +4251,7 @@ vinde
 vinden
 vindende
 vinder
+vinderbåden
 vinderen
 vinderens
 vinderkurs
