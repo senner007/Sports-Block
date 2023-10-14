@@ -24,6 +24,7 @@ advaret
 af
 afblæst
 afbrudt
+afbrydelse
 afbryder
 afbrød
 afbud
@@ -58,12 +59,14 @@ afslutning
 afslutningen
 afsløret
 afsone
+afstand
 afsted
 afstemning
 afsæt
 aften
 aftenens
 aftener
+aftens
 aftes
 aftryk
 afvikle
@@ -169,6 +172,7 @@ arsenal
 arsenals
 artiklen
 arvefjenderne
+asfalt
 asiatisk
 asien
 assist
@@ -204,6 +208,7 @@ badmintonforbund
 badmintonspiller
 badmintonspilleren
 badmintonstjerne
+badmintonstjernen
 badmintonstjerner
 badmintonturnering
 baduljen
@@ -294,6 +299,7 @@ begge
 begik
 begivenheden
 begrundelsen
+begræder
 begrænset
 begrænsningerne
 begynde
@@ -564,6 +570,7 @@ chokerende
 chokeret
 choknederlag
 cifrene
+cirka
 citater
 city
 cl
@@ -627,6 +634,7 @@ danner
 dansede
 dario
 darling
+dato
 datter
 david
 de
@@ -743,6 +751,7 @@ drillede
 driller
 drilske
 driver
+drone
 dronning
 droppe
 dropper
@@ -803,6 +812,7 @@ døden
 dødstrusler
 døende
 dømme
+døre
 døren
 e
 ea
@@ -962,6 +972,7 @@ favoritter
 favoritterne
 favoritværdigheden
 februar
+fed
 federation
 fejl
 fejlagtigt
@@ -1146,6 +1157,7 @@ formåede
 formået
 fornem
 fornemme
+fornøjelse
 forrest
 forrygende
 forrykt
@@ -1261,6 +1273,7 @@ fyrer
 fyret
 fyring
 fyrtårn
+fyrværkeri
 fysioterapeut
 fysisk
 fysiske
@@ -1356,8 +1369,10 @@ gennem
 gennembrud
 genoplev
 genoptage
+genoptaget
 gense
 gentage
+gentagende
 gentog
 genvandt
 genvinde
@@ -1505,6 +1520,7 @@ hagles
 hallen
 halsede
 halsen
+halv
 halvandet
 halvdelen
 halve
@@ -1935,6 +1951,7 @@ kampsportsorganisationen
 kan
 kanaler
 kandidat
+kanonform
 kanter
 kaos
 kaotisk
@@ -1987,8 +2004,10 @@ kilometer
 kilometerløb
 kilometers
 kim
+klager
 klandrer
 klar
+klare
 klarede
 klarer
 klart
@@ -2311,6 +2330,8 @@ lige
 ligegyldige
 ligetil
 ligger
+lighter
+lignede
 lignende
 lille
 lillebror
@@ -2384,6 +2405,7 @@ læger
 lægernes
 lægge
 lægger
+lægterne
 lækkerbisken
 lækre
 læne
@@ -2553,6 +2575,7 @@ midt
 midtbane
 midtbanespiller
 midtjyderne
+midtjysk
 midtjyske
 midtvejs
 mig
@@ -2574,6 +2597,7 @@ minimere
 minut
 minuts
 minutter
+minutters
 mirakuløs
 mirakuløst
 misbrug
@@ -2846,6 +2870,7 @@ op
 opad
 opbakning
 opdateres
+opdatering
 opdelt
 open
 opera
@@ -3106,6 +3131,7 @@ projekt
 prominent
 promotor
 propagandamaskine
+protest
 protester
 prygler
 præ
@@ -3498,6 +3524,7 @@ skader
 skaderne
 skadeshelvede
 skadesmareridt
+skadespause
 skadet
 skaffe
 skaffede
@@ -3530,6 +3557,7 @@ skarpt
 skateboarderen
 skattemyndigheder
 skattesag
+skavanker
 ske
 skeer
 skeleton
@@ -3896,6 +3924,7 @@ stryg
 strå
 strålede
 studenterkørsel
+stund
 stykke
 stykker
 styr
@@ -3940,7 +3969,9 @@ super
 superliga
 superligaen
 superligaens
+superligakamp
 superligakampe
+superligakampen
 superligamandskabet
 supermennesket
 superserv
@@ -4107,6 +4138,7 @@ tenniskampen
 tennisreporter
 tennisspiller
 tennisstjerne
+tennisstjerner
 tennistalent
 tennisturnering
 teses
@@ -4146,8 +4178,10 @@ tilkendt
 tillader
 tilliden
 tillægstiden
+tilskuer
 tilskuere
 tilskuerne
+tilskuerpladserne
 tilsted
 tilstedeværelse
 tiltag
@@ -4159,6 +4193,7 @@ timen
 timer
 timerekord
 timerne
+times
 ting
 tingene
 tirsdag
@@ -4204,6 +4239,7 @@ topscorerens
 topscorerliste
 topspillere
 topsprinter
+torden
 torn
 torsdag
 torsdagens
@@ -4280,6 +4316,7 @@ træt
 trøje
 trøjen
 tumult
+tung
 tungt
 tur
 turnering
@@ -4296,6 +4333,7 @@ tvinge
 tvinger
 tvivl
 tvivlsom
+tvivlsomme
 tvivlsomt
 tvunget
 tværs
@@ -4328,6 +4366,7 @@ uanede
 uanset
 ubesejrede
 ubesejret
+ubestemt
 ubesværet
 ud
 udbredt
@@ -4425,6 +4464,7 @@ ulidelig
 ultimative
 ulvene
 umenneskelig
+umiddelbart
 umuligt
 under
 underdel
@@ -4454,6 +4494,7 @@ unikt
 union
 uro
 urokkelige
+uroligheder
 urørlige
 us
 usikkert
@@ -4640,6 +4681,7 @@ vurder
 vurderer
 våben
 våbenlovgivning
+våde
 vådt
 væbner
 væddeløb
