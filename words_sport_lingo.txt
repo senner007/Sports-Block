@@ -37,8 +37,8 @@ svindal
 tiril
 brown
 bayerns
-galarraga
 caroline
+galarraga
 helena
 xavi
 ng
@@ -47,8 +47,8 @@ vakhid
 shiffrin
 orleans
 hurst
-ludvig
 frederikke
+ludvig
 vinjebo
 louise
 højlund
@@ -66,6 +66,7 @@ hobro
 sebasti
 malaika
 werder
+enimponerendesæsonstart
 emilie
 dbu
 vandtkvartfinalenved
@@ -91,9 +92,9 @@ lindsey
 ´
 antonsen
 woodward
-simone
-kevin
 spurs
+kevin
+simone
 wayne
 aftenkampe
 keeeder
@@ -154,8 +155,8 @@ tumbling
 around
 germains
 henderson
-dione
 cenholt
+dione
 bengals
 michelsen
 china
@@ -177,6 +178,7 @@ nora
 blue
 mcmorris
 favoritminde
+bosnien
 vismas
 gemke
 skrinlagte
@@ -235,10 +237,12 @@ mihkels
 miami
 barcelonas
 elming
+revanchetørstige
 luton
 niemann
 osasuna
 lægestab
+smertedæmpende
 helsinki
 brittney
 jasmine
@@ -351,8 +355,8 @@ kristoffersen
 szeged
 firebakketurneringen
 kasakh
-røiseland
 suter
+røiseland
 sparta
 jellingstenen
 åberg
@@ -395,8 +399,8 @@ michael
 nicki
 homme
 barcelona
-pernille
 carlsen
+pernille
 valore
 dvsc
 amane
@@ -420,8 +424,8 @@ hrnic
 padborg
 reinhard
 yi
-wembley
 jos
+wembley
 midterholdet
 manchester
 liverpool
@@ -444,8 +448,8 @@ holdmål
 bora
 kaepernick
 olaf
-klopp
 lissabon
+klopp
 poomsae
 packers
 anders
@@ -469,8 +473,8 @@ leadoutman
 vk
 svartedal
 powerman
-hanforlodbanen
 indlende
+hanforlodbanen
 sinner
 bay
 hørsholm
@@ -481,8 +485,8 @@ alberte
 rajbek
 magdeburg
 smilebåndet
-slers
 play
+slers
 sidigas
 driblestærke
 irina
@@ -493,6 +497,7 @@ wozniacki
 slavelignende
 coco
 panetsidou
+gravel
 burgaard
 aalborg
 braut
@@ -511,8 +516,8 @@ uefas
 haag
 englands
 mareridtsdebut
-noah
 zhu
+noah
 roger
 klubløs
 micky
@@ -596,9 +601,9 @@ ioc
 mr
 tauson
 vanvidskast
-mihambo
-skulderbeskytter
 denver
+skulderbeskytter
+mihambo
 purdy
 draften
 sch
@@ -632,8 +637,8 @@ bent
 atletkomit
 coronarestriktioner
 gath
-pelister
 lundholdt
+pelister
 carl
 casper
 iivo
@@ -666,6 +671,7 @@ hazard
 nørklit
 ottesen
 kolstad
+edin
 bbc
 koki
 mercedes
@@ -687,6 +693,7 @@ mbapp
 gretchen
 rk
 wgc
+smyth
 mikkelsen
 ,
 burrow
@@ -702,9 +709,9 @@ karstoft
 rory
 poulidor
 fia
-nadal
 guldbæk
 surprise
+nadal
 aryna
 hamilton
 tel
@@ -718,6 +725,7 @@ forpara
 forkortedes
 kosovo
 anastasia
+thys
 bietigheim
 frederik
 marino
@@ -737,13 +745,14 @@ molano
 jelved
 norwich
 kappel
+revanchelyst
 dideriksen
 kristensen
 recurve
 rubiales
 voel
-bådklasser
 peyton
+bådklasser
 friis
 formsvage
 bears
@@ -791,6 +800,7 @@ ritter
 reistad
 rødovre
 ridiculous
+nordirlands
 movistar
 sara
 mctominay
@@ -894,6 +904,7 @@ hjerteklub
 spides
 preud
 wales
+hercegovinas
 vasiliki
 krakow
 hertsdahl
@@ -935,6 +946,7 @@ bissouma
 østergaards
 edi
 kiels
+kvalifikationsgruppe
 atp
 fulham
 milan
@@ -952,6 +964,7 @@ lacota
 olivier
 detlegendariskeboston
 kronjylland
+bowlinglandshold
 leon
 milans
 bellingham
@@ -965,8 +978,8 @@ kasahkstan
 syvmåls
 geno
 gauff
-beckmanns
 saint
+beckmanns
 guangxi
 skiskydningsforbund
 golfhelt
@@ -996,6 +1009,7 @@ wiggins
 dawson
 dalby
 tero
+nordirland
 sofie
 kimmich
 collegeophold
@@ -1008,6 +1022,7 @@ para
 tcr
 scaglione
 club
+eko
 bundesliga
 lionett
 celtics
@@ -1049,8 +1064,8 @@ emil
 dopinglisten
 fcn
 espana
-bernie
 kaja
+bernie
 atsuspendereden
 serena
 lillesø
@@ -1069,8 +1084,8 @@ muchova
 andrei
 erling
 comebacksejr
-gyldenløve
 mørkøv
+gyldenløve
 chubb
 gerben
 sutton
@@ -1114,11 +1129,11 @@ sørensen
 neestrup
 woods
 copenhagen
-svenborg
 carlos
+svenborg
 alizee
-superfusionen
 olave
+superfusionen
 wesstr
 ganna
 unahotels
@@ -1203,8 +1218,8 @@ blume
 tilem
 hansgrohe
 philadelphia
-billardklæde
 wyndham
+billardklæde
 matt
 iga
 jacobsen
@@ -1223,6 +1238,7 @@ lewandowski
 mathieu
 feyenoord
 ct
+freakkamp
 jeff
 rindom
 blomsterberg
@@ -1266,8 +1282,8 @@ vinokourov
 wolfpack
 aneke
 christinna
-nchen
 slott
+nchen
 nathan
 holbæk
 storebæltsbroen
@@ -1341,8 +1357,8 @@ ikasts
 kaden
 mikael
 davis
-murray
 atleteri
+murray
 marit
 cro
 fernando
@@ -1404,8 +1420,8 @@ grigor
 brian
 thingnes
 whyte
-felipe
 skaarup
+felipe
 bystrup
 huez
 magnussens
@@ -1470,8 +1486,8 @@ roony
 sprintløb
 christian
 tdt
-shankule
 ballerup
+shankule
 andresen
 hald
 brøgger

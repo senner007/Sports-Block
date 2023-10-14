@@ -24,6 +24,7 @@ advaret
 af
 afblæst
 afbrudt
+afbryder
 afbrød
 afbud
 afbuddet
@@ -155,6 +156,7 @@ april
 arbejde
 arbejdede
 arbejdsgiver
+arbejdstøjet
 arena
 arenaen
 arkivet
@@ -210,6 +212,7 @@ bagagen
 bagende
 baggrunden
 baghjul
+bagklogskabens
 baglokalet
 bagover
 bagslag
@@ -406,6 +409,7 @@ blokader
 blokerer
 blot
 blæser
+blæsevejr
 blæst
 bob
 bobslædekørere
@@ -525,6 +529,7 @@ bøde
 bøder
 bøje
 bølge
+bølgen
 bør
 børge
 børn
@@ -1024,6 +1029,7 @@ flip
 flot
 flotte
 flotteste
+flugter
 flytter
 flyvende
 flyver
@@ -1162,10 +1168,12 @@ forsvaret
 forsøg
 forsøge
 forsøger
+forsøgte
 fortalt
 fortid
 fortjente
 fortroligt
+fortryder
 fortsat
 fortsatte
 fortsætte
@@ -1176,6 +1184,7 @@ fortælling
 forud
 forudser
 forum
+forvejen
 forvente
 forventer
 forventet
@@ -1262,6 +1271,7 @@ fægtemedalje
 fægter
 fægtesport
 fægtning
+fælles
 fængsel
 fængselsdom
 fængslet
@@ -1308,6 +1318,7 @@ gadebarn
 gaden
 gader
 gak
+gal
 galt
 gamache
 games
@@ -1482,6 +1493,7 @@ gå
 gået
 går
 gæk
+gæster
 gør
 gøre
 gøremål
@@ -1750,6 +1762,7 @@ hærgen
 hærværk
 hæsblæsende
 hævder
+hævntørst
 høj
 højde
 højdepunkt
@@ -1951,6 +1964,7 @@ katastrofal
 katastrofe
 ked
 kedelig
+kedelige
 kedeligt
 keeper
 keepers
@@ -2114,6 +2128,7 @@ kulturministeren
 kulturministre
 kun
 kunne
+kunnet
 kunstskøjteløb
 kunstskøjteløber
 kunstskøjteløberen
@@ -2327,6 +2342,7 @@ lokale
 lokke
 lokkes
 los
+lotto
 lov
 lovede
 lover
@@ -2476,6 +2492,7 @@ medaljefavorit
 medaljefavoritter
 medaljefest
 medaljehåb
+medaljehøst
 medaljehøster
 medaljepodiet
 medaljer
@@ -2487,6 +2504,7 @@ meddelt
 meddelte
 medfart
 medhold
+medicin
 medicineret
 medier
 medlemslandene
@@ -2495,6 +2513,7 @@ medvirkende
 meget
 mekanikeren
 melder
+melding
 meldt
 meldte
 mellem
@@ -2512,6 +2531,7 @@ mens
 mental
 mentale
 mente
+menuen
 mere
 mest
 meste
@@ -2534,6 +2554,7 @@ midtbane
 midtbanespiller
 midtjyderne
 midtjyske
+midtvejs
 mig
 mildest
 milliarder
@@ -2678,6 +2699,7 @@ naiv
 nakken
 nakkeskade
 nappede
+napper
 nar
 narkosmugling
 nat
@@ -2747,6 +2769,7 @@ nuværende
 ny
 nyd
 nyder
+nydes
 nye
 nyere
 nyfortolket
@@ -2779,6 +2802,7 @@ nævnt
 nødt
 nødvendige
 nøgen
+nøglekamp
 nøglen
 nøgleordet
 nøgler
@@ -2819,7 +2843,9 @@ ondt
 onsdag
 onsdagens
 op
+opad
 opbakning
+opdateres
 opdelt
 open
 opera
@@ -2886,6 +2912,7 @@ os
 osten
 otte
 ottende
+ottendedelsfinale
 ottendedelsfinalen
 oven
 ovenpå
@@ -2978,6 +3005,7 @@ personlighedstest
 petter
 piger
 pille
+piller
 pinden
 pinligt
 pisten
@@ -3058,6 +3086,7 @@ prioriterede
 prioriteter
 pris
 prisen
+prisgivet
 privat
 privatlektion
 problem
@@ -3070,6 +3099,7 @@ profferne
 profil
 profilen
 profiler
+prognoser
 program
 programmet
 projekt
@@ -3118,6 +3148,7 @@ racerkører
 racerkørere
 radial
 radioen
+rammer
 rammerne
 rammes
 rams
@@ -3225,6 +3256,7 @@ rivalerne
 rivalopgør
 rivalopgøret
 riven
+ro
 rodet
 roede
 roen
@@ -3262,6 +3294,7 @@ rutinemæssig
 rutinerede
 rutineret
 rutsjebanetur
+ryg
 ryger
 ryggen
 rygskade
@@ -3293,6 +3326,7 @@ sager
 sagt
 sagtens
 saksespark
+sakset
 samarbejde
 samarbejdet
 samlede
@@ -3399,6 +3433,7 @@ seriøst
 serv
 serverer
 service
+ses
 set
 seværdig
 sg
@@ -3658,6 +3693,7 @@ sove
 sovemedicin
 sover
 spanier
+spanieren
 spanierne
 sparkede
 sparket
@@ -3666,6 +3702,7 @@ speedskatere
 speedskateren
 speedway
 speedwaykører
+spektakulær
 spektakulære
 spektakulært
 spekulere
@@ -3914,6 +3951,7 @@ supertalent
 supervåben
 supplerer
 sur
+sure
 surrealistisk
 suspenderer
 suspenderet
@@ -3984,6 +4022,7 @@ sæsonstart
 sæt
 sætte
 sætter
+søger
 søgte
 sølv
 sølvet
@@ -4706,6 +4745,7 @@ z
 øjeblikkelig
 øjeblikkeligt
 øjeblikket
+øjenåbner
 øjet
 øjne
 øjnene
