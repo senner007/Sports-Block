@@ -370,6 +370,7 @@ dommerfejl
 double
 drama
 dramatisk
+dreng
 dressur
 dressurlandshold
 dressurrytter
@@ -502,6 +503,7 @@ fantastisk
 far
 fare
 farvel
+farverige
 fast
 faste
 favorit
@@ -571,6 +573,7 @@ fokuserer
 for
 foran
 forbandelse
+forbandelsen
 forbedrede
 forbedrer
 forberede
@@ -856,6 +859,7 @@ held
 hele
 helle
 heller
+helligkilde
 helt
 helten
 helterolle
@@ -1130,6 +1134,7 @@ knokler
 knusende
 knuser
 knust
+knægt
 knækker
 kold
 koldingenserne
@@ -1428,6 +1433,7 @@ mesteren
 mesterskab
 mesterskaber
 mesterskabet
+mesterstykke
 mestre
 mestrene
 metal
@@ -1457,6 +1463,7 @@ misbruger
 missede
 misser
 misset
+mistede
 mister
 mit
 mod
@@ -1525,6 +1532,7 @@ nat
 nation
 nations
 natten
+navn
 ned
 neddrosles
 nede
@@ -1599,6 +1607,7 @@ omgang
 omgange
 omkuld
 omspil
+omspillet
 omvej
 ondt
 onsdag
@@ -1643,6 +1652,7 @@ overdådig
 overfald
 overfor
 overgav
+overgik
 overgå
 overgået
 overhalede
@@ -2073,6 +2083,7 @@ snowboard
 snowboarder
 snowboardstjerne
 snublende
+snuppe
 snupper
 snyder
 snydt
@@ -2536,6 +2547,7 @@ ungdommen
 ungdoms
 unge
 unik
+unikke
 unikt
 union
 urokkelige
@@ -2592,6 +2604,7 @@ verdensmesterskaberne
 verdensmesterskabet
 verdensmestre
 verdensmestrene
+verdensranglisten
 verdensrekord
 verdensrekorden
 verdensrekorder
