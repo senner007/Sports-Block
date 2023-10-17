@@ -47,7 +47,7 @@ def remove_danske_navne(words, danske_navne):
 def remove_danske_fornavne(words, danske_fornavne):
     words_minus_danske_navne = []
     for w in words:
-        result = any(re.compile(fr"{item}s?\b").search(w) for item in danske_fornavne)
+        result = any(re.compile(fr"^{item}s?\b").search(w) for item in danske_fornavne) # TODO : test me!
         if result == False:
             words_minus_danske_navne.append(w)
     
@@ -64,6 +64,15 @@ def remove_non_dict_words(words, dict):
             words_not_in_dict.append(w)
      
     return words_in_dict, words_not_in_dict
+
+def remove_stopwords(words):
+    words_minus_danske_navne = []
+    for w in words: # TODO : test me!
+        pattern = r'^(?:et|en|den|dens|denne)\b'  # https://regex101.com/r/W9UHRq/1
+        if not re.search(pattern, w, re.IGNORECASE):
+            words_minus_danske_navne.append(w)
+    
+    return list(set(words_minus_danske_navne))
 
 def add_non_alpha_numeric(words, non_alpha):
     ws = words

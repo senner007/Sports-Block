@@ -66,7 +66,7 @@ def replace_weekday(weekdays):
         def replace_weekday(word):
             new_str = word
             for sign in weekdays:
-                r = "\\b" + sign + "\\w*"
+                r = "\\b" + sign + "(?:s|en|e)?\\b"  # https://regex101.com/r/t7KC9v/1
                 new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="x_weekday")
             return new_str
         return replace_weekday
