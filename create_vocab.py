@@ -29,7 +29,7 @@ def remove_duplicates(words):
 def remove_nationalities(words, nationalities):
     words_minus_nationalities = []
     for w in words:
-        result = any(w.startswith(item.lower()) for item in nationalities)
+        result = any(w.startswith(item) for item in nationalities)
         if result == False:
             words_minus_nationalities.append(w)
     
@@ -38,7 +38,16 @@ def remove_nationalities(words, nationalities):
 def remove_danske_navne(words, danske_navne):
     words_minus_danske_navne = []
     for w in words:
-        result = any(w.startswith(item.lower()) for item in danske_navne)
+        result = any(w.startswith(item) for item in danske_navne)
+        if result == False:
+            words_minus_danske_navne.append(w)
+    
+    return list(set(words_minus_danske_navne))
+
+def remove_danske_fornavne(words, danske_fornavne):
+    words_minus_danske_navne = []
+    for w in words:
+        result = any(re.compile(fr"{item}s?\b").search(w) for item in danske_fornavne)
         if result == False:
             words_minus_danske_navne.append(w)
     

@@ -50,10 +50,16 @@ vectorization_tests = {
     "Fodbold tour-de-france-pokalen" : ['fodbold', 'x_tournament', 'pokalen'],
     "Fodbold Tour de-france pokalen" : ['fodbold', 'x_tournament', 'pokalen'],
     "Danmark" : ['x_land'],
-    "albanien" : ['x_land']
+    "albanien" : ['x_land'],
+    "uefa Uefa UEFA uefas Uefas" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
+    "majoren Majoren Majorens majorens" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
+    "pga PGA pga-turneringerne pga turneringens PGA-turneringen pga-turneringer turnering turneringer" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament']
+    
+
+
 }
 
-def text_vectorization():
+def test_vectorization():
     for v in vectorization_tests:
         actual = vect_layer_2_text(vectorized_layer([v]), vect_vocab)
         expected = vectorization_tests[v]

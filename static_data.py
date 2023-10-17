@@ -32,6 +32,7 @@ tournaments = {
   "lombardiet rundt" : "lombardietrundt",
   "shanghai open" : "shanghaiopen",
   "pga tour" : "pgatour",
+  "pga" : "pgatour",
   "european Games" : "europeangames",
   "lpga tour" : "lpga",
   "european tour" : "europeantour",
@@ -49,7 +50,13 @@ tournaments = {
   "fed cup" : "fedcup",
   "euro cup": "eurocup",
   "stanley cup" : "stanleycup" ,
-  "super cup" : "supercup"
+  "super cup" : "supercup",
+  "denmark open" : "denmarkopen",
+  "uefa" : "uefa",
+  "mls" : "mls",
+  "bundesliga" : "bundesliga",
+  "majoren" : "majoren",
+  "french open":  "frenchopen"
 }
 
 
@@ -60,7 +67,19 @@ weekdays = [
     "torsdag",
     "fredag",
     "lørdag",
-    "søndag"
+    "søndag",
+    "januar",
+    "februar",
+    "marts",
+    "april",
+    "maj",
+    "juni",
+    "juli",
+    "august",
+    "september",
+    "oktober",
+    "november",
+    "december"
 ]
 
 word_generalization = [ "xx", "x_land", "x_tournament", "x_nationality", "x_weekday"]

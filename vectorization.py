@@ -45,7 +45,7 @@ def replace_tournament(tournaments):
 
         new_str = word
         for sign in tournaments:
-            r = "\\b" + sign + "\\w*(?:(?:(\\sturnering)|-turnering)\\w*)?" + "\\b"
+            r = "\\b(?:" + sign + "|turnering)\\w*(?:(?:(\\sturnering)|-turnering)\\w*)?" + "\\b" #https://regex101.com/r/5qk5nk/1
 
             new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="x_tournament")
 
