@@ -29,7 +29,11 @@ def split_specials(word):
     return new_str
 
 def replace_digits(word):
-    return tf.strings.regex_replace(word, pattern=r'\d+', rewrite=r'xx')
+
+    new_str = word
+    new_str = tf.strings.regex_replace(new_str, pattern=r'(?:18|19|20)\d{2}', rewrite=r'x_year')
+    new_str = tf.strings.regex_replace(new_str, pattern=r'\d+', rewrite=r'xx', replace_global=True)
+    return new_str
 
 
 def replace_countries(countries):

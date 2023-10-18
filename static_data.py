@@ -93,6 +93,6 @@ weekdays = [
 
 # TODO : split til  weekdays of months
 
-word_generalization = [ "xx", "x_land", "x_tournament", "x_nationality", "x_weekday", "x_finale"]
+word_generalization = [ "xx", "x_land", "x_tournament", "x_nationality", "x_weekday", "x_finale", "x_year"]
 
 non_alpha = [":" , ",", "'", ".", "?", "!", '"']

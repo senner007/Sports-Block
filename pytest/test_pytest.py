@@ -54,8 +54,8 @@ vectorization_tests = {
     "uefa Uefa UEFA uefas Uefas" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
     "majoren Majoren Majorens majorens" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
     "pga PGA pga-turneringerne pga turneringens PGA-turneringen pga-turneringer turnering turneringer" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
-    "Formel-1-grand prixet grandprixet formel-1-grandprixet"  : ['formel', 'xx', 'x_tournament', 'x_tournament', 'formel', 'xx', 'x_tournament']
-
+    "Formel-1-grand prixet grandprixet formel-1-grandprixet"  : ['formel', 'xx', 'x_tournament', 'x_tournament', 'formel', 'xx', 'x_tournament'],
+    "2 fodbold 1938 fodbold 5 fodbold 2020": ['xx', 'fodbold','x_year', 'fodbold', 'xx', 'fodbold', 'x_year']
 
 }
 
