@@ -55,12 +55,14 @@ tournaments = {
   "uefa" : "uefa",
   "mls" : "mls",
   "bundesliga" : "bundesliga",
-  "majoren" : "majoren",
+  "major league" : "majorleague",
+  "major" : "major",
   "french open":  "frenchopen",
   "champions cup" : "championscup",
   "pokalturnering" : "pokalturnering",
   "turnering": "turnering",
-  "post danmark rundt": "postdanmarkrundt"
+  "post danmark rundt": "postdanmarkrundt",
+  "nhl" : "nhl"
 }
 
 
