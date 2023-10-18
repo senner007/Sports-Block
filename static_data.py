@@ -15,7 +15,8 @@ tournaments = {
   "nba" :"nba",
   "vuelta a españa" : "vuelta",
   "atp 1000-turneringen" : "ATP",
-  "formel 1-grand prix": "Formel1GrandPrix",
+  "grandprix" : "grandprix",
+  "grand prix" : "grandprix",
   "davis cup" : "daviscup",
   "ufc": "ufc",
   "mma" : "mma",
@@ -62,7 +63,9 @@ tournaments = {
   "pokalturnering" : "pokalturnering",
   "turnering": "turnering",
   "post danmark rundt": "postdanmarkrundt",
-  "nhl" : "nhl"
+  "nhl" : "nhl",
+  "powerman" : "powerman",
+  "australian open" : "australienopen"
 }
 
 

@@ -20,7 +20,7 @@ from static_data import word_generalization
 
 countries = csv_to_list('countries.csv')
 
-words_train_vocab = ["fodbold", "pokalen", "-"]
+words_train_vocab = ["formel", "fodbold", "pokalen", "-"]
 
 arrs = [
     to_lower, 
@@ -53,8 +53,8 @@ vectorization_tests = {
     "albanien" : ['x_land'],
     "uefa Uefa UEFA uefas Uefas" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
     "majoren Majoren Majorens majorens" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
-    "pga PGA pga-turneringerne pga turneringens PGA-turneringen pga-turneringer turnering turneringer" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament']
-    
+    "pga PGA pga-turneringerne pga turneringens PGA-turneringen pga-turneringer turnering turneringer" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
+    "Formel-1-grand prixet grandprixet formel-1-grandprixet"  : ['formel', 'xx', 'x_tournament', 'x_tournament', 'formel', 'xx', 'x_tournament']
 
 
 }
