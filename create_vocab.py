@@ -68,7 +68,7 @@ def remove_non_dict_words(words, dict):
 def remove_stopwords(words):
     words_minus_danske_navne = []
     for w in words: # TODO : test me!
-        pattern = r'^(?:et|en|den|dens|denne)\b'  # https://regex101.com/r/W9UHRq/1
+        pattern = r'\b(?:et|en)\b'  # https://regex101.com/r/W9UHRq/1
         if not re.search(pattern, w, re.IGNORECASE):
             words_minus_danske_navne.append(w)
     

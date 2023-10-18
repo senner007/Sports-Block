@@ -56,7 +56,11 @@ tournaments = {
   "mls" : "mls",
   "bundesliga" : "bundesliga",
   "majoren" : "majoren",
-  "french open":  "frenchopen"
+  "french open":  "frenchopen",
+  "champions cup" : "championscup",
+  "pokalturnering" : "pokalturnering",
+  "turnering": "turnering",
+  "post danmark rundt": "postdanmarkrundt"
 }
 
 
@@ -82,6 +86,8 @@ weekdays = [
     "december"
 ]
 
-word_generalization = [ "xx", "x_land", "x_tournament", "x_nationality", "x_weekday"]
+# TODO : split til  weekdays of months
+
+word_generalization = [ "xx", "x_land", "x_tournament", "x_nationality", "x_weekday", "x_finale"]
 
 non_alpha = [":" , ",", "'", ".", "?", "!", '"']

@@ -15,6 +15,10 @@ def to_lower(word):
 def split_dash(word):
   return tf.strings.regex_replace(word, '-', ' ')
 
+def replace_finals(word):
+  r = r'(\b\w*finale(?:n|r|rne)?\b)'
+  return tf.strings.regex_replace(word, pattern=r, rewrite="x_finale")
+
 def split_specials(word):
 
     new_str = word
@@ -45,8 +49,9 @@ def replace_tournament(tournaments):
 
         new_str = word
         for sign in tournaments:
-            r = "\\b(?:" + sign + "|turnering)\\w*(?:(?:(\\sturnering)|-turnering)\\w*)?" + "\\b" #https://regex101.com/r/5qk5nk/1
-
+            # r = "\\b(?:" + sign + "|turnering)\\w*(?:(?:(\\sturnering)|-turnering)\\w*)?" + "\\b" #https://regex101.com/r/5qk5nk/1
+            r = "(?:\\b" + sign + "(?: turnering|-turnering)?)(?:er|en|erne)?\\b"  #https://regex101.com/r/L6tEaM/1
+            r = "\\b" + sign + "(?: turnering|-turnering)?(?:er|en|erne)?\\b"
             new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="x_tournament")
 
         return new_str

@@ -1,6 +1,7 @@
 afghansk,afghaner
 albansk,albaner
 algerisk,algerier
+amerikansk, amerikaner
 andorransk,andorraner
 angolansk,angolaner
 argentinsk,argentiner
@@ -65,7 +66,8 @@ grønlandsk,guatemalaner
 guatemalansk,guineaner
 guineansk,guyaner
 guyansk,haitianer
-haitiansk,hollænder / nederlænder
+haitiansk,hollænder
+haitiansk,nederlænder
 hollandsk,honduraner
 honduransk,hviderusser
 hviderussisk,inder
@@ -85,7 +87,8 @@ kasakhisk,kenyaner
 kenyansk,kineser
 kinesisk,kirgiser
 kirgisisk,kiribatier
-kiribatisk,kroat (el. kroater)
+kiribatisk,kroat
+kiribatisk,kroater
 kroatisk,kuwaiter
 kuwaitisk,laot
 laotisk,lesother
@@ -97,8 +100,10 @@ libysk,liechtensteiner
 liechtensteinsk,litauer
 litauisk,luxembourger
 luxembourgsk,madagasker
-madagaskisk,makedonier (el. makedoner)
-makedonsk (el. makedonisk),malawier
+madagaskisk,makedonier
+madagaskisk,makedoner
+makedonsk,makedonisk
+makedonsk,malawier
 malawisk,malaysier
 malaysisk,maldiver
 maldivisk,malier
@@ -149,14 +154,17 @@ seychellisk,singaporeaner
 sierraleonsk,slovak
 singaporeansk,slovener
 slovakisk,somalier
-slovensk,spanier (el. spaniol)
+slovensk,spanier
+slovensk,spaniol
 somalisk,srilankaner tidl. ceyloneser
 spansk,brite
-srilankansk,sudaner (el. sudaneser)
+srilankansk,sudaner
+srilankansk,sudaneser
 britisk,surinamer
-sudanesisk (el. sudansk),svensker
+sudansk, sudaner
 surinamsk,swazilænder
-svensk,sydafrikaner
+svensk, scensker
+sydafrikansk, sydafrikaner
 swazilandsk,sydkoreaner
 sydafrikansk,syrer
 sydkoreansk,tadsjiker
@@ -172,14 +180,14 @@ togolesisk,trinidader
 tongansk,tuneser
 tunesisk,turkmener
 turkmensk,tuvaluaner
-tuvaluansk,tyrk eller tyrker
+tuvaluansk,tyrk
+tuvaluansk,tyrker
 tyrkisk,tysker
 tysk,ugander
 ugandisk,ukrainer
 ukrainsk,ungarer
-ungarsk,uruguayaner (el. uruguayer)
-uruguayansk (el. uruguaysk),amerikaner
-amerikansk,usbeker
+ungarsk,uruguayaner
+uruguayansk, uruguayer
 usbekisk,vanuatuer
 vanuatisk,venezuelaner
 vatikansk,vietnameser
