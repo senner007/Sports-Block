@@ -7,13 +7,14 @@ tournaments = {
   "dm" : "dm",
   "vm" : "vm",
   "em" : "em",
-  "vuelta" : "vuelta",
-  "vueltaen" : "vuelta",
   "ryder cup" : "rydercup",
   "champions league" :  "championsleague",
   "ol": "ol",
   "nba" :"nba",
+  "vuelta de españa" : "vuelta",
   "vuelta a españa" : "vuelta",
+  "vuelta" : "vuelta",
+  "vueltaen" : "vuelta",
   "atp 1000-turneringen" : "ATP",
   "grandprix" : "grandprix",
   "grand prix" : "grandprix",
@@ -65,7 +66,7 @@ tournaments = {
   "post danmark rundt": "postdanmarkrundt",
   "nhl" : "nhl",
   "powerman" : "powerman",
-  "australian open" : "australienopen"
+  "australian open" : "australienopen",
 }
 
 
@@ -93,6 +94,6 @@ weekdays = [
 
 # TODO : split til  weekdays of months
 
-word_generalization = [ "xx", "x_land", "x_tournament", "x_nationality", "x_weekday", "x_finale", "x_year"]
+word_generalization = [ "xnumber", "xland", "xtournament", "xnationality", "xweekday", "xfinale", "xyear"]
 
-non_alpha = [":" , ",", "'", ".", "?", "!", '"']
+non_alpha = [":", ",", "'", ".", "?", "!", '"']

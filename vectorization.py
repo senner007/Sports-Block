@@ -17,22 +17,19 @@ def split_dash(word):
 
 def replace_finals(word):
   r = r'(\b\w*finale(?:n|r|rne)?\b)'
-  return tf.strings.regex_replace(word, pattern=r, rewrite="x_finale")
+  return tf.strings.regex_replace(word, pattern=r, rewrite="xfinale")
 
-def split_specials(word):
+def split_included_specials(word):
 
-    new_str = word
-    for sign in non_alpha:
-        r = "\\" + sign
-        new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite=" " + sign + " ")
-
+    new_str = tf.strings.regex_replace(word, pattern=r'([^a-zæøåA-ZÆØÅ\d\sñé])', rewrite=r' \1 ', replace_global=True)
+    new_str = tf.strings.regex_replace(new_str, pattern=r'([»«_,])', rewrite=r'', replace_global=True)
     return new_str
 
 def replace_digits(word):
 
     new_str = word
-    new_str = tf.strings.regex_replace(new_str, pattern=r'(?:18|19|20)\d{2}', rewrite=r'x_year')
-    new_str = tf.strings.regex_replace(new_str, pattern=r'\d+', rewrite=r'xx', replace_global=True)
+    new_str = tf.strings.regex_replace(new_str, pattern=r'(?:18|19|20)\d{2}', rewrite=r'xyear')
+    new_str = tf.strings.regex_replace(new_str, pattern=r'\d+', rewrite=r'xnumber', replace_global=True)
     return new_str
 
 
@@ -42,7 +39,7 @@ def replace_countries(countries):
         new_str = word
         for sign in countries:
             r = sign + "s?\\b"
-            new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="x_land")
+            new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="xland")
 
         return new_str
     return replace_countries
@@ -56,7 +53,7 @@ def replace_tournament(tournaments):
             # r = "\\b(?:" + sign + "|turnering)\\w*(?:(?:(\\sturnering)|-turnering)\\w*)?" + "\\b" #https://regex101.com/r/5qk5nk/1
             # r = "(?:\\b" + sign + "(?: turnering|-turnering)?)(?:et|er|en|erne)?\\b"  #https://regex101.com/r/L6tEaM/1
             r = "\\b" + sign + "(?: turnering|-turnering)?(?:s|et|er|en|ens|erne)?\\b"
-            new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="x_tournament")
+            new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="xtournament")
 
         return new_str
     return replace_tournament
@@ -66,7 +63,7 @@ def replace_nationality(nationalities):
         new_str = word
         for sign in nationalities:
             r = "\\b" + sign + "\\w*"
-            new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="x_nationality")
+            new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="xnationality")
 
         return new_str
     return replace_nationality
@@ -76,7 +73,7 @@ def replace_weekday(weekdays):
             new_str = word
             for sign in weekdays:
                 r = "\\b" + sign + "(?:s|en|e)?\\b"  # https://regex101.com/r/t7KC9v/1
-                new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="x_weekday")
+                new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="xweekday")
             return new_str
         return replace_weekday
 
