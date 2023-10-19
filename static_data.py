@@ -67,6 +67,8 @@ tournaments = {
   "nhl" : "nhl",
   "powerman" : "powerman",
   "australian open" : "australienopen",
+  "iem cologne" : "iemcologne",
+  "stockholm open": "stockholm open"
 }
 
 
