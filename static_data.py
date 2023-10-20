@@ -72,7 +72,8 @@ tournaments = {
   "iem cologne" : "iemcologne",
   "stockholm open": "stockholm open",
   "uefa nations league" : "uefa",
-  "nations league" : "nationsleague"
+  "nations league" : "nationsleague",
+  "challenge tour" : "challengetour"
 }
 
 
