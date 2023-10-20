@@ -42,9 +42,9 @@ dansk,djiboutier
 djiboutisk,dominicaner
 dominicansk,dominikaner
 dominikansk,ecuadorianer
-ecuadoriansk,egypter (el. ægypter)
-egyptisk (el. ægyptisk),salvadoraner
-engelsk,englænder
+ecuadoriansk,egypter (el. ï¿½gypter)
+egyptisk (el. ï¿½gyptisk),salvadoraner
+engelsk,englï¿½nder
 salvadoransk,ivorianer
 ivoriansk,eritreer
 eritreisk,ester
@@ -54,20 +54,20 @@ fijiansk,filippiner
 filippinsk,finne
 finsk,emirat
 emiratisk,franskmand
-fransk,færing
-færøsk,gaboneser
+fransk,fï¿½ring
+fï¿½rï¿½sk,gaboneser
 gabonesisk,gambianer
 gambiansk,georgier
 georgiansk,ghaneser
 ghanesisk,grenadier
-grenadisk,græker
-græsk,grønlænder
-grønlandsk,guatemalaner
+grenadisk,grï¿½ker
+grï¿½sk,grï¿½nlï¿½nder
+grï¿½nlandsk,guatemalaner
 guatemalansk,guineaner
 guineansk,guyaner
 guyansk,haitianer
-haitiansk,hollænder
-haitiansk,nederlænder
+haitiansk,hollï¿½nder
+haitiansk,nederlï¿½nder
 hollandsk,honduraner
 honduransk,hviderusser
 hviderussisk,inder
@@ -75,7 +75,7 @@ indisk,indoneser
 indonesisk,iraker
 irakisk,iraner
 iransk,irer
-irsk,islænding
+irsk,islï¿½nding
 islandsk,israeler
 israelsk,italiener
 italiensk,jamaicaner
@@ -92,7 +92,7 @@ kiribatisk,kroater
 kroatisk,kuwaiter
 kuwaitisk,laot
 laotisk,lesother
-lesothisk,lette
+lesothisk
 lettisk,libaneser
 libanesisk,liberianer
 liberiansk,libyer
@@ -122,7 +122,7 @@ mozambiquisk,myanmarer
 myanmarsk,namibier
 namibisk,nauruer
 naurisk,nepaleser
-nepalesisk,newzealænder
+nepalesisk,newzealï¿½nder
 newzealandsk,nicaraguaner
 nicaraguansk,nigerer
 nigersk,nigerianer
@@ -130,8 +130,8 @@ nigeriansk,nordkoreaner
 nordkoreansk,nordmand
 norsk,omaner
 omansk,pakistaner
-pakistansk,palæstinenser
-palæstinensisk,panamaner
+pakistansk,palï¿½stinenser
+palï¿½stinensisk,panamaner
 panamansk,papuaner
 papuansk,paraguayaner (el. paraguayer)
 paraguayansk (el. paraguaysk),peruvianer (el. peruaner)
@@ -139,8 +139,8 @@ peruviansk (el. peruansk),polak
 polsk,portugiser
 portugisisk,puertoricaner
 puertoricansk,qatarer
-qatarsk,rumæner
-rumænsk,russer
+qatarsk,rumï¿½ner
+rumï¿½nsk,russer
 russisk,rwander
 rwandisk,samoaner
 salomonisk,sanmarineser
@@ -162,7 +162,7 @@ srilankansk,sudaner
 srilankansk,sudaneser
 britisk,surinamer
 sudansk, sudaner
-surinamsk,swazilænder
+surinamsk,swazilï¿½nder
 svensk, scensker
 sydafrikansk, sydafrikaner
 swazilandsk,sydkoreaner
@@ -171,7 +171,7 @@ sydkoreansk,tadsjiker
 syrisk,taiwaner
 tadsjikisk,tanzanier
 taiwansk,tchader
-tanzaniansk,thailænder
+tanzaniansk,thailï¿½nder
 tchadiske,tjekke
 thailandsk,tjetjener
 tjekkisk,togoleser
@@ -194,7 +194,7 @@ vatikansk,vietnameser
 venezuelansk,yemenit
 vietnamesisk,zambier
 yemenitisk,zimbabwer
-zambisk,ækvatorialguineaner
-zimbabwisk,østriger
-ækvatorialguineansk,
-østrigsk,
+zambisk,ï¿½kvatorialguineaner
+zimbabwisk,ï¿½striger
+ï¿½kvatorialguineansk,
+ï¿½strigsk,

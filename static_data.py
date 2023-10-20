@@ -5,6 +5,7 @@ tournaments = {
   "us open": "usopen",
   "nfl" : "nfl",
   "dm" : "dm",
+  "fifa vm" : "fifavm",
   "vm" : "vm",
   "em" : "em",
   "ryder cup" : "rydercup",
@@ -68,7 +69,9 @@ tournaments = {
   "powerman" : "powerman",
   "australian open" : "australienopen",
   "iem cologne" : "iemcologne",
-  "stockholm open": "stockholm open"
+  "stockholm open": "stockholm open",
+  "uefa nations league" : "uefa",
+  "nations league" : "nationsleague"
 }
 
 
