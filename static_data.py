@@ -48,6 +48,7 @@ tournaments = {
   "wimbledon": "wimbledom",
   "superliga" : "superliga",
   "world cup" : "worldcup",
+  "world series" : "worldseries",
   "hopman cup" : "hopmancup",
   "solheim cup" : "solheimcup",
   "fed cup" : "fedcup",
