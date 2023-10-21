@@ -5,7 +5,7 @@ sys.path.append('..')
 from csv_data import csv_to_list
 from vectorization import to_lower
 from vectorization import split_dash
-from vectorization import split_specials
+from vectorization import split_included_specials
 from vectorization import replace_tournament
 from vectorization import replace_countries
 from vectorization import replace_weekday
@@ -25,7 +25,7 @@ words_train_vocab = ["formel", "fodbold", "pokalen", "-"]
 arrs = [
     to_lower, 
     split_dash, 
-    split_specials, 
+    split_included_specials, 
     replace_tournament(tournaments), 
     replace_countries(countries), 
     replace_weekday(weekdays), 
@@ -47,15 +47,15 @@ text_ds = vectorized_layer.adapt(words_train_vocab)
 vect_vocab = vectorized_layer.get_vocabulary()
 
 vectorization_tests = {
-    "Fodbold tour-de-france-pokalen" : ['fodbold', 'x_tournament', 'pokalen'],
-    "Fodbold Tour de-france pokalen" : ['fodbold', 'x_tournament', 'pokalen'],
-    "Danmark" : ['x_land'],
-    "albanien" : ['x_land'],
-    "uefa Uefa UEFA uefas Uefas" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
-    "majoren Majoren Majorens majorens" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
-    "pga PGA pga-turneringerne pga turneringens PGA-turneringen pga-turneringer turnering turneringer" : ['x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament', 'x_tournament'],
-    "Formel-1-grand prixet grandprixet formel-1-grandprixet"  : ['formel', 'xx', 'x_tournament', 'x_tournament', 'formel', 'xx', 'x_tournament'],
-    "2 fodbold 1938 fodbold 5 fodbold 2020": ['xx', 'fodbold','x_year', 'fodbold', 'xx', 'fodbold', 'x_year']
+    "Fodbold tour-de-france-pokalen" : ['fodbold', 'xtournament', 'pokalen'],
+    "Fodbold Tour de-france pokalen" : ['fodbold', 'xtournament', 'pokalen'],
+    "Danmark" : ['xland'],
+    "albanien" : ['xland'],
+    "uefa Uefa UEFA uefas Uefas" : ['xtournament', 'xtournament', 'xtournament', 'xtournament', 'xtournament'],
+    "majoren Majoren Majorens majorens" : ['xtournament', 'xtournament', 'xtournament', 'xtournament'],
+    "pga PGA pga-turneringerne pga turneringens PGA-turneringen pga-turneringer turnering turneringer" : ['xtournament', 'xtournament', 'xtournament', 'xtournament', 'xtournament', 'xtournament', 'xtournament', 'xtournament'],
+    "Formel-1-grand prixet grandprixet formel-1-grandprixet"  : ['formel', 'xnumber', 'xtournament', 'xtournament', 'formel', 'xnumber', 'xtournament'],
+    "2 fodbold 1938 fodbold 5 fodbold 2020": ['xnumber', 'fodbold','xyear', 'fodbold', 'xnumber', 'fodbold', 'xyear']
 
 }
 
