@@ -3,6 +3,7 @@
 tournaments = {
   "tour de france": "tourdefrance",
   "us open": "usopen",
+  "us masters": "usmasters",
   "nfl" : "nfl",
   "dm" : "dm",
   "fifa vm" : "fifavm",
@@ -73,7 +74,18 @@ tournaments = {
   "stockholm open": "stockholm open",
   "uefa nations league" : "uefa",
   "nations league" : "nationsleague",
-  "challenge tour" : "challengetour"
+  "challenge tour" : "challengetour",
+  "round denmark race" : "rounddenmarkrace",
+  "liv golf": "livgolf",
+  "fedex cup" :"fedexcup",
+  "handa world international" : "handaworldinternational",
+  "czech ladies open" : "czechladiesopen",
+  "british open" : "britishopen",
+  "british masters" : "britishmasters",
+  "corales puntacana championship" : "coralespuntacanachampionship",
+  "lpga tour" : "lpgatour",
+  "mallorca golf open" : "mallorcagolfopen"
+
 }
 
 
