@@ -1,0 +1,1 @@
+s = Array.from(document.querySelectorAll('.tc_teaser')).map(a => a.children[0].href)

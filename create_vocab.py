@@ -15,7 +15,7 @@ def remove_numeric(words):
 def split_sentences(sentences):
     words_arr = []
     for ind, sentence in enumerate(sentences):
-        sentence_trimmed = sentence.strip()
+        sentence_trimmed = sentence.rstrip(".") # removes trailing newline and full stop
         words = sentence_trimmed.split()
         for word in words:
             w = split_specials(word)
