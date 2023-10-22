@@ -84,7 +84,8 @@ tournaments = {
   "british masters" : "britishmasters",
   "corales puntacana championship" : "coralespuntacanachampionship",
   "lpga tour" : "lpgatour",
-  "mallorca golf open" : "mallorcagolfopen"
+  "mallorca golf open" : "mallorcagolfopen",
+  "beijing 2022" : "beijing2022",
 
 }
 

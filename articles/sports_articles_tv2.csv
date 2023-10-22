@@ -825,7 +825,7 @@ OL,Flot afslutning sikrer dansk fjerdeplads,Den danske Nacra 17-båd med Lin Ea C
 OL,Dansk 49'er slutter som nummer fem,49'er-båden med Jonas Warrer og Jakob Precht sluttede som femmer efter en ottendeplads i medaljesejladsen.,,True,
 OL,Danske sejlere slutter godt af,Ida Marie Baad og Marie Thusgaard slutter som nummer otte i 49'er FX efter et flot medaljesejlads ,,True,
 OL,"Rindom vil ikke afvise, at hun går efter OL-guld i 2024","Kroppen har det godt, og derfor vil Anne-Marie Rindom bestemt ikke afvise, at hun kommer til at jagte endnu en guldmedalje ved OL i 2024 ",,False,
-OL,Sådan vinder Rindom OL-guld,"Selvom Anne-Marie Rindom på dramatisk vis måtte se sit forspring skrumpe gevaldigt ind fredag, har hun fortsat rigtig gode muligheder for OL-guld.",,False,
+OL,Sådan vinder Rindom OL-guld,"Selvom Anne-Marie Rindom på dramatisk vis måtte se sit forspring skrumpe gevaldigt ind fredag, har hun fortsat rigtig gode muligheder for OL-guld.",,True,x
 OL,Rindom sønderknust: - Det er helt galt,Anne-Marie Rindoms store føring er skrumpet efter en dramatisk fredag på vandet i Tokyo. Hun kan dog stadig selv afgøre det søndag. ,,True,
 OL,"Rindom i tårer - ude af sejlads, der kunne have sikret hende guldet",Det danske OL-guldhåb Anne-Marie Rindom udlever en mareridtsdag på vandet i Tokyo ,,True,
 OL,Ekspert råder konkurrenter til at opgive at hente Rindom,"Anne-Marie Rindom har så stort et forspring på førstepladsen, at konkurrenterne bør fokusere på at sikre sig sølv og bronze, siger sejlsportsekspert.",,False,
@@ -1125,7 +1125,7 @@ Atletik ,Olympisk guldvinder overlever flystyrt,Alle ombord på det lille fly ove
 Atletik ,Atletikchef dømmer dansk stjerne færdig på landsholdet,"Tirsdag indrømmede den danske løber Abdi Ulad, at han har indtaget et stof, der er på Anti Doping Danmarks dopingliste",,False,
 Atletik ,Forbund er chokeret over dansk stjernes positive dopingtest,Maratonløberen Abdi Ulad er testet positiv for trimetazidin og er udelukket fra al træning og konkurrence,,False,
 Atletik ,Dansk atletikstjerne indrømmer at have indtaget forbudt stof,"Abdi Ulad har ikke ønsket en analyse af B-prøven og er klar til at tage den straf, som Dopingnævnet giver ham",,False,
-Atletik ,Maratonstjerne taget for doping efter stor triumf,"Diana Kipyokei havde et forbudt stof i blodet, da hun vandt Boston Marathon sidste år",,False,
+Atletik ,Maratonstjerne taget for doping efter stor triumf,"Diana Kipyokei havde et forbudt stof i blodet, da hun vandt Boston Marathon sidste år",,True,
 Atletik ,Overvejer comeback til russiske atleter,"Russiske atleter, der er modstander af krigen, kan måske snart komme tilbage i varmen, siger Thomas Bach",,False,
 Atletik ,Kenyaner slår sin egen verdensrekord i maraton,37-årige Eliud Kipchoge var knap fem minutter hurtigere end nummer to ved Berlin Marathon,,True,
 Atletik ,Svensk fænomen jubler: - Nu har jeg vundet næsten alt i atletik,"Svenskeren Armand Duplantis slog mesterskabsrekord, da han vandt EM-guld i stangspring",,True,
@@ -1352,3 +1352,14 @@ Håndbold,GOG er semifinaleklar trods skuffelse,"GOG løb ind i første slutspilsne
 Håndbold,Pludseligt indfald sikrede vital sejr,NFH holder mere end liv i håbet om DM-semifinalerne efter en dramatisk sejr over Aarhus United,,True,
 Håndbold,Landin afgørende - Gidsel og co. skuffer fælt,"I den tyske Bundesliga har THW Kiel spillet sig selv i en gunstig position til at vinde mesterskabet, efter Füchse Berlin skuffende tabte",,True,
 Håndbold,To hold sikkert videre - håbet slukket for to andre,Onsdag aften spillede både Aalborg og Skjern sig sikkert videre til DM-semifinalerne,,True,
+Fodbold ,Dramatiske scener i Ramos' gensyn med Real,Efter lørdagens LaLiga-opgør ligger Real Madrid fortsat nummer ét ,,True,
+Fodbold ,Højlunds måltørke i Premier League fortsætter,Højlund har dog scoret tre mål i to Champions League-kampe ,,False,
+Badminton ,Stjerner i ophedet diskussion: - Man skal vise respekt,Det gik ikke stille for sig under den ene semifinale i damesingle ,,False,
+Amerikansk fodbold ,Stjerne hylder Andersen: - Han rykkede grænserne for spillet,Morten Andersen har gjort stort indtryk på Baltimore Ravens' stjerne-kicker Justin Tucker ,,True,x
+Fodbold ,FCK-profil ventes ude i flere uger,FCK må efter alt at dømme undvære Birger Meling i flere uger ,,False,
+Fodbold ,Arsenal leverer stort comeback i London-derby,"Chelsea udmanøvrerede Arsenal i 75 minutter, men det sluttede 2-2 efter en stærk afslutning af udeholdet ",,True,
+Fodbold ,Elkjær hyldet for ikonisk mål,"I Verona glemmer de ikke, at Preben Elkjær engang scorede et mål uden støvle på foden ",,True,x
+Håndbold ,Danmarks onde ånd dukker Odense i CL-gruppen,Ulrik Kirkely vandt med Györ opgøret mod sin gamle arbejdsgiver Odense i lørdagens Champions League-opgør ,,True,
+Håndbold ,Lauge får direkte rødt i nederlag til GOG,Bjerringbro/Silkeborg blev en profil fattigere midtvejs i første halvleg ,,False,
+Tennis ,Rune får mulighed for lynhurtig revanche,"Rune har 300 ATP-point, han skal forsvare fra sidste års finaleplads i Basel ",,False,
+Badminton ,Frustreret Christiansen oplevede kæmpe usikkerhed,Semifinalerne ved Denmark Open blev endestationen for det danske par ,,True,

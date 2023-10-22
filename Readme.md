@@ -10,5 +10,6 @@
 ▪ Gamle samt kommende resultater klassificeres ikke som resultater.
 ▪ Permanente afbrydelser, som forårsaget af eksempelcis såsom skader gælder heller ikke som resultat.
 ▪ At udøveren udgør, melder afbud, diskvalificeres eller misser deltagelse gælder ikke som resultat. Heraf gælder det som resultat, hvis vinderen nævnes
-- Priser, hædringer, nomineringer og fejringer medtages som resultat
+- Priser, hædringer, nomineringer og fejringer, hyldet medtages som resultat
 - ændringert på rangliste medtages ikke også som resultat
+- scoringsrekorder gælder ikke
