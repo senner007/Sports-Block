@@ -57,7 +57,6 @@ tournaments = {
   "stanley cup" : "stanleycup" ,
   "super cup" : "supercup",
   "denmark open" : "denmarkopen",
-  "uefa" : "uefa",
   "mls" : "mls",
   "bundesliga" : "bundesliga",
   "major league" : "majorleague",
