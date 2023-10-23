@@ -23,15 +23,19 @@ def get_sports():
     df_sport_2020 = pd.read_csv('articles/sports_articles_2020.csv', encoding = "ISO-8859-1")
     df_sport_2022 = pd.read_csv('articles/sports_articles_2022.csv', encoding = "ISO-8859-1")
     df_sport_politiken = pd.read_csv('articles/sports_articles_politiken.csv', encoding = "ISO-8859-1")
-    df_sport_mixed = pd.read_csv('articles/mixed.csv', encoding = "ISO-8859-1")
+    # df_sport_mixed = pd.read_csv('articles/mixed.csv', encoding = "ISO-8859-1")
     df_ishockey_tv2 = pd.read_csv('articles/ishockey-tv2.csv', encoding = "ISO-8859-1")
     df_badminton_tv2 = pd.read_csv('articles/badminton-tv2.csv', encoding = "ISO-8859-1")
     df_nfl_tv2 = pd.read_csv('articles/nfl_tv2.csv', encoding = "ISO-8859-1")
     df_cykling_tv2 = pd.read_csv('articles/cykling_tv2.csv', encoding = "ISO-8859-1")
+    df_fodbold_tv2 = pd.read_csv('articles/fodbold_tv2.csv', encoding = "ISO-8859-1")
+    df_fodbold_2_tv2 = pd.read_csv('articles/fodbold_tv2_2.csv', encoding = "ISO-8859-1")
+    df_formel_1_tv2 = pd.read_csv('articles/formel_1_tv2.csv', encoding = "ISO-8859-1")
 
 
 
-    df = pd.concat([df_sport_latest, df_sport_latest_tv2, df_sport_2019, df_sport_2020, df_sport_2022, df_sport_politiken, df_ishockey_tv2, df_badminton_tv2, df_nfl_tv2,df_cykling_tv2])
+
+    df = pd.concat([df_sport_latest, df_sport_latest_tv2, df_sport_2019, df_sport_2020, df_sport_2022, df_sport_politiken, df_ishockey_tv2, df_badminton_tv2, df_nfl_tv2,df_cykling_tv2, df_fodbold_tv2, df_fodbold_2_tv2, df_formel_1_tv2] )
     df = df.sample(frac=1).reset_index(drop=True)
     df['isResult'] = df['isResult'].apply(lambda x: format_2_bool(x))
 
@@ -94,6 +98,7 @@ def extract_data(df):
 
 def split_data(data, percentage):
     train, labels = data
+
     l = len(train)
     p = l - int((percentage/100) * l)
     return (train[0:p], train[p:], labels[0:p], labels[p:])
