@@ -85,6 +85,7 @@ tournaments = {
   "lpga tour" : "lpgatour",
   "mallorca golf open" : "mallorcagolfopen",
   "beijing 2022" : "beijing2022",
+  "metal ligaen" : "metalliagen"
 
 }
 
