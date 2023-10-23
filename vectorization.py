@@ -22,7 +22,7 @@ def replace_finals(word):
 def split_included_specials(word):
 
     new_str = tf.strings.regex_replace(word, pattern=r'([^a-zæøåA-ZÆØÅ\d\sñé])', rewrite=r' \1 ', replace_global=True)
-    new_str = tf.strings.regex_replace(new_str, pattern=r'([»«_,?])', rewrite=r'', replace_global=True)
+    new_str = tf.strings.regex_replace(new_str, pattern=r'([»«_,?\'])', rewrite=r'', replace_global=True)
     return new_str
 
 def replace_digits(word):
