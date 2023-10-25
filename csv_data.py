@@ -41,6 +41,8 @@ def get_sports():
     df_sejlsport = pd.read_csv('articles/sejlsport.csv', encoding = "ISO-8859-1")
     df_boksning = pd.read_csv('articles/boksning.csv', encoding = "ISO-8859-1")
     df_tour_de_france = pd.read_csv('articles/tour_de_france.csv', encoding = "ISO-8859-1")
+    df_vinterol = pd.read_csv('articles/vinterol.csv', encoding = "ISO-8859-1")
+
 
     df = pd.concat([
         df_sport_latest, 
@@ -65,7 +67,8 @@ def get_sports():
         df_atletik,
         df_sejlsport,
         df_boksning,
-        df_tour_de_france
+        df_tour_de_france,
+        df_vinterol
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)
