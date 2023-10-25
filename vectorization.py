@@ -16,7 +16,7 @@ def split_dash(word):
   return tf.strings.regex_replace(word, '-', ' ')
 
 def replace_finals(word):
-  r = r'(\b\w*finale(?:n|r|rne)?\b)'
+  r = r'(\b\w*finale(?:n|r|rne|opgør)?\b)'
   return tf.strings.regex_replace(word, pattern=r, rewrite="xfinale")
 
 def split_included_specials(word):

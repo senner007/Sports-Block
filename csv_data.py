@@ -23,7 +23,7 @@ def get_sports():
     df_sport_2020 = pd.read_csv('articles/sports_articles_2020.csv', encoding = "ISO-8859-1")
     df_sport_2022 = pd.read_csv('articles/sports_articles_2022.csv', encoding = "ISO-8859-1")
     df_sport_politiken = pd.read_csv('articles/sports_articles_politiken.csv', encoding = "ISO-8859-1")
-    # df_sport_mixed = pd.read_csv('articles/mixed.csv', encoding = "ISO-8859-1")
+    df_sport_mixed = pd.read_csv('articles/mixed.csv', encoding = "ISO-8859-1")
     df_ishockey_tv2 = pd.read_csv('articles/ishockey-tv2.csv', encoding = "ISO-8859-1")
     df_badminton_tv2 = pd.read_csv('articles/badminton-tv2.csv', encoding = "ISO-8859-1")
     df_nfl_tv2 = pd.read_csv('articles/nfl_tv2.csv', encoding = "ISO-8859-1")
@@ -38,6 +38,10 @@ def get_sports():
     df_fodbold_3 = pd.read_csv('articles/fodbold_3.csv', encoding = "ISO-8859-1")
     df_tennis = pd.read_csv('articles/tennis.csv', encoding = "ISO-8859-1")
     df_atletik = pd.read_csv('articles/atletik.csv', encoding = "ISO-8859-1")
+    df_sejlsport = pd.read_csv('articles/sejlsport.csv', encoding = "ISO-8859-1")
+    df_boksning = pd.read_csv('articles/boksning.csv', encoding = "ISO-8859-1")
+
+
 
 
     df = pd.concat([
@@ -60,7 +64,9 @@ def get_sports():
         df_ol,
         df_fodbold_3,
         df_tennis,
-        df_atletik
+        df_atletik,
+        df_sejlsport,
+        df_boksning
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)

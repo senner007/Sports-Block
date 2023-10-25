@@ -90,7 +90,9 @@ tournaments = {
   "beijing 2022" : "beijing2022",
   "metal ligaen" : "metalliagen",
   "liv golf" : "livholf",
-  "sudirman cup": "sudirmancup" 
+  "sudirman cup": "sudirmancup",
+  "ol i rio": "ol",
+  "ol i tokyo" : "ol"
 }
 
 
