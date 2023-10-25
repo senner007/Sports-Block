@@ -17,7 +17,10 @@ tournaments = {
   "vuelta a españa" : "vuelta",
   "vuelta" : "vuelta",
   "vueltaen" : "vuelta",
+  "atp turneringen" : "ATP",
+  "atp 250-turneringen" : "ATP",
   "atp 1000-turneringen" : "ATP",
+  "atp 5000-turneringen" : "ATP",
   "grandprix" : "grandprix",
   "grand prix" : "grandprix",
   "davis cup" : "daviscup",
@@ -85,8 +88,9 @@ tournaments = {
   "lpga tour" : "lpgatour",
   "mallorca golf open" : "mallorcagolfopen",
   "beijing 2022" : "beijing2022",
-  "metal ligaen" : "metalliagen"
-
+  "metal ligaen" : "metalliagen",
+  "liv golf" : "livholf",
+  "sudirman cup": "sudirmancup" 
 }
 
 

@@ -12,16 +12,21 @@ def contains_non_alphanumeric(word):
 def remove_numeric(words):
     return [x for x in words if any(char.isdigit() for char in x) == False]
     
+def strip_sentences(sentences):
+    words_arr = []
+    for ind, sentence in enumerate(sentences):
+        words_arr.append(sentence.rstrip(".")) # removes trailing newline and full stop
+    return words_arr
+
+
 def split_sentences(sentences):
     words_arr = []
     for ind, sentence in enumerate(sentences):
-        sentence_trimmed = sentence.rstrip(".") # removes trailing newline and full stop
-        words = sentence_trimmed.split()
+        words = sentence.split()
         for word in words:
             w = split_specials(word)
             words_arr.extend([x.lower() for x in w])
     return words_arr
-
 
 def remove_duplicates(words):
     return list(set(words))

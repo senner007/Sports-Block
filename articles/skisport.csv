@@ -78,7 +78,7 @@ Vinter-OL,Fik pludselig frataget OL-bronze: - Den hårdeste dag i mit liv,Schweiz
 Vinter-OL,"Sølvvinder kollapsede: - Det var en fejl, han stillede op","Tyskland indrømmer, at det var en fejl at sende Eric Frenzel ud på startstregen i holdkonkurrencen",,False,
 Vinter-OL,Domstol gav særlig tilladelse til 15-årig - nu anklages de for fejl,"Det Internationale Antidopingagentur går nu i rette med CAS, der har givet 15-årige Kamilia Valieva tilladelse til at fortsætte deltagelse ved OL",,False,
 Vinter-OL,Tysker ønskede ikke OL-medalje efter stort drama,"For første gang i karrieren har Daniela Maier vundet en OL-medalje, men i virkeligheden ville hun slet ikke have den",,True,
-Vinter-OL,Amerikansk mareridt fortsætter - stjerne udgår for tredje gang,Mikaela Shiffrin måtte udgå af sin tredje disciplin ved vinter-OL efter styrt i den kombinerede konkurrence,,True,
+Vinter-OL,Amerikansk mareridt fortsætter - stjerne udgår for tredje gang,Mikaela Shiffrin måtte udgå af sin tredje disciplin ved vinter-OL efter styrt i den kombinerede konkurrence,,False,x
 Vinter-OL,OL-guld på spil midt i TV 2-interview: - Nu må jeg følge med...,"Skiskytten Mona Brorsson og resten af de svenske kvinder vandt OL-guld på stafetten, og selvom det blev tæt, følte Brorsson sig ganske selvsikker",,True,
 Vinter-OL,Ukrainer testet positiv for doping under OL,"Valentyna Kaminska er testet positiv for tre stoffer, der er på den forbudte liste over dopingpræparater",,False,
 Vinter-OL,Norge vrager deres største stjerne,"En norsk langrendsekspert mener, at Therese Johaug selv har været med til at svække sit kandidatur til trods for to guldmedaljer",,False,
@@ -106,7 +106,7 @@ Vinter-OL,"Verdensmester raser over eget forbund - føler sig ""dolket i ryggen""
 Vinter-OL,Svensk stjerne kollapsede efter målstregen: - Hun er en drama queen,"Der er ikke just god stemning mellem Sverige og Norge, når det kommer til vintersport",,False,
 Vinter-OL,Et råd fra broren var tæt på at koste norsk stjerne OL-guld,"Therese Johaug blev drillet af sin bror, Karstein, efter hun kom i mål og sikrede OL-guldet med spinkelt forspring på under et halvt sekund",,True,
 Vinter-OL,Svensk stjerne forklarer kollaps - blev vækket af æblejuice,Frida Karlsson prøver nu at bruge lørdagens kollaps til at få succes i den kommende OL-konkurrence,,False,
-Vinter-OL,Lavede katastrofal fejl for 16 år siden - nu har hun endelig vundet OL-guld,For 16 år siden kostede et dumdristigt trick Lindsey Jacobellis en OL-guldmedalje. Nu er den omsider i hus,,False,
+Vinter-OL,Lavede katastrofal fejl for 16 år siden - nu har hun endelig vundet OL-guld,For 16 år siden kostede et dumdristigt trick Lindsey Jacobellis en OL-guldmedalje. Nu er den omsider i hus,,True,
 Vinter-OL,Én kommentar har fået russisk skipræsident til at boykotte norsk presse,Præsidenten for det russiske langrendsforbund er stærkt utilfreds med en kommentar skrevet af NRK's sportskommentator Jan Petter Saltvedt,,False,
 Vinter-OL,Iransk OL-skiløber testet positiv for doping,Iraneren Hossein Saveh Shemskaki skulle have deltaget i slalom og storslalomkonkurrencen ved OL i Beijng,,False,
 Vinter-OL,Amerikaner vandt guld for Kina - nægtede at besvare ét bestemt spørgsmål,Eileen Gu vandt OL-guld i Big Air-konkurrencen natten til tirsdag. Siden er spørgsmål om hendes nationalitet blusset op,,True,
@@ -115,7 +115,7 @@ Vinter-OL,Grønlandsk atlet jubler over utrolig OL-debut,"Den grønlandske skiskyt
 Vinter-OL,OL-debutant kørt væk på båre med skrækskade,"Nina O'Brien var tæt på et flot resultat i kvindernes storslalomkonkurrence, men til allersidst gik det galt",,True,
 Vinter-OL,Slettemark leverer noget unikt i OL-debut - ekspert er dybt imponeret,"Sigtekornet var godt indstillet med 20 pletskud ud af 20 mulige, da Ukaleq Slettemark fik 53-plads i Beijing. Dansk ekspert er dybt imponeret",,True,
 Vinter-OL,"- Jeg kommer mig aldrig over dette, siger skidronning","Som forsvarende olympisk mester i storslalom var Mikaela Shiffrin blandt favoritterne, men hendes drøm om nyt OL-guld brast ganske hurtigt",,True,
-Vinter-OL,Forsvarende OL-mester styrter og udgår,Mandag mislykkedes det for amerikanske Mikaela Shiffrin at vinde sin tredje olympiske guldmedalje,,True,
+Vinter-OL,Forsvarende OL-mester styrter og udgår,Mandag mislykkedes det for amerikanske Mikaela Shiffrin at vinde sin tredje olympiske guldmedalje,,False,x
 Vinter-OL,"OL-guldvinder svarer igen: - Når du hentyder til det, kaster jeg op","Russiske Alexander Bolshunov vandt sit første OL-guld i karrieren, da han smadrede konkurrenterne i langrendsdisciplinen skiatlon",,True,
 Vinter-OL,Grønlandsk skiskytte ser ekstreme forhold som en fordel,"Ukaleq Slettemark ser frem til at konkurrere ved sit første OL, hvor hun ikke ved, hvor hun står i forhold til konkurrenterne",,False,
 Vinter-OL,OL-guldvinder afslører snak med statsminister - fik folk til at grine,21-årige Walter Wallberg vandt sensationelt OL-guld og fik et opkald fra Sveriges statsminister,,True,
@@ -150,7 +150,7 @@ Skisport,Newzealandsk teenager overrasker i alpin sæsonafslutning,19-årige Alice
 Skisport,Fransk slalomekspert vinder herrernes alpine World Cup,Alexis Pinturault vandt lørdagens storslalomkonkurrence og sikrede samtidig den samlede World Cup-sejr,,True,
 Skisport,Norsk skiskytte startede fra bunden og endte med guldet,"Tiril Eckhoff fik en skidt start på sæsonen, men fik kæmpet sig op og vandt lørdag den samlede World Cup",,True,
 Skisport,"- Stor fejl af arrangørerne, siger ekspert om væltet lysmast",To timer før sprinten ved World Cuppen i skydning i Nove Mesto væltede en lysmast og var tæt på at ramme en servicemand,,False,
-Skisport,World Cup blev afgjort med en 'lang pegefinger',"Der var stor dramatik, da kvindernes skicross-finale i Sunny Valley skulle afgøres på målfoto",,False,
+Skisport,World Cup blev afgjort med en 'lang pegefinger',"Der var stor dramatik, da kvindernes skicross-finale i Sunny Valley skulle afgøres på målfoto",,True,x
 Skisport,Schweizer haler ind på nykåret skiverdensmester med sejr,Marco Odermatt var hurtigst i World Cup-løbet i Østrig og bevarer spændingen i super-G-konkurrencen,,True,
 Skisport,"Hun var så suveræn, at hun sang norsk hit på vej mod VM-guldet",Den norske langrendsløber Therese Johaug vandt VM-guld på kvindernes 30 kilometer med mere end to et halvt minut til nummer to og tre,,True,
 Skisport,Norge fortsætter stafetdominans og tager VM-guld igen,"For 11. gang i træk endte Norge øverst på podiet, da herrerne kørte langrends-stafet ved ski-VM",,True,
