@@ -40,9 +40,7 @@ def get_sports():
     df_atletik = pd.read_csv('articles/atletik.csv', encoding = "ISO-8859-1")
     df_sejlsport = pd.read_csv('articles/sejlsport.csv', encoding = "ISO-8859-1")
     df_boksning = pd.read_csv('articles/boksning.csv', encoding = "ISO-8859-1")
-
-
-
+    df_tour_de_france = pd.read_csv('articles/tour_de_france.csv', encoding = "ISO-8859-1")
 
     df = pd.concat([
         df_sport_latest, 
@@ -66,7 +64,8 @@ def get_sports():
         df_tennis,
         df_atletik,
         df_sejlsport,
-        df_boksning
+        df_boksning,
+        df_tour_de_france
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)
@@ -134,7 +133,44 @@ def split_data(data, percentage):
 
     l = len(train)
     p = l - int((percentage/100) * l)
-    return (train[0:p], train[p:], labels[0:p], labels[p:])
+
+    tt = list(train)
+    ll = list(labels)
+
+    count = 0
+    i = 0
+    val_data = []
+    val_labels = []
+
+    while count < ((l-p) /2):
+        if labels[i] == 1:
+            val_data.append(train[i])
+            val_labels.append(labels[i])
+            del tt[i]
+            del ll[i]
+            count += 1
+
+        i += 1  
+
+    count = 0
+    i = 0
+    
+    while count < ((l-p) /2):
+        if labels[i] == 0:
+            val_data.append(train[i])
+            val_labels.append(labels[i])
+            del tt[i]
+            del ll[i]
+            count += 1
+
+        i += 1   
+
+    return (np.array(tt), np.array(val_data), np.array(ll), np.array(val_labels))
+
+
+
+
+    # return (train[0:p], train[p:], labels[0:p], labels[p:])
 
 # ordered_dict = get_vocab_dict()
 # df_sport = get_sports()
