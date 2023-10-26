@@ -2,9 +2,9 @@ Category,Headline,SubHeading,Link,isResult,isMaybe
 Fodbold,FCK brænder straffe i sidste sekund mod United,Efter runden ligger de danske mestre sidst i Champions Leagues gruppe A,,True,x
 Fodbold,Bayern vinder i FCK's gruppe,"Galatasaray var bedst i en time, men effektive Bayern München hentede en 3-1-sejr i Istanbul",,True,
 Fodbold,"- Han er den, der har allermest på spil, siger Bruun",Rasmus Højlund har fået sin fodboldopdragelse i FC København,,False,
-Fodbold,Løber tør for rosende ord om dansk landsholdsspiller,Matt O'Riley er topscorer i den skotske liga med seks mål og får ros af flere eksperter,,False,
+Fodbold,Løber tør for rosende ord om dansk landsholdsspiller,Matt O'Riley er topscorer i den skotske liga med seks mål og får ros af flere eksperter,,True,
 Fodbold,Falk og FCK var tæt på sensation mod United: Vi er bedre nu,"FCK var tæt på at skabe overraskelsen mod Manchester United i 2020, men står bedre nu, mener Rasmus Falk",,True,x
-Fodbold,"Nu har Tottenham-træner gjort noget, ingen anden har ",Heung-Min Son og James Maddison scorede hjemmeholdets to mål mandag aften. ,,False,
+Fodbold,"Nu har Tottenham-træner gjort noget, ingen anden har ",Heung-Min Son og James Maddison scorede hjemmeholdets to mål mandag aften. ,,True,
 Fodbold,Bayern forventer stor udfordring: - Det bliver ekstremt,"Galatasaray vil bruge sine højlydte fans som en fordel i mødet mod Bayern München, siger Thomas Tuchel",,False,
 Fodbold,Tottenham er tilbage på førstepladsen,De har to point ned til de nærmeste forfølgere,,True,
 Fodbold,FCK-profil har givet Højlunds lillebror klar besked,"Oscar Højlund skal ikke få nogen gode ideer inden kampen mod United, lyder opfordringen",,False,
@@ -105,15 +105,15 @@ Fodbold,FCK forhandler med en anden klub om salget af Grabara,"Den polske målman
 Fodbold,La Liga-kamp udsat på grund af uvejr,Ligaen melder en ny dato ud om kort tid. ,,False,
 Fodbold,AaB sælger profil - justerer regnskabet med 10 millioner,"AaB oplyser, at klubben er nået til enighed med en unavngiven udenlandsk klub om et salg af Allan Sousa",,False,
 Fodbold,Her er Højlunds nummer i United,På dagen for hans potentielle United-debut er Rasmus Højlunds trøjenummer præsenteret. ,,False,
-Fodbold,- Jeg har aldrig hørt noget så højt på en fodboldbane,"Jude Bellingham blev hyldet i en voldsom lydkulisse på det nye Bernabéu, da han i tillægstiden scorede til 2-1 mod Getafe. ",,False,x
+Fodbold,- Jeg har aldrig hørt noget så højt på en fodboldbane,"Jude Bellingham blev hyldet i en voldsom lydkulisse på det nye Bernabéu, da han i tillægstiden scorede til 2-1 mod Getafe. ",,True,x
 Fodbold,Ekspert glæder sig over flere ting ved Lindstrøm-debut,Jesper Lindstrøms Napoli tabte 2-1 til Gustav Isaksens Lazio,,True,
 Fodbold,Dansker får ros efter Serie A-debut,"Victor Kristiansen er kommet godt i gang i Bologna, hvor han lørdag var med til at vende 0-1 til 2-1",,True,
 Fodbold,"Morten Bruun har set det, alle snakker om - her er hans dom",Flere store profiler er valfartet til Saudi-Arabien denne sommer,,False,
-Fodbold,Ronaldo scorer sit mål nummer 850,"Efter en træg start er Cristiano Ronaldos klub, Al-Nassr, for alvor kommet i gang i den saudiarabiske liga",,False,
+Fodbold,Ronaldo scorer sit mål nummer 850,"Efter en træg start er Cristiano Ronaldos klub, Al-Nassr, for alvor kommet i gang i den saudiarabiske liga",,True,
 Fodbold,Wijnaldum slutter sig til Liverpools ekskaptajner i Saudi-Arabien,"Georginio Wijnaldum skal spille for Al-Ettifaq, hvor Steven Gerrard og Jordan Henderson allerede er ansat",,False,
 Fodbold,"Bellinghams indtog er historien, der aldrig nogensinde vil slutte",Jude Bellingham har scoret fem mål i fire LaLiga-kampe,,True,
 Fodbold,Lindstrøm får debut i hårdt Napoli-nederlag,Opdateres,,True,
-Fodbold,Dansker involveret i to mål i Serie A-debut,Den 20-årige dansker Victor Kristiansen gjorde god figur i sin debut for Bologna,,False,
+Fodbold,Dansker involveret i to mål i Serie A-debut,Den 20-årige dansker Victor Kristiansen gjorde god figur i sin debut for Bologna,,True,
 Fodbold,"- Jeg vil kæmpe for at vinde trofæer, siger Schjelderup ",FC Nordsjælland hentede en profil hjem på transfervinduets sidste dag,,False,
 Fodbold,Bellingham fortsætter eventyrlig Real Madrid-start,"Getafe tacklede igennem, og Real Madrid manglede skarphed, men blev reddet af talisman Jude Bellingham.
 ",,False,
@@ -159,7 +159,7 @@ Fodbold,Hjulmand skifter ud i truppen,Brøndbys Nicolai Vallys bliver en del af l
 Fodbold,"UEFA afviser ""absurd"" regel","De europæiske turneringer vil ikke overtage de engelske retningslinjer, der medfører mange tillægsminutter",,False,
 Fodbold,Rubiales' mor ender på hospitalet efter sultestrejke,Moren til den udskældte præsident for Spaniens fodboldforbund havde mandag indledt en sultestrejke,,False,
 Fodbold,Unge FCK'ere drømmer om at trække Real Madrid eller Barcelona,For flere af FC København-spillerne er det en drøm at komme til at møde en af de store spanske klubber,,False,
-Fodbold,"- Da han skød, tænkte jeg, den ville havne uden for arenaen",Denis Vavro sendte FC København foran med et vaskeægte drømmemål,,False,
+Fodbold,"- Da han skød, tænkte jeg, den ville havne uden for arenaen",Denis Vavro sendte FC København foran med et vaskeægte drømmemål,,True,
 Fodbold,Disse hold kan FCK trække i Champions Leauge,"FC København undgår som seedet i tredje lag blandt andet AC Milan, Red Bull Salzburg og Lazio",,False,
 Fodbold,FCK-træner dybt irriteret over Grabara-spørgsmål,Der spekuleres i disse dage kraftigt i et skifte på målmandsposten i FC København. ,,False,
 Fodbold,Parken opjusterer med 150 millioner ,Parken Sport & Entertainment har opjusteret sine forventninger til 2023 med 150 millioner kroner,,False,
@@ -205,7 +205,7 @@ Fodbold,Danskere tæt på Serie A,"Både Jesper Lindstrøm og Victor Kristiansen mel
 Fodbold,Villas holdbus ramt af mursten,En ukendt gerningsmand kastede en mursten på Aston Villas holdbus søndag efter klubbens sejr over Burnley,,True,
 Fodbold,Indkalder til krisemøde i kyssesagen,Mandag skal Spaniens fodboldforbund mødes med de regionale repræsentanter for at drøfte udskældt præsident,,False,
 Fodbold,Osimhen sparker Napoli til sikker sejr i Serie A,"Napoli vandt hjemme over Sassuolo i Serie A, mens Lazio, Juventus og Fiorentina led pointtab",,True,
-Fodbold,Milans nye stjerne imponerer efter drømmestart,Christian Pulisic har scoret to gange i sine to første kampe som Milan-spiller,,False,
+Fodbold,Milans nye stjerne imponerer efter drømmestart,Christian Pulisic har scoret to gange i sine to første kampe som Milan-spiller,,True,
 Fodbold,- Jeg har da sjældent set så stor en chance blive misbrugt,Heldigvis for angriberen endte Girona alligevel med at vinde,,True,
 Fodbold,Roberto Mancini er ny landstræner for Saudi-Arabien,Saudi-Arabien har præsenteret italienske Roberto Mancini som sin nye landstræner,,False,
 Fodbold,FCN knuser FCM på hjemmebane,"Marcus Ingvartsen scorede to gange, da FC Nordsjælland søndag slog et tandløst FC Midtjylland-mandskab 3-0",,True,
@@ -216,14 +216,14 @@ Fodbold,Haaland brænder straffespark og scorer i smal City-sejr,Manchester City 
 Fodbold,AGF-topscorer stanger smal sejr hjem,Et hovedstødsmål af Patrick Mortensen grundlagde en 1-0-sejr til AGF mod Lyngby BK søndag eftermiddag,,True,
 Fodbold,Står foran gennembruddet - ung dansker vil være verdens bedste,Filip Jörgensen har valgt at jagte det danske A-landshold,,False,
 Fodbold,Messi mandsopdækkes af vagt - selv når han spiller,Yassine Chueko er lige i hælene på argentineren hele tiden. Også når han løber rundt inde på fodboldbanen. ,,False,
-Fodbold,Messi scorer i ligadebut,"Lionel Messi startede på udskiftningsbænken, men nåede alligevel at lave sit første MLS-mål for Inter Miami",,False,
+Fodbold,Messi scorer i ligadebut,"Lionel Messi startede på udskiftningsbænken, men nåede alligevel at lave sit første MLS-mål for Inter Miami",,True,
 Fodbold,Simon Kjær får igen sent indhop i Milan-sejr,AC Milan vandt 4-1 hjemme over Torino i Serie A. Simon Kjær blev skiftet ind efter 79 minutter,,True,
 Fodbold,Her er Makienoks nye klub,"Angriberen Simon Makienok har fået en kontrakt i Hvidovre, og dermed er han tilbage i den bedste fodboldrække",,False,
 Fodbold,Xavi tager afstand fra omstridt præsident,"Mens de spanske fodboldkvinder nægter at spille, har flere trænere også forladt landsholdet",,False,
 Fodbold,Eriksen scorer i stort United-comeback,Også Joachim Andersen kom på tavlen i denne Premier League-runde,,True,x
 Fodbold,FCK kollapser i Parken,"FC København led sæsonens første pointtab i Superligaen, da holdet tabte med 1-3 til Silkeborg.
 ",,True,
-Fodbold,Utrolige Wind fortsætter med to scoringer,Med danskerens vigtige scoringer er Wolfsburg på maksimumpoint i Bundesligaen efter to kampe,,False,
+Fodbold,Utrolige Wind fortsætter med to scoringer,Med danskerens vigtige scoringer er Wolfsburg på maksimumpoint i Bundesligaen efter to kampe,,True,
 Fodbold,Magiske Maddison grundlægger ny Spurs-sejr ,"Tottenham slog kapital af to mønsterangreb, da holdet ude slog Philip Billings Bournemouth 2-0",,True,
 Fodbold,Præsident suspenderes efter kysseskandale,"Luis Rubiales, præsident for Spaniens fodboldforbund, må ikke have noget med fodbold at gøre de næste 90 dage.
 ",,False,

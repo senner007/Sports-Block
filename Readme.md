@@ -19,8 +19,11 @@ Polyglots Notebooks (Extension)
     • Ændringer på rangliste medtages er også resultat
 
 
+Golf:
+    - hole in one er resultat
+
 Fodbold/basketball/Håndbold:
-    - scoringer/point er også resultater
+    - scoringer/point/udligner er også resultater
     - scoringsrekorder
 
 Sejlsport/Cykling:

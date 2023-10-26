@@ -42,6 +42,8 @@ def get_sports():
     df_boksning = pd.read_csv('articles/boksning.csv', encoding = "ISO-8859-1")
     df_tour_de_france = pd.read_csv('articles/tour_de_france.csv', encoding = "ISO-8859-1")
     df_vinterol = pd.read_csv('articles/vinterol.csv', encoding = "ISO-8859-1")
+    # df_esport =  pd.read_csv('articles/esport.csv', encoding = "ISO-8859-1")
+    # df_vm_fodbold_1 =  pd.read_csv('articles/vm_fodbold_1.csv', encoding = "ISO-8859-1")
 
 
     df = pd.concat([
@@ -68,7 +70,9 @@ def get_sports():
         df_sejlsport,
         df_boksning,
         df_tour_de_france,
-        df_vinterol
+        df_vinterol,
+        # df_esport,
+        # df_vm_fodbold_1
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)
@@ -137,7 +141,7 @@ def split_data(data, percentage):
     l = len(train)
     p = l - int((percentage/100) * l)
 
-    # return (train[0:p], train[p:], labels[0:p], labels[p:])
+    return (train[0:p], train[p:], labels[0:p], labels[p:])
 
 
 
