@@ -137,6 +137,10 @@ def split_data(data, percentage):
     l = len(train)
     p = l - int((percentage/100) * l)
 
+    # return (train[0:p], train[p:], labels[0:p], labels[p:])
+
+
+
     tt = list(train)
     ll = list(labels)
 
@@ -146,9 +150,9 @@ def split_data(data, percentage):
     val_labels = []
 
     while count < ((l-p) /2):
-        if labels[i] == 1:
-            val_data.append(train[i])
-            val_labels.append(labels[i])
+        if ll[i] == 1:
+            val_data.append(tt[i])
+            val_labels.append(ll[i])
             del tt[i]
             del ll[i]
             count += 1
@@ -159,9 +163,9 @@ def split_data(data, percentage):
     i = 0
     
     while count < ((l-p) /2):
-        if labels[i] == 0:
-            val_data.append(train[i])
-            val_labels.append(labels[i])
+        if ll[i] == 0:
+            val_data.append(tt[i])
+            val_labels.append(ll[i])
             del tt[i]
             del ll[i]
             count += 1
@@ -169,6 +173,28 @@ def split_data(data, percentage):
         i += 1   
 
     return (np.array(tt), np.array(val_data), np.array(ll), np.array(val_labels))
+
+    # train, labels = data
+
+    # l = len(train)
+    # p = l - int((percentage/100) * l)
+    # half_val_length = int((l -p) / 2)
+
+    # # tt = list(train)
+    # # ll = list(labels)
+
+    # pos_ind = [i for (i,x) in enumerate(labels) if x == 0]
+    # neg_ind = [i for (i,x) in enumerate(labels) if x == 1]
+
+    # total_ind = pos_ind[:half_val_length] + neg_ind[:half_val_length]
+    # print(total_ind)
+
+    # val_data, val_labels = zip(*([(train[x], labels[x]) for x in total_ind]))
+    # print(labels[:300])
+    # train = np.delete(train, total_ind)
+    # labels = np.delete(labels, total_ind)
+
+    # return (train, np.array(val_data), labels, np.array(val_labels))
 
 
 
