@@ -15,9 +15,13 @@ Polyglots Notebooks (Extension)
     • Kommende resultater klassificeres ikke som resultater.
     • Permanente afbrydelser, som forårsaget af eksempelvis skader gælder heller ikke som resultat.
     • At udøveren udgår, melder afbud, diskvalificeres eller på forhånd misser deltagelse gælder ikke som resultat. Ved styrt, motorproblemer eller andet gælder det kun som resultat, hvis et resultat nævnes. 
-    • Hædringer, hyldninger og fejringer for resultater (ikke nomineringer ) medtages som resultat.
-    • Ændringer på rangliste medtages ikke også som resultat
-    • Scoringsrekorder er resultat.
+    • Hædringer, hyldninger og fejringer for resultater ( ikke nomineringer ) medtages som resultat.
+    • Ændringer på rangliste medtages er også resultat
+
+
+Fodbold/basketball/Håndbold:
+    - scoringer/point er også resultater
+    - scoringsrekorder
 
 Sejlsport/Cykling:
     • Avancering gælder som resultat, altså at modstander rykker frem, uden at sejladsen er afgjort endnu.
