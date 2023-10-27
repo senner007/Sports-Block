@@ -44,6 +44,8 @@ def get_sports():
     df_vinterol = pd.read_csv('articles/vinterol.csv', encoding = "ISO-8859-1")
     df_esport =  pd.read_csv('articles/esport.csv', encoding = "ISO-8859-1")
     df_vm_fodbold_1 =  pd.read_csv('articles/vm_fodbold_1.csv', encoding = "ISO-8859-1")
+    df_vm_fodbold_3 =  pd.read_csv('articles/vm_fodbold_3.csv', encoding = "ISO-8859-1")
+
 
 
     df = pd.concat([
@@ -72,7 +74,8 @@ def get_sports():
         df_tour_de_france,
         df_vinterol,
         df_esport,
-        df_vm_fodbold_1
+        df_vm_fodbold_1,
+        df_vm_fodbold_3
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)
