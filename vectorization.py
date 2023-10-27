@@ -30,6 +30,9 @@ def replace_digits(word):
     new_str = word
     new_str = tf.strings.regex_replace(new_str, pattern=r'(?:18|19|20)\d{2}', rewrite=r'xyear')
     new_str = tf.strings.regex_replace(new_str, pattern=r'\d+', rewrite=r'xnumber', replace_global=True)
+    # new_str = tf.strings.regex_replace(new_str, pattern=r'\b(?:to|tre|fire|fem|seks|syv|otte|ni|ti)\b', rewrite=r'xnumber_multiple', replace_global=True)
+    # new_str = tf.strings.regex_replace(new_str, pattern=r'\b(?:anden|tredje|fjerde|femte|sjette|syvende|ottende|niende|tiende)(?:-)?', rewrite=r'xnumber_multiple', replace_global=True)
+
     return new_str
 
 

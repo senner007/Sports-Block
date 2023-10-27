@@ -1,6 +1,6 @@
 Category,Headline,SubHeading,Link,isResult,isMaybe
 Tour de France,Vingegaard vinder Tour de France,Jonas Vingegaard melder sig med Tour-sejren ind i en eksklusiv klub,,True,
-Tour de France,"Tour-ruten er ikke designet til Vingegaard, slår løbsdirektør fast",Christian Prudhomme anerkender at næste års Tour de France-rute ligger godt til Jonas Vingegaard. ,,True,
+Tour de France,"Tour-ruten er ikke designet til Vingegaard, slår løbsdirektør fast",Christian Prudhomme anerkender at næste års Tour de France-rute ligger godt til Jonas Vingegaard. ,,False,
 Tour de France,Her er danskerne og deres roller i årets Tour,Cykelekspert Christian Moberg udpeger i oversigten herunder de 11 danske rytteres roller i Tour de France-feltet anno 2023,,False,
 Tour de France,Holdene i Tour de France 2023,Her kan du se de 22 hold i Tour de France 2023. Siden bliver løbende opdateret med info og ryttere,,False,
 Tour de France,Sådan får du succes i Tourspillet - regerende mester viser vej til toppen,Jonas Bukhave Spenner vandt Tourspillet i 2022. I år hjælper han dig med de generelle tanker og taktikken inden årets Tour,,False,
@@ -98,7 +98,7 @@ Tour de France,"Bjerg erkender, at Touren er tabt",Nu retter Mikkel Bjerg og UAE
 Tour de France,Mads P. har blandet fornemmelse inden mulig massespurt,Den danske stjerne ser frem til at køre med om etapesejren igen,,False,
 Tour de France,Vingegaard overrasket med fodboldtrøje ,"Jonas Vingegaard fik en gave, efter han var kommet i mål. ",,False,
 Tour de France,Wout van Aert forlader Touren,"Det belgiske fænomen rejser hjem for at være hos sin hustru, der snart skal føde",,False,
-Tour de France,"UAE tænkte kun på én ting, da Pogacar kom med nedslående melding","Tadej Pogacar ramte slet ikke dagen på Tourens kongeetape, hvor han tabte næsten seks minutter til Jonas Vingegaard",,False,
+Tour de France,"UAE tænkte kun på én ting, da Pogacar kom med nedslående melding","Tadej Pogacar ramte slet ikke dagen på Tourens kongeetape, hvor han tabte næsten seks minutter til Jonas Vingegaard",,True,
 Tour de France,Vingegaard-chef med blandede følelser: - Ikke i orden at juble højt,"Merijn Zeeman har svært ved at juble over, at Tadej Pogacar faldt sammen på 18. etape",,False,
 Tour de France,Vingegaard får nye spørgsmål om doping,"Danskeren forsikrer nok en gang, at han er ren",,False,
 Tour de France,Mads P. blev målløs over Vingegaard-nyhed ,"Mads Pedersen havde mildest talt svært ved at forholde sig til det, han hørte. ",,False,
@@ -173,7 +173,7 @@ Tour de France,"Hylder holdkammerat, der stoppede op og festede med fans","Benoî
 Tour de France,Tilskuer skyld i stort styrt ,Jonas Vingegaard undslap lige akkurat styrtet. ,,False,
 Tour de France,INEOS-profil udgår,"Daniel Martinez er ude af Tour de France, da INEOS-holdets læge har spottet tegn på en hjernerystelse",,False,
 Tour de France,Kim Andersen har planlagt sit ønske-exit,I mere end 40 år har Kim Andersen nydt tilværelsen som enten professionel cykelrytter eller sportsdirektør. ,,False,
-Tour de France,Klassementsrytter forklarer alvorligt styrt: - Pludselig blev jeg ramt bagfra,Louis Meintjes lå ellers godt til i klassementet før 14. etape,,True,x
+Tour de France,Klassementsrytter forklarer alvorligt styrt: - Pludselig blev jeg ramt bagfra,Louis Meintjes lå ellers godt til i klassementet før 14. etape,,False,x
 Tour de France,Video af fransk rytter går viralt - til fest på finalebjerg ,Den franske rytter viste et usædvanligt overskud på den sidste stigning. ,,False,
 Tour de France,Ekspert hæfter sig ved detalje i Vingegaards kørsel,"Noget tyder på, at Jonas Vingegaard har luret, hvordan Pogacars angreb skal håndteres",,False,
 Tour de France,"- Der bliver kørt Tour de France på en måde, vi ikke er vant til at se","Ifølge Trek-sportsdirektøren er det blevet sværere at forudsige, hvad der kommer ske på Tour-etaperne",,False,
@@ -194,7 +194,7 @@ Tour de France,Kæmpe styrt afbryder etape - rytter kørt væk i ambulance  ,To ryt
 Tour de France,Chef kalder Tour-holds indsats for pinlig,"Holdchef Patrick Lefevere kalder Quick-Steps resultater i årets Tour de France for pinlige. Sportsdirektør Wilfred Peeters siger, at de ikke giver op",,False,
 Tour de France,Fransk stjerne blandt ofrene efter flere styrt,I alt er fem ryttere udgået som følge af styrt på lørdagens etape,,False,
 Tour de France,Vingegaard-hjælpere holdt fri - derfor er det nødvendigt,"Der venter nogle hårde dage for rytterne i dette års Tour de France, og derfor skal holdene være så intakte som muligt",,False,
-Tour de France,Touren er tæt - men disse år har været vildere,Efter 13. etape er årets Tour de France nummer seks på listen over de tætteste løb i historien,,False,
+Tour de France,Touren er tæt - men disse år har været vildere,Efter 13. etape er årets Tour de France nummer seks på listen over de tætteste løb i historien,,True,
 Tour de France,Chef raser mod topsprinter: - Han kritiserede alt og alle,"Lotto Dstnys manager er på ingen måde tilfreds med, at Caleb Ewan valgte at udgå af Tour de France",,False,
 Tour de France,Ekspert glæder sig over særligt tiltag på nedkørsel,En af nedkørslerne på 14. etape er blevet heftigt debatteret,,False,
 Tour de France,Trods hypnose og psykolog - her falder franskmand igennem,"Lige så snart det går nedad, har Pierre LaTour store problemer",,False,
@@ -205,7 +205,7 @@ Tour de France,Quick-Step forfremmer Mørkøv til sprinter,"Michael Mørkøv skal kø
 Tour de France,Blev overhalet tæt på mål af Vingegaard og Pogacar: - Skiderikker,"James Shaw hentede en syvendeplads på 13. etape, men det kunne være blevet til mere, hvis ikke Pogacar og Vingegaard havde angrebet",,True,
 Tour de France,"Vingegaard kan lide alt det, der venter de næste to dage",14. og 15. etape er fyldt med bjerge,,False,
 Tour de France,"- Jeg er glad for, at jeg stadig er i live, siger Van Aert","Efter etapen var et hav af tilskuere i vejen, da stjernen skulle finde holdbussen",,False,
-Tour de France,Én ting ærgrer Pogacar-lejren,"Selvom Tadej Pogacar hentede otte sekunder på Jonas Vingegaard, var han ikke helt tilfreds",,False,
+Tour de France,Én ting ærgrer Pogacar-lejren,"Selvom Tadej Pogacar hentede otte sekunder på Jonas Vingegaard, var han ikke helt tilfreds",,True,
 Tour de France,Ryster på hovedet af sin egen holdkammerat,"Jasper De Buyst har taget føringer i flere dage for Caleb Ewan, men nu er det slut. ",,False,
 Tour de France,Ekspert klapper i hænderne over alternativ Jumbo-taktik: - Meget interessant,"Ekspert glæder sig til at se, hvad Jumbo-Visma finder på i de kommende dage",,False,
 Tour de France,Vingegaard-hjælpers reaktion imponerer rival,Sepp Kuss får masser af ros efter fredagens etape,,False,
