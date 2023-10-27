@@ -1,6 +1,6 @@
 Category,Headline,SubHeading,Link,isResult,isMaybe
 Tour de France,Vingegaard vinder Tour de France,Jonas Vingegaard melder sig med Tour-sejren ind i en eksklusiv klub,,True,
-Tour de France,"Tour-ruten er ikke designet til Vingegaard, slår løbsdirektør fast",Christian Prudhomme anerkender at næste års Tour de France-rute ligger godt til Jonas Vingegaard. ,,False,
+Tour de France,"Tour-ruten er ikke designet til Vingegaard, slår løbsdirektør fast",Christian Prudhomme anerkender at næste års Tour de France-rute ligger godt til Jonas Vingegaard. ,,True,
 Tour de France,Her er danskerne og deres roller i årets Tour,Cykelekspert Christian Moberg udpeger i oversigten herunder de 11 danske rytteres roller i Tour de France-feltet anno 2023,,False,
 Tour de France,Holdene i Tour de France 2023,Her kan du se de 22 hold i Tour de France 2023. Siden bliver løbende opdateret med info og ryttere,,False,
 Tour de France,Sådan får du succes i Tourspillet - regerende mester viser vej til toppen,Jonas Bukhave Spenner vandt Tourspillet i 2022. I år hjælper han dig med de generelle tanker og taktikken inden årets Tour,,False,
@@ -17,7 +17,7 @@ Tour de France,Vingegaard efter landing i Danmark: - Har set meget frem til det,
 Tour de France,Særligt én lykønskning har gjort indtryk på Vingegaard,"Onsdag fortsætter fejringen af den danske Tour-stjerne, når han vender hjem til Danmark. ",,False,
 Tour de France,Specialdesignet fly og bil til Vingegaard - se det her,"Se billederne af de speciallavede transportmidler, Jonas Vingegaard bliver fragtet  rundt i onsdag",,False,
 Tour de France,"- Det her er det mest trættende, siger Vingegaard",Efter triumfen i Paris kulminerer det hele med en stor fejring på Rådhuspladsen og Tivoli i København onsdag,,False,
-Tour de France,Begejstret Vingegaard ser frem til Tour-fejring ,"Den nykårede Tour de France-vinder lander i Danmark onsdag, hvor han skal fejres. ",,False,
+Tour de France,Begejstret Vingegaard ser frem til Tour-fejring ,"Den nykårede Tour de France-vinder lander i Danmark onsdag, hvor han skal fejres. ",,True,
 Tour de France,"- Ikke engang noget, der skal spørges om, siger Riis om Vingegaard-spørgsmål","De to tidligere cykelryttere mangler ord for, hvor stor en præstation Vingegaard har leveret",,False,
 Tour de France,Danskerhold jubler over Tour-debut: - Meget bedre end ventet ,I fremtiden håber Uno-X på igen at kunne deltage i Tour de France. ,,False,
 Tour de France,"Omdiskuteret sprinter har modtaget dødstrusler, fortæller kæreste ",Belgieren har været i vælten under Touren for sin aggressive stil,,False,
@@ -136,7 +136,7 @@ Tour de France,"- Jeg er virkelig stolt, siger Vingegaard",Danskeren fører Tour 
 Tour de France,Eksperter blæst bagover: - Det er sindssygt,Christian Moberg sad bag Jonas Vingegaard i en bil under enkeltstarten,,False,
 Tour de France,Vingegaard smadrer Pogacar og vinder enkeltstart,Jonas Vingegaard satte Tadej Pogacar på plads på tirsdagens enkeltstart. ,,True,
 Tour de France,Skjelmose overrasket over sin enkeltstart,"Tour de Frances eneste enkeltstart gik bedre, end Mattias Skjelmose havde forventet",,False,
-Tour de France,"To kom for sent, to styrtede: Start går helt galt for Tour-hold",DSM-mandskabet havde nok at se til på 16. etape,,True,x
+Tour de France,"To kom for sent, to styrtede: Start går helt galt for Tour-hold",DSM-mandskabet havde nok at se til på 16. etape,,False,x
 Tour de France,"Dét sker, hvis Vingegaard og Pogacar slutter i samme tid ","Hvordan bliver Touren afgjort i tilfælde af, at de to duellanter registrerer samme tid efter 21. etape? Få svaret her. ",,False,
 Tour de France,Touren ændrer enkeltstart efter flere styrt,"Efter at blandt andre John Degenkolb styrtede, har Tour-arrangørerne gjort det første sving mindre farligt",,False,
 Tour de France,Vingegaards træningstur fik Mørkøv til at spærre øjnene op,"16. etape er en enkeltstart på 22,4 kilometer",,False,

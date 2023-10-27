@@ -92,7 +92,8 @@ tournaments = {
   "liv golf" : "livholf",
   "sudirman cup": "sudirmancup",
   "ol i rio": "ol",
-  "ol i tokyo" : "ol"
+  "ol i tokyo" : "ol",
+  "tour" : "tour"
 }
 
 
