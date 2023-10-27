@@ -45,6 +45,8 @@ def get_sports():
     df_esport =  pd.read_csv('articles/esport.csv', encoding = "ISO-8859-1")
     df_vm_fodbold_1 =  pd.read_csv('articles/vm_fodbold_1.csv', encoding = "ISO-8859-1")
     df_vm_fodbold_3 =  pd.read_csv('articles/vm_fodbold_3.csv', encoding = "ISO-8859-1")
+    df_latest_new =  pd.read_csv('articles/latest_new.csv', encoding = "ISO-8859-1")
+    df_bueskydning =  pd.read_csv('articles/bueskydning.csv', encoding = "ISO-8859-1")
 
 
 
@@ -75,7 +77,9 @@ def get_sports():
         df_vinterol,
         df_esport,
         df_vm_fodbold_1,
-        df_vm_fodbold_3
+        df_vm_fodbold_3,
+        df_latest_new,
+        df_bueskydning
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)

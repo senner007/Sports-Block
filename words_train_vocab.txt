@@ -4,6 +4,7 @@ absolut
 absurd
 absurde
 ac
+accept
 acceptere
 accepterer
 action
@@ -11,7 +12,7 @@ ad
 adam
 adfærd
 adgang
-adgangskort
+adlyde
 administrerende
 adresser
 adræthed
@@ -87,6 +88,7 @@ afklaring
 afkode
 afkortede
 afkræftet
+afkræver
 afkræves
 afleverede
 afleveret
@@ -102,6 +104,7 @@ aflysningerne
 aflyst
 aflyste
 afløb
+afløse
 afløser
 afløses
 afløst
@@ -125,8 +128,10 @@ afsky
 afskåret
 afskærme
 afslappet
+afslut
 afslutning
 afslutningen
+afslutninger
 afslutningsfest
 afslutte
 afsluttede
@@ -134,6 +139,7 @@ afsluttende
 afslutter
 afsluttes
 afsluttet
+afsløre
 afslørede
 afslører
 afsløret
@@ -145,6 +151,7 @@ afsoner
 afspejler
 afspille
 afstand
+afstande
 afsted
 afstemning
 afsæt
@@ -167,9 +174,11 @@ afveje
 afvekslende
 afventer
 afvikle
+afviklede
 afvikler
 afvikles
 afviklet
+afviklingen
 afvise
 afviser
 afvisning
@@ -213,6 +222,7 @@ albuen
 albueproblemer
 alder
 alderen
+aldersgrænse
 alderspræsidenterne
 aldrig
 alene
@@ -224,8 +234,10 @@ alle
 allemandseje
 allerbedste
 allerede
+allerhurtigste
 allermest
 allersidst
+allerstørst
 allerstørste
 allersværest
 alles
@@ -239,6 +251,7 @@ alperne
 alpin
 alpine
 alpinhistorie
+alpint
 alsidige
 alt
 altafgørende
@@ -264,6 +277,7 @@ amatørbokseforbund
 amatørbokseforbundet
 amatørboksning
 amatører
+amatøreuropamester
 amatørforbund
 ambassadør
 ambassadørskab
@@ -282,6 +296,7 @@ anabolske
 analyse
 analysen
 analyserede
+analytiker
 anbefaler
 anbefaling
 anbefalingen
@@ -373,22 +388,20 @@ ansigter
 ansigtet
 anskaffet
 ansporede
+anstrengelserne
 ansvar
 ansvaret
 ansvarlig
 anså
 ansættelse
 ansættelsen
-ansætter
 ansøger
 ansøgning
-ansøgningsprocessen
 antaget
 antal
 antallet
 antidoping
 antidopingagentur
-antidopingagenturet
 antidopingarbejdet
 antidopingchef
 antidopingenhed
@@ -398,6 +411,7 @@ antidopingmyndigheder
 antidopingregler
 antidopingreglerne
 antik
+antiklimaks
 antisemitisk
 antisemitisme
 anvendes
@@ -422,19 +436,18 @@ arbejdsgruppe
 arbejdsindsats
 arbejdsmiljø
 arbejdsplads
-arbejdssejr
 arbejdstøjet
 arbejdsvilkår
 arena
 arenaen
-arenaens
 arenaer
-argumenterede
 arild
 arkivet
 arm
 armbåndsur
+arme
 armen
+armene
 arne
 arrangementer
 arrangementet
@@ -477,9 +490,9 @@ assisterede
 assisterende
 assisterer
 assistlisten
-associations
 asti
 astmaspray
+astronomisk
 asyl
 at
 athletics
@@ -496,8 +509,8 @@ atletik
 atletikboss
 atletikbosser
 atletikchef
-atletikchefer
 atletikchefs
+atletikdanskere
 atletikdistancer
 atletikdommer
 atletikens
@@ -581,6 +594,7 @@ badmintonforbunds
 badmintonkamp
 badmintonkampe
 badmintonlandshold
+badmintonlandstræner
 badmintonnationer
 badmintonoplevelser
 badmintonspiller
@@ -600,6 +614,7 @@ baduljen
 bag
 bagagen
 bagefter
+bagen
 bagende
 bagerst
 bageste
@@ -620,7 +635,6 @@ bagmand
 bagmanden
 bagover
 bagslag
-bagspiller
 bagspilleren
 bagt
 bagtanke
@@ -657,22 +671,20 @@ bandereklamen
 bandlyse
 bane
 banebrydende
-banecykelryttere
 banecykling
 banede
 baneguld
 banehalvdel
 banelandshold
 banelandsholdet
-banelandsholdsrytter
 banelandstræner
-banelandstræneren
 baneløber
 banemand
 banen
 banens
 baner
 banerytter
+banespecialisten
 banet
 bang
 bange
@@ -692,6 +704,7 @@ bare
 barista
 barker
 barn
+barndom
 barndomsklubben
 barndomstræner
 barndomsvennerne
@@ -709,7 +722,6 @@ baseballiga
 baseballkamp
 baseballkampe
 baseballkampen
-baseballklub
 baseballklubben
 baseballklubber
 baseballliga
@@ -730,20 +742,17 @@ baskere
 basket
 basketball
 basketballekspert
-basketballforbund
 basketballherrer
 basketballhold
 basketballkamp
 basketballkampen
 basketballkommentator
-basketballkvinder
 basketballliga
 basketballspiller
 basketballspillere
 basketballspilleren
 basketballstjerne
 basketballstjernen
-basketballtræneren
 basketballturnering
 basketballverdenen
 basketfinale
@@ -752,6 +761,7 @@ basketfænomen
 basketherrer
 baskethold
 basketikonet
+basketinteresserede
 basketkampen
 basketkvinder
 basketlandshold
@@ -762,6 +772,7 @@ basketligaklubben
 basketlivet
 basketpokaler
 basketrække
+basketspiller
 basketspillere
 basketspilleren
 basketstjerne
@@ -789,6 +800,7 @@ beder
 bedre
 bedrift
 bedriften
+bedrifter
 bedrifterne
 bedring
 bedst
@@ -799,6 +811,7 @@ bedøm
 bedømme
 bedømmelserne
 bedømmer
+bedømt
 befinder
 befolkning
 befolkningen
@@ -844,14 +857,12 @@ beholde
 beholder
 behovet
 behøver
-bejler
 bejlere
 bekendt
 beklager
 beklaget
 bekostning
 bekræfte
-bekræftede
 bekræfter
 bekræftet
 bekymre
@@ -886,6 +897,7 @@ benyttet
 benzin
 benægter
 beordret
+berettigede
 berettiget
 berusende
 berygtede
@@ -894,7 +906,6 @@ berømmelse
 berømt
 berømte
 berøringen
-berøringsforbud
 berørt
 berørte
 besat
@@ -910,8 +921,9 @@ besidder
 beskadiget
 besked
 beskeden
+beskedent
 beskeder
-beskedne
+beskederne
 beskidt
 beskidte
 beskrive
@@ -962,11 +974,11 @@ besynderlig
 besætningen
 besætninger
 besætningsmedlem
+besætningsmedlemmer
 besøg
 besøgende
 besøgt
 besøgte
-besørge
 bet
 betaget
 betale
@@ -997,7 +1009,6 @@ bevare
 bevarede
 bevarer
 bevidst
-bevidste
 bevidsthed
 bevidstheden
 bevidstløs
@@ -1048,7 +1059,6 @@ bilmærker
 biluheld
 bilulykke
 bindende
-bing
 biologiske
 birdies
 birk
@@ -1142,11 +1152,11 @@ bobslæde
 bobslædekørere
 boede
 boende
-bog
 bogen
 bogey
 bogeyfri
 bogstaveligt
+bogstaver
 boks
 bokse
 bokseboss
@@ -1202,13 +1212,13 @@ boksestjerne
 boksestjernen
 boksestjerner
 bokset
+boksetalent
 boksetalenter
 boksetræner
 boksetræneren
 boksetræningen
 bokseturnering
 bokseturneringerne
-bokseunion
 bokseverdenen
 bokseverdensmester
 bokseveteran
@@ -1223,7 +1233,6 @@ bolde
 bolden
 boldklub
 boldkrise
-boldpigens
 boldspil
 bolt
 bolts
@@ -1251,6 +1260,7 @@ bord
 bordet
 bordtennisspiller
 bordtennisstjerne
+borg
 borgmester
 borgmesteren
 borrelia
@@ -1267,6 +1277,7 @@ bowles
 bowling
 bowlinglandshold
 boxplay
+boykot
 boykotte
 boykotter
 boys
@@ -1301,21 +1312,21 @@ bremset
 brev
 brien
 brik
-brikker
 brillante
+briller
 brillerede
 brillerer
 bringe
 bringer
 bro
 brok
+brokke
 brokker
 bronze
 bronzeduel
 bronzeduo
 bronzekamp
 bronzekampen
-bronzekampens
 bronzemedalje
 bronzemedaljen
 bronzemedaljer
@@ -1379,20 +1390,37 @@ budgetterer
 budskab
 budskaber
 budt
+bue
+bueklasse
+buen
+bueskydnig
+bueskydning
+bueskydningen
+bueskydnings
+bueskydningschef
 bueskydningsdisciplinen
+bueskydningsguld
+bueskydningskonkurrence
+bueskydningskonkurrencen
 bueskytte
+bueskyttebronze
+bueskyttehold
 bueskytten
 bueskytter
+bueskyttere
+bueskytterne
+bueskytternes
+bueskytters
 bugt
 bugten
 buh
 buhet
 buhråb
+buhråbene
 bukserne
 buldrer
 bulldogs
 bullseye
-bump
 bund
 bundbrag
 bunden
@@ -1432,7 +1460,6 @@ bygge
 bygger
 bygges
 bygget
-bylden
 bytte
 bytter
 byttet
@@ -1462,6 +1489,7 @@ bænken
 bænkerolle
 bænkes
 bænket
+bænkplads
 bære
 bærer
 bød
@@ -1510,7 +1538,7 @@ centimeter
 central
 centralt
 centrum
-champagnebold
+ceremonien
 champagnen
 champagnepropperne
 champions
@@ -1554,12 +1582,12 @@ cifre
 cifrene
 cirka
 cirkel
-cirkulerer
 cirkus
 cirkusset
 citater
 city
 citys
+civil
 cl
 classic
 clenbuterol
@@ -1579,6 +1607,9 @@ comebacks
 comebacksejr
 comebackturnering
 compound
+compoundskytte
+compoundskytten
+compundskytternes
 computerspil
 continental
 corneliussen
@@ -1608,8 +1639,8 @@ coronavirus
 country
 cowboys
 cp
+crashe
 crazy
-cricket
 cricketbane
 cross
 cruise
@@ -1639,13 +1670,11 @@ curlingturnering
 cuttet
 cv
 cykel
-cykelanlæg
 cykelbanen
 cykelboss
 cykelchef
 cykeldansker
 cykeldisciplinen
-cykelduo
 cykelekspert
 cykeleksperter
 cykelforbund
@@ -1653,7 +1682,9 @@ cykelhold
 cykelholdet
 cykeliagttagere
 cykelikon
+cykelkarriere
 cykelkarrieren
+cykelkommentator
 cykelløb
 cykelløbet
 cykelmedie
@@ -1662,6 +1693,7 @@ cykelrytter
 cykelryttere
 cykelrytteren
 cykelrytteres
+cykelrytterne
 cykelskifte
 cykelsport
 cykelsporten
@@ -1673,6 +1705,7 @@ cykelstyrt
 cykelsucces
 cykelsæson
 cykelsæsonen
+cykeltalenter
 cykeluheld
 cykelunion
 cykelverdenen
@@ -1696,9 +1729,9 @@ dagligstue
 dagligt
 dagsorden
 dagsordenen
-dal
 dame
 damedouble
+damelandsholdet
 damer
 damerne
 dames
@@ -1749,6 +1782,7 @@ debutere
 debuterede
 debuterer
 debuteret
+debutkamp
 debutsæson
 debutår
 december
@@ -1770,6 +1804,7 @@ dejligt
 del
 dele
 delegation
+delegationen
 deler
 deles
 delikat
@@ -1785,22 +1820,21 @@ deltageren
 deltagerne
 deltaget
 delte
-deltidsmandskab
+deltog
 dem
 dementere
 demokrati
 demonstranter
 demonstrationer
+demonstreret
 den
 dengang
 denne
 dens
 departement
 depression
-depressionsramt
 der
 derby
-derbyer
 derbyet
 derefter
 deres
@@ -1844,6 +1878,7 @@ dimension
 din
 ding
 dingle
+diplomatisk
 direkte
 direktør
 direktøren
@@ -1882,6 +1917,7 @@ diskvalifikationer
 disney
 dispensation
 disponeret
+disput
 disse
 distance
 distancen
@@ -1910,7 +1946,6 @@ dokumentaren
 dokumentarserien
 dokumenter
 dokumenteret
-dolbergs
 dolket
 dollar
 dollars
@@ -1960,7 +1995,6 @@ dopingbekæmpelsen
 dopingbekæmper
 dopingbekæmperen
 dopingbeskyldninger
-dopingdata
 dopingdom
 dopingdømt
 dopingdømte
@@ -1975,11 +2009,11 @@ dopingkontrol
 dopingkontrollen
 dopingkontrollørernes
 dopingliste
+dopinglisten
 dopingmisbrug
 dopingmisbrugere
 dopingmistænkt
 dopingnævnet
-dopingoplysninger
 dopingproblemer
 dopingpræparater
 dopingprøve
@@ -1987,7 +2021,6 @@ dopingprøver
 dopingreglementet
 dopingregler
 dopingreglerne
-dopingrygter
 dopingrygterne
 dopingsag
 dopingsagen
@@ -2003,12 +2036,9 @@ dopingtests
 dopingudvalg
 double
 doublemakkere
-doublen
 doubler
 doublespiller
 doublespilleren
-doublespillerne
-doublestjerne
 doven
 drab
 drabet
@@ -2030,7 +2060,6 @@ drengeryttere
 dressur
 dressurheste
 dressurlandshold
-dressurlandsholdet
 dressurlegende
 dressurrytter
 dressurrytteren
@@ -2049,7 +2078,6 @@ drilsk
 drilske
 drive
 driver
-drivvådt
 drog
 drone
 dronning
@@ -2113,7 +2141,6 @@ duellerede
 dufte
 duftede
 dufter
-dukke
 dukkede
 dukker
 dukket
@@ -2194,7 +2221,6 @@ døende
 døgn
 døgnet
 døgnrytme
-døgnrytmen
 døgns
 døjede
 døjer
@@ -2223,9 +2249,11 @@ effektive
 effektivitet
 effektivt
 efter
+efterforske
 efterforsker
 efterforskes
 efterforsket
+efterforskning
 efterforskningen
 efterfølgende
 efterfølger
@@ -2245,10 +2273,12 @@ eftermiddagen
 eftermæle
 efterskole
 efterslæb
+efterslæbet
 efterspil
+efterspurgt
 eftertragtede
 efterudtages
-efterudtaget
+eftervirkninger
 efteråret
 efterårets
 efterårsbrag
@@ -2268,12 +2298,14 @@ eid
 ejendomme
 ejer
 ejere
+ejerkreds
 ejet
 eks
 eksekutivkomit
 eksekutivkomite
 eksempel
 eksisteret
+ekskaptajner
 ekskludere
 ekskluderende
 eksklusiv
@@ -2286,6 +2318,7 @@ ekspertens
 eksperter
 eksperterne
 eksperternes
+ekspertkommentator
 ekspertpanel
 eksplodere
 eksploderede
@@ -2306,6 +2339,7 @@ ekstreme
 ekstremt
 eksverdensmester
 ekvipage
+ekvipagerne
 el
 elander
 elefant
@@ -2317,7 +2351,10 @@ elendigt
 eleven
 eliminerede
 elimineret
+elimineringen
+elimineringsrunden
 elite
+eliteansvarlig
 eliteatlet
 eliteatleter
 elitechef
@@ -2330,6 +2367,7 @@ eliteformand
 eliteidræt
 eliteidrætsudøvere
 eliteidrættens
+eliteinstitutionen
 eliteorganisationen
 eliteudøvere
 eller
@@ -2370,6 +2408,7 @@ enegang
 energi
 energidrik
 energiforladt
+energiindsprøjtning
 enerkajak
 enes
 eneste
@@ -2391,6 +2430,7 @@ enkelte
 enkeltstart
 enkeltstarten
 enkeltstartens
+enkeltstarter
 enkeltstartsspecialist
 enken
 enorm
@@ -2428,7 +2468,6 @@ erkendelse
 erkender
 erkendt
 erklærer
-erklæres
 erobre
 erobrede
 erobrer
@@ -2436,6 +2475,7 @@ erstatning
 erstatte
 erstattede
 erstatter
+erstattes
 erstattet
 es
 eskorteret
@@ -2520,17 +2560,18 @@ familie
 familiedramaet
 familiefar
 familiefest
+familieforetagende
 familien
 familiens
 familieudflugtens
 famlende
 famler
-famøse
 fan
 fanatiske
 fandeme
 fanden
 fandt
+fane
 fanebærer
 fanebærere
 fanen
@@ -2540,6 +2581,7 @@ fangeudveksling
 fanklub
 fans
 fansene
+fansenes
 fantasi
 fantastisk
 fantastiske
@@ -2577,11 +2619,11 @@ fastslår
 fat
 fatte
 fatter
+fattig
 fattigdom
 fattigere
 favorabelt
 favorit
-favoritbaner
 favoritdistance
 favoritdistancen
 favoritdræberne
@@ -2606,10 +2648,10 @@ fedeste
 fedtefadet
 feje
 fejer
+fejet
 fejevogn
 fejl
 fejlaflevering
-fejlagtig
 fejlagtige
 fejlagtigt
 fejler
@@ -2619,7 +2661,6 @@ fejlfrit
 fejlkendelser
 fejlresultat
 fejlslagen
-fejlslagent
 fejlslagne
 fejlslået
 fejltrin
@@ -2632,6 +2673,7 @@ fejring
 fejringen
 felt
 feltet
+feltets
 fem
 femdobbelte
 femkamp
@@ -2644,6 +2686,7 @@ femtepladsen
 femårig
 femårige
 ferie
+ferieby
 feriehold
 fest
 festarrangører
@@ -2654,13 +2697,12 @@ festligt
 ff
 fiasko
 fiaskoen
-fiaskoer
 fiberskade
+fidel
 fifa
 fifas
 fight
 fightende
-fighter
 fightervilje
 figur
 fik
@@ -2687,7 +2729,6 @@ finaledommer
 finaledrøm
 finaledrømme
 finaledrømmen
-finaledyst
 finaleflasker
 finaleføring
 finalegyser
@@ -2701,6 +2742,7 @@ finalenederlag
 finalenederlaget
 finaleopgør
 finaleplads
+finalepladsen
 finalepladser
 finaler
 finalerne
@@ -2722,12 +2764,12 @@ finaletørke
 finalist
 finalister
 finansierede
-finansieringsproblemer
 finanskrise
 finansordfører
 finde
 finder
 findes
+fine
 finesser
 fineste
 fingeren
@@ -2752,10 +2794,10 @@ firebakketurneringens
 firedobbelt
 firedobbelte
 firemandsbob
-firemandsbobslæde
 firemålssejr
 firerkajak
 fireårig
+fireårige
 firmaer
 fis
 fisker
@@ -2765,6 +2807,7 @@ fjende
 fjendtlig
 fjerde
 fjerdebedste
+fjerdedel
 fjerdeplads
 fjerdepladsen
 fjerdeyngste
@@ -2778,6 +2821,7 @@ fjervægteren
 fjollende
 flabet
 flad
+flade
 flader
 fladt
 flag
@@ -2822,8 +2866,6 @@ flygtede
 flygter
 flyrejse
 flyselskabet
-flystyrt
-flytransport
 flytte
 flyttede
 flytteplaner
@@ -2834,12 +2876,10 @@ flyttet
 flyvende
 flyver
 flyvetur
-flyveture
 flyveturen
 flå
 flåede
 flået
-flår
 flåt
 flækkede
 flækket
@@ -2889,12 +2929,10 @@ fodboldhold
 fodboldikon
 fodboldkamp
 fodboldkampe
-fodboldkaos
 fodboldkarriere
 fodboldkarrieren
 fodboldklub
 fodboldklubben
-fodboldkometer
 fodboldkommentator
 fodboldkvinder
 fodboldkvindernes
@@ -2941,7 +2979,6 @@ folde
 folden
 folder
 folk
-folkeaktier
 folkeeje
 folkefest
 folkefesten
@@ -2967,7 +3004,7 @@ forbedrer
 forbedres
 forbedret
 forbedring
-forbehold
+forbedringer
 forberede
 forberedelse
 forberedelser
@@ -2985,6 +3022,7 @@ forblive
 forbliver
 forbløffede
 forbløffer
+forbløffes
 forbløffet
 forbrudt
 forbrugsgrænse
@@ -2992,7 +3030,6 @@ forbud
 forbuddet
 forbudt
 forbund
-forbundene
 forbundet
 forbundets
 forbunds
@@ -3000,10 +3037,8 @@ forbundsdomstol
 forbyde
 forbyder
 forbydes
-forceret
 fordel
 fordele
-fordelingen
 fordelt
 fordi
 fordoble
@@ -3020,11 +3055,11 @@ forelagt
 forelskelse
 foreløbig
 foreløbige
+foreløbigt
 forenede
 forenes
 foreskellige
 foreslår
-forestil
 forestilling
 forestående
 foretager
@@ -3044,7 +3079,6 @@ forfærdelig
 forfærdelige
 forfærdeligt
 forfølger
-forfølgere
 forgangne
 forgift
 forgyldes
@@ -3090,6 +3124,8 @@ forkortedes
 forkortet
 forkælede
 forkæler
+forkælet
+forkølelse
 forlade
 forlader
 forladt
@@ -3149,8 +3185,8 @@ fornemste
 fornemt
 fornuftig
 fornuftige
-fornyelse
 fornyet
+fornægter
 fornøjelse
 fornøjelsen
 forperson
@@ -3170,7 +3206,9 @@ forræder
 forsigtigt
 forsikrer
 forsikret
+forsikring
 forsikringsaftale
+forsikringsbøvl
 forsinkelse
 forsinker
 forsinket
@@ -3186,6 +3224,7 @@ forskudt
 forslag
 forslaget
 forslået
+forsmag
 forspillet
 forspring
 forspringet
@@ -3208,10 +3247,12 @@ forsvar
 forsvare
 forsvarede
 forsvarende
+forsvarene
 forsvarer
 forsvareren
 forsvaret
 forsvarsspiller
+forsvarsspillere
 forsvarsspilleren
 forsvarsspillerne
 forsvarstalent
@@ -3252,6 +3293,7 @@ fortælle
 fortæller
 fortælling
 fortællingen
+fortørnet
 forud
 forude
 forudsagt
@@ -3285,7 +3327,6 @@ forventningsfulde
 forvirring
 forværrer
 forward
-forår
 foråret
 forårets
 forårsaget
@@ -3312,13 +3353,13 @@ fratrådt
 fratræder
 fravalg
 fravalgt
-fravælger
 fravær
 fraværet
 freak
 fred
 fredag
 fredagens
+fredags
 fredelig
 fredsskabende
 freestyle
@@ -3332,6 +3373,7 @@ fremhæve
 fremhævede
 fremhæver
 fremhæves
+fremhævet
 fremkalder
 fremkaldte
 fremlagt
@@ -3363,7 +3405,6 @@ fridykkere
 fridykkerlandshold
 frie
 frifindelse
-frikender
 frikendes
 frikendt
 frisag
@@ -3389,6 +3430,7 @@ fronter
 frosne
 frost
 frugt
+frugten
 frustration
 frustrationer
 frustrationshandling
@@ -3421,18 +3463,18 @@ fuldbyrdede
 fulde
 fuldende
 fuldender
+fuldendte
 fuldere
 fuldføre
+fuldførte
 fuldstændig
 fuldstændigt
 fuldt
 fuldtalligt
 fuldtid
-fuldtids
 fuldtidsprofessionelle
 fulgt
 fulgte
-fulgtes
 fund
 fundamentalt
 fundamentet
@@ -3442,6 +3484,7 @@ fungerede
 fungerer
 fungeret
 funklede
+fusen
 fuser
 fusion
 fusionere
@@ -3479,12 +3522,14 @@ fægter
 fægtesport
 fægtning
 fæl
+fælde
 fælder
 fældet
 fælles
 fællesbillede
 fællessang
 fællesstart
+fællesstarterne
 fælt
 fængsel
 fængselsdom
@@ -3542,7 +3587,6 @@ fører
 føreren
 førerhold
 førerholdet
-førerpositionen
 førertrøje
 førertrøjen
 føres
@@ -3585,7 +3629,6 @@ gadeløbere
 gaden
 gader
 gaderne
-gades
 gak
 gal
 galakse
@@ -3594,7 +3637,6 @@ gamache
 games
 gamle
 gammel
-gammelby
 gammeldags
 gammelmandsskade
 gammelt
@@ -3604,6 +3646,7 @@ gangen
 gangsterland
 ganske
 garagen
+garantere
 garanterede
 garanterer
 garanteret
@@ -3659,6 +3702,7 @@ genkende
 genlyd
 genmæle
 gennem
+gennembankede
 gennembrud
 gennembruddet
 gennembrudskraft
@@ -3668,9 +3712,9 @@ gennemført
 gennemførte
 gennemgået
 gennemgår
+gennemhullet
 gennemløb
 gennemprygler
-gennemtænkt
 genopbygningen
 genoplev
 genoplivet
@@ -3714,6 +3758,7 @@ gevaldigt
 gevinst
 gider
 gidsel
+gift
 giftig
 giftige
 giftigt
@@ -3793,6 +3838,7 @@ golfhelt
 golfhistorie
 golfklubber
 golfklubberne
+golfkomet
 golfkometen
 golfmajor
 golfprofil
@@ -3804,7 +3850,6 @@ golfsamarbejde
 golfspiller
 golfspillere
 golfspilleren
-golfspillerne
 golfsportens
 golfstjerne
 golfstjernen
@@ -3836,7 +3881,6 @@ grandprixets
 grandprixsejr
 granprix
 gransket
-granskning
 grant
 grapefrugter
 grassat
@@ -3865,7 +3909,6 @@ grint
 grinte
 groggy
 grotesk
-groteske
 grov
 grove
 groves
@@ -3882,7 +3925,6 @@ grundformen
 grundlagde
 grundlagt
 grundlægger
-grundprincipperne
 grundspil
 grundspillet
 grundspillets
@@ -3907,7 +3949,6 @@ gruppespilskamp
 gruppevinder
 grus
 grusomste
-grusomt
 grussæsonen
 grusveje
 gråd
@@ -3939,8 +3980,8 @@ grønnere
 grønt
 gu
 guardian
-gud
 guddommeligt
+gudskelov
 guf
 guld
 guldalderens
@@ -3972,6 +4013,7 @@ guldrivalerne
 guldrus
 guldsamling
 guldtriumf
+guldtruppen
 guldvinder
 guldvindere
 guldvinderen
@@ -4006,6 +4048,7 @@ gå
 gået
 går
 gåsehud
+gæk
 gæld
 gælde
 gældende
@@ -4034,7 +4077,6 @@ hadet
 haft
 hag
 hagler
-hagles
 haj
 hak
 hakkede
@@ -4055,7 +4097,6 @@ halv
 halvanden
 halvandet
 halvarrogante
-halvdel
 halvdelen
 halve
 halveret
@@ -4131,11 +4172,11 @@ hedt
 heftig
 heftige
 heftigt
-hejse
 heksekedel
 hektisk
 hektiske
 helbred
+helbredet
 helbredsmæssige
 held
 heldet
@@ -4184,13 +4225,13 @@ hentyder
 henvendelse
 henvender
 henvendte
+henvisningen
 heppe
 heppede
 her
 herefter
 herfra
 herlig
-heroiske
 herre
 herredouble
 herredoublehåb
@@ -4218,6 +4259,7 @@ herresinglerækken
 herresinglescullerklassen
 herresinglespiller
 herresinglespilleren
+herreskytte
 herrespillere
 herretræner
 herrevolleyball
@@ -4287,6 +4329,7 @@ hjemmebaneløb
 hjemmebanen
 hjemmebanenederlag
 hjemmebanepublikum
+hjemmebanesejren
 hjemmehold
 hjemmeholdet
 hjemmeholdets
@@ -4296,6 +4339,7 @@ hjemmekampen
 hjemmepublikum
 hjemmesejr
 hjemmeside
+hjemmesiden
 hjemsøger
 hjemvendte
 hjerneblødning
@@ -4323,6 +4367,7 @@ hjælp
 hjælpe
 hjælpeløse
 hjælpen
+hjælpende
 hjælper
 hjælpere
 hjælpers
@@ -4336,12 +4381,10 @@ hjørnesten
 hk
 hl
 hobby
-hober
 hockey
 hockeyliga
 hockeyturnering
 hof
-hofteskade
 hold
 holdbar
 holdbarheden
@@ -4358,6 +4401,7 @@ holdes
 holdet
 holdets
 holdfinale
+holdfinalen
 holdforfølgelse
 holdforfølgelsesløb
 holdkammerat
@@ -4371,14 +4415,16 @@ holdkap
 holdkaptajn
 holdkaptajnen
 holdkonkurrencen
-holdkort
 holdkortet
 holdlæge
 holdløb
 holdløbet
+holdmål
 holdning
 holds
 holdskifte
+holdspillere
+holdsport
 holdstafet
 holdt
 holdturneringen
@@ -4392,7 +4438,6 @@ holm
 holmenkollen
 holms
 holocaust
-homoseksuel
 honoreres
 hop
 hopla
@@ -4420,7 +4465,6 @@ hotelværelset
 hov
 hoved
 hoveddommer
-hoveddøren
 hoveder
 hovederne
 hovedet
@@ -4444,9 +4488,9 @@ hovedstaden
 hovedstadsklub
 hovedstadsklubben
 hovedstødsmål
+hovedturnering
 hovedturneringen
 hovedårsagerne
-hr
 hu
 huden
 huggede
@@ -4465,7 +4509,6 @@ hundrededel
 hundrededele
 hundredvis
 hungrede
-hungrer
 hurtig
 hurtige
 hurtigere
@@ -4492,7 +4535,6 @@ hver
 hverdag
 hverken
 hvert
-hvide
 hvidt
 hvidts
 hvidvaskning
@@ -4538,11 +4580,13 @@ håbet
 håbløst
 hån
 hånd
+håndball
 håndbold
 håndboldbanen
 håndboldchef
 håndbolddag
 håndbolddamerne
+håndbolddommer
 håndbolddrama
 håndboldekspert
 håndboldeksperten
@@ -4592,7 +4636,9 @@ håndboldspillet
 håndboldstjerne
 håndboldstjernen
 håndboldstreg
+håndboldsæsonen
 håndboldtræner
+håndboldtrænere
 håndbolduge
 håndboldverdenen
 hånden
@@ -4630,6 +4676,7 @@ hårene
 hårknude
 hæder
 hæderligt
+hæderspris
 hædret
 hæfter
 hægter
@@ -4656,11 +4703,11 @@ hærgen
 hærværk
 hæsblæsende
 hævder
+hævdet
 hæve
 hævede
 hævn
 hævner
-hævntørst
 høj
 højde
 højden
@@ -4672,7 +4719,6 @@ højdespring
 højdespringer
 højdespringere
 højdespringeren
-højdespringerne
 højdespringet
 højdespringskonkurrence
 højdespringsmatch
@@ -4727,6 +4773,7 @@ idrætsformand
 idrætsforsker
 idrætsgymnastik
 idrætshistorie
+idrætspark
 idrætspolitiker
 idrætspolitiske
 idrætsprofessor
@@ -4765,6 +4812,7 @@ ilden
 illegal
 illoyalt
 iltmaske
+imellem
 imens
 immobile
 imod
@@ -4864,6 +4912,7 @@ indsatsen
 indsatser
 indsendt
 indset
+indskiftede
 indskifter
 indskiftet
 indstille
@@ -4894,7 +4943,6 @@ ingeniør
 ingenting
 initiativ
 inkludere
-inkluderende
 inkluderer
 inklusion
 inklusive
@@ -4953,6 +5001,7 @@ investeringsfonden
 investeringsselskab
 investor
 investorer
+invitation
 invitational
 invitationen
 invitere
@@ -4976,11 +5025,11 @@ isbjerget
 iscenesætte
 isen
 ishockey
-ishockeyarenaen
 ishockeydirektør
 ishockeyekspert
 ishockeyeksperter
 ishockeyens
+ishockeyfiasko
 ishockeyforbund
 ishockeyforbunds
 ishockeyformand
@@ -4998,6 +5047,7 @@ ishockeyklub
 ishockeyklubber
 ishockeykvinder
 ishockeykvinderne
+ishockeykvindernes
 ishockeykvinders
 ishockeylandshold
 ishockeylandsholdet
@@ -5037,8 +5087,10 @@ isligaens
 islæt
 isner
 isolation
+isolationshotel
 isolationshotellet
 isolationsperiode
+isolere
 isolerede
 isolerer
 isoleret
@@ -5052,6 +5104,7 @@ iøjnefaldende
 j
 ja
 jager
+jagers
 jagt
 jagte
 jagtede
@@ -5073,6 +5126,7 @@ jet
 jetlag
 jetoner
 jets
+jing
 jitsu
 jo
 job
@@ -5107,9 +5161,9 @@ jublen
 jublende
 jubler
 jublet
-judo
 judokvinderne
 judokæmpere
+judokæmperen
 juleaften
 juledag
 juleferie
@@ -5129,6 +5183,7 @@ juniorers
 juniorverdensmester
 junker
 juridisk
+juryen
 just
 justerer
 jægersoldat
@@ -5163,9 +5218,9 @@ kameramotorcykel
 kameraproblemer
 kameravinkel
 kamikaze
+kammeraten
 kamp
 kampafgørende
-kampburet
 kampdagen
 kampe
 kampen
@@ -5175,7 +5230,6 @@ kampes
 kampklar
 kampleder
 kamplederen
-kampminutter
 kamppause
 kampprogram
 kampprogrammet
@@ -5235,7 +5289,6 @@ karambolage
 karantæne
 karantænedage
 karantænedom
-karantænedømte
 karantænen
 karantæner
 karantænestraffe
@@ -5251,6 +5304,7 @@ karrieren
 karrierens
 karrierestop
 karrierestoppet
+kaskade
 kasket
 kasketter
 kasse
@@ -5274,6 +5328,7 @@ katastrofetanker
 kategori
 kategorier
 kategoriserede
+kategoriseret
 kb
 ked
 kede
@@ -5295,6 +5350,7 @@ kendelse
 kendelser
 kender
 kending
+kendis
 kendisser
 kendsgerning
 kendskab
@@ -5338,6 +5394,7 @@ kimse
 kirke
 kirkegård
 kirsebær
+kittel
 kiwi
 klage
 klager
@@ -5347,6 +5404,7 @@ klaget
 klamme
 klandrer
 klappede
+klappen
 klapper
 klapsalver
 klar
@@ -5356,11 +5414,13 @@ klarer
 klaret
 klarhed
 klarlagt
+klarmelding
 klart
 klasse
 klasseforskel
 klasseforskellen
 klassementet
+klassementets
 klassementsrytter
 klassementsrytterne
 klassen
@@ -5376,13 +5436,14 @@ klatre
 klatrefinaler
 klatrer
 klatreudfordringer
+klaus
 klemme
 klemt
 klemte
-klik
 klikkede
 klima
 klimaaktivister
+klimaforandringer
 klimaforkæmperen
 klimaindsats
 klimaks
@@ -5391,6 +5452,8 @@ klinger
 klip
 klippet
 klistret
+kloak
+kloaklugten
 kloakstank
 klodens
 klodsmajor
@@ -5421,6 +5484,7 @@ klubpræsident
 klubregi
 klubrekord
 klubs
+klubtrofæ
 klubturnering
 kludedukke
 klumme
@@ -5435,6 +5499,7 @@ km
 knald
 knap
 knappen
+kneb
 kneben
 knebent
 knib
@@ -5479,14 +5544,13 @@ knæskade
 knæskadet
 kobbersmykker
 kodapenge
+koden
 koffein
 kog
 koge
 kok
 kokain
-kokainfælden
 kokainsag
-kolbøtter
 kold
 kolde
 koldere
@@ -5515,6 +5579,7 @@ kombination
 kombinere
 kombinerede
 komet
+komfortabel
 komfortabelt
 komfortable
 komiske
@@ -5525,6 +5590,7 @@ kommentarer
 kommentarspor
 kommentator
 kommentatorboks
+kommentatorduo
 kommentatorer
 kommentatorerne
 kommentatorpar
@@ -5562,6 +5628,7 @@ kongeetape
 kongeetapen
 kongehuset
 kongeinterview
+kongeklasse
 kongeklassen
 kongekontrakt
 kongemål
@@ -5616,7 +5683,8 @@ kontakten
 kontaktet
 kontant
 kontante
-kontinent
+kontinentalhold
+kontinentalholdene
 kontinenter
 kontinents
 konto
@@ -5645,6 +5713,7 @@ koordinator
 kopi
 kopiere
 kopierede
+koreansk
 koreanske
 korpset
 korrekt
@@ -5669,7 +5738,6 @@ korteste
 kortet
 kortlagt
 kortvarig
-kortvarigt
 koryfæ
 koryfæer
 kostbar
@@ -5696,6 +5764,7 @@ krampeanfald
 krav
 kraveben
 kravebenet
+kravene
 kravet
 kravlede
 kravler
@@ -5705,10 +5774,12 @@ kredit
 kreditten
 krig
 krigen
+kriger
 krigstid
 kriminalitet
 kriminel
 kriminelle
+kringlet
 krise
 krisemøde
 krisen
@@ -5826,6 +5897,7 @@ kvalifikationsmål
 kvalifikationsopgør
 kvalifikationsrunde
 kvalifikationstid
+kvalifikationsturnering
 kvalifikationsturneringer
 kvalifinationen
 kvalitet
@@ -5841,7 +5913,6 @@ kvarter
 kvartet
 kvartfinale
 kvartfinaledrøm
-kvartfinaledrømmen
 kvartfinalehåb
 kvartfinalekamp
 kvartfinalekampe
@@ -5909,6 +5980,7 @@ kårde
 kåre
 kåret
 kåring
+kæbe
 kæben
 kæbeoperation
 kæberasler
@@ -5923,6 +5995,7 @@ kælling
 kæmpe
 kæmpebrag
 kæmpede
+kæmpehandel
 kæmpeklub
 kæmpende
 kæmpenederlag
@@ -5942,6 +6015,7 @@ kæphest
 kæreste
 kæresteforhold
 kæresten
+kærestens
 kæresteparret
 kærlighed
 kærligheden
@@ -5964,6 +6038,7 @@ kønskamp
 kønskampen
 kønsskifte
 kønt
+kør
 køre
 køreegenskaber
 kørende
@@ -5984,7 +6059,6 @@ kørte
 l
 la
 labradoodle
-lacrosse
 lad
 lade
 lader
@@ -6011,8 +6085,10 @@ landeveje
 landevejen
 landevejene
 landevejscykling
+landevejspladser
 landevejsryttere
 landholdsspiller
+landing
 landingsbanen
 lands
 landsbank
@@ -6055,7 +6131,6 @@ landsholdsprofil
 landsholdsprofilen
 landsholdsprofiler
 landsholdsryttere
-landsholdssamling
 landsholdssamlinger
 landsholdsspiller
 landsholdsspillere
@@ -6065,7 +6140,6 @@ landsholdsspillerne
 landsholdsspillers
 landsholdsstjerne
 landsholdsstjernen
-landsholdsstjernes
 landsholdsstreg
 landsholdssvømmer
 landsholdssvømmere
@@ -6091,6 +6165,7 @@ landstræder
 landstræner
 landstrænere
 landstræneren
+landstrænerens
 landstrænerposten
 landstræners
 lang
@@ -6144,7 +6219,6 @@ last
 lastbil
 lastbilchaufføren
 latter
-latterlig
 latterliggjort
 latterligt
 lav
@@ -6168,6 +6242,8 @@ ledelsen
 ledelsesstil
 leder
 ledere
+lederen
+lederrolle
 ledig
 ledige
 lege
@@ -6181,7 +6257,6 @@ legendes
 legendestatus
 legene
 legenes
-legeplads
 leger
 legestue
 legetøj
@@ -6199,7 +6274,6 @@ lektier
 lempelser
 lemper
 len
-ler
 let
 lethed
 lettede
@@ -6258,6 +6332,7 @@ ligefrem
 ligeglad
 ligegyldig
 ligegyldige
+ligegyldighed
 ligeledes
 ligeløn
 ligesom
@@ -6297,7 +6372,9 @@ listet
 liter
 liv
 live
+livebloggen
 liveopdateringerne
+livestreamede
 livet
 livligt
 livline
@@ -6316,6 +6393,7 @@ livsstil
 livstid
 lix
 lob
+lobbede
 lobbyarbejde
 lobbyet
 lod
@@ -6365,6 +6443,7 @@ lufthavn
 lufthavnen
 luftvåbenet
 lugt
+lugten
 lugter
 lukke
 lukkedag
@@ -6386,7 +6465,6 @@ lungen
 lunken
 lunkne
 lunt
-lup
 lurer
 luret
 lussing
@@ -6416,6 +6494,7 @@ lynhurtigt
 lynindkaldt
 lynskak
 lynstart
+lyntid
 lys
 lyseblå
 lysere
@@ -6440,7 +6519,6 @@ låse
 låst
 låste
 læbe
-læben
 læge
 lægeerklæring
 lægehjælp
@@ -6487,6 +6565,7 @@ læs
 læse
 læsning
 læst
+læste
 løb
 løbe
 løbedisciplin
@@ -6512,9 +6591,11 @@ løbeskoene
 løbesportens
 løbestjerne
 løbestjerner
+løbestjernerne
 løbet
 løbetalent
 løbetalentet
+løbetræner
 løbets
 løbetur
 løbsdag
@@ -6526,7 +6607,6 @@ løbsstart
 løbsstarten
 løbsweekend
 lød
-løft
 løfte
 løftede
 løfter
@@ -6546,6 +6626,7 @@ lørdag
 lørdagen
 lørdagens
 løs
+løse
 løses
 løsesum
 løsning
@@ -6554,6 +6635,7 @@ løsninger
 løst
 m
 mad
+madden
 made
 maden
 madforgiftning
@@ -6580,11 +6662,11 @@ majoritet
 majors
 majorsejr
 majorturnering
+majorturneringen
 majorvinder
 makker
 makkeren
 makkerpar
-makkerparet
 makkerparret
 makkerskab
 maksimal
@@ -6594,10 +6676,12 @@ maler
 malm
 man
 manager
+manageren
 managerens
 mand
 mandag
 mandagens
+mandagsklumme
 mandefaldet
 manden
 mandlig
@@ -6608,6 +6692,7 @@ mandskaber
 mandskaberne
 mandskabet
 mandsopdækkes
+maner
 mange
 mangedobbelt
 mangedobbelte
@@ -6626,7 +6711,6 @@ mantra
 manuel
 manøvre
 marathon
-marathonløber
 maraton
 maratonbedrift
 maratondistancen
@@ -6651,7 +6735,6 @@ maratonstjernen
 maratontid
 marc
 mareridt
-mareridtsdag
 mareridtsdebut
 mareridtsstart
 mareridtsstime
@@ -6671,7 +6754,6 @@ markerer
 markeret
 markering
 markspillere
-mart
 martrede
 martrer
 marts
@@ -6721,14 +6803,14 @@ med
 medalje
 medaljebejlerne
 medaljebud
-medaljeceremoni
 medaljechance
 medaljechancer
+medaljedrøm
+medaljedrømme
 medaljefavorit
 medaljefavoritter
 medaljefest
 medaljeforhåbninger
-medaljeformen
 medaljehåb
 medaljehåbet
 medaljehøst
@@ -6746,14 +6828,17 @@ medaljen
 medaljeoverrækkelser
 medaljepodiet
 medaljer
+medaljeregn
 medaljerekord
 medaljerne
 medaljeræs
+medaljesamling
 medaljesejlads
 medaljesejladsen
 medaljeskamlen
 medaljesluger
 medaljeslugere
+medaljespillet
 medaljestatistikken
 medaljestriden
 medaljetopscorer
@@ -6825,10 +6910,8 @@ men
 mener
 menes
 mening
-meningen
 menisken
 menneske
-menneskehav
 menneskemængder
 mennesker
 menneskerettighedsdomstol
@@ -6840,7 +6923,6 @@ mentale
 mentalitet
 mentalt
 mentaltræner
-mente
 menu
 menuen
 merchandise
@@ -6858,6 +6940,7 @@ mesterklub
 mesters
 mesterskab
 mesterskaber
+mesterskaberne
 mesterskabet
 mesterskabets
 mesterskabsfavorit
@@ -6896,7 +6979,7 @@ midlertidigt
 midnat
 midnatsforestilling
 midt
-midtbanekriger
+midtbane
 midtbanespiller
 midtbanespilleren
 midtbanetalent
@@ -6964,6 +7047,7 @@ miniputs
 miniputterne
 miniputters
 minister
+ministre
 minoritetsandel
 minus
 minut
@@ -6972,14 +7056,13 @@ minutter
 minutterne
 minutters
 mirakel
-mirakelredning
 mirakelredninger
 mirakler
 miraklet
 mirakuløs
 mirakuløst
 misbrug
-misbruge
+misbruger
 misbrugt
 misbrugte
 miserabelt
@@ -6988,6 +7071,7 @@ misfornøjet
 misforstod
 misforstået
 mislykkedes
+mislykkes
 mislykket
 misse
 missede
@@ -7063,6 +7147,7 @@ monument
 monumenter
 monumentet
 mor
+morads
 moral
 moralen
 moralsk
@@ -7070,11 +7155,9 @@ morderens
 morderisk
 moren
 morgen
-morgenen
 morgenfriske
 mors
 moser
-moster
 motionister
 motivation
 motivationen
@@ -7091,7 +7174,7 @@ motorcykel
 motorcykler
 motorcyklerne
 motorer
-motorerne
+motorløbet
 motorproblemer
 motorsport
 motorsportsdronning
@@ -7099,6 +7182,7 @@ motorsportsforbund
 motorsportsverdenen
 motorsportunion
 motorvej
+mottoet
 mountainbike
 mountainbikeryttere
 mulehår
@@ -7132,7 +7216,6 @@ myg
 myndigheder
 myndighederne
 myrdet
-mystik
 mystisk
 myten
 mytisk
@@ -7231,7 +7314,6 @@ mængder
 mærke
 mærkede
 mærkelig
-mærkeligste
 mærker
 mærkes
 mærket
@@ -7278,6 +7360,7 @@ nationale
 nationalitet
 nationalsang
 nationalstadion
+nationalt
 nationen
 nationens
 nationer
@@ -7297,6 +7380,7 @@ navn
 navne
 navnebror
 navnene
+navnesponsor
 navnet
 navngivne
 nazi
@@ -7353,6 +7437,7 @@ nemlig
 nemme
 nemmere
 nemt
+nepotisme
 nerve
 nervepirrende
 nerver
@@ -7412,7 +7497,6 @@ norman
 nosser
 notere
 noteret
-nottingham
 november
 nu
 nuance
@@ -7422,10 +7506,12 @@ nul
 nullet
 nummer
 numsen
+nupper
 nutidens
 nuværende
 ny
 nyankommet
+nyankomne
 nyansat
 nyd
 nyde
@@ -7471,6 +7557,7 @@ nær
 nære
 nærheden
 nærkontakt
+nærkontakter
 nærmede
 nærmer
 nærmere
@@ -7504,7 +7591,9 @@ nødvendigt
 nødvendigvis
 nøgen
 nøglekamp
+nøglekampe
 nøglen
+nøgleopgøret
 nøgleordet
 nøgler
 nøglerne
@@ -7513,6 +7602,7 @@ nøglespiller
 nøglespillere
 nøglespillerne
 nøgletallene
+nøj
 nøjagtig
 nøjagtigt
 nøjes
@@ -7521,7 +7611,6 @@ nørresundby
 obduktion
 obduktionen
 obligatoriske
-observation
 obstrueret
 ocean
 odds
@@ -7555,7 +7644,6 @@ ofrenes
 ofte
 og
 også
-okay
 oktober
 ol
 old
@@ -7580,6 +7668,7 @@ omfavn
 omfavner
 omgang
 omgange
+omgangskreds
 omgangstid
 omgivelser
 omgående
@@ -7601,6 +7690,7 @@ område
 områder
 området
 omsider
+omskydning
 omspil
 omspillet
 omspilshul
@@ -7610,6 +7700,7 @@ omstridt
 omstridte
 omstændigheder
 omstændighederne
+omstøde
 omstødt
 omtalt
 omtalte
@@ -7641,7 +7732,6 @@ opdelt
 opdragelse
 opera
 operation
-operationen
 operationsbordet
 opereres
 opereret
@@ -7660,12 +7750,14 @@ opføre
 opfører
 opførsel
 opførte
+opgav
 opgave
 opgaver
 opgive
 opgivende
 opgiver
 opgivet
+opgraderede
 opgraderer
 opgradering
 opgraderinger
@@ -7677,6 +7769,7 @@ opgørets
 ophedet
 ophold
 ophæve
+ophævelse
 ophæver
 ophæves
 ophævet
@@ -7718,6 +7811,7 @@ opmærksomme
 opnå
 opnåede
 opnåeligt
+opnået
 opnår
 oppe
 oppositionsflag
@@ -7731,6 +7825,7 @@ opruster
 oprydning
 oprykker
 oprykkeren
+oprykkerhold
 oprykkerklub
 oprykkerne
 oprykning
@@ -7740,12 +7835,12 @@ oprørt
 oprørte
 opsagt
 opsamlingsheat
-opsamlingsheatet
 opsang
 opsat
 opsigelse
 opsigt
 opsigtsvækkende
+opskrift
 opskriften
 opslag
 opsnapper
@@ -7786,7 +7881,6 @@ opvarmningen
 opvarmningskamp
 opvarmningsstævnet
 opvisning
-opvisninger
 opvisningskamp
 opvokset
 orakler
@@ -7804,6 +7898,7 @@ ordkrig
 ordstrid
 organisation
 organisationen
+organisationskomit
 organiseret
 orientering
 orienteringen
@@ -7878,6 +7973,7 @@ overlegne
 overleve
 overlevede
 overlevelse
+overlevelseskampe
 overlever
 overmagt
 overmagten
@@ -7894,6 +7990,7 @@ overraskelsen
 overraskelser
 overraskende
 overrasker
+overraskes
 overrasket
 overs
 oversat
@@ -7902,7 +7999,6 @@ overset
 oversidder
 oversigt
 oversigten
-overskred
 overskrifter
 overskrifterne
 overskrævs
@@ -7959,6 +8055,7 @@ padeltennis
 paf
 pakke
 pakkeløsning
+pakker
 palle
 palles
 palæstinensiske
@@ -7973,13 +8070,15 @@ papir
 papiret
 par
 paraatlet
+paradedisciplin
 paradekørsel
 paradressur
 paradressurhold
 paradressurrytter
+parallel
+paralluelo
 paralympisk
 paralympiske
-paralyserede
 paraply
 parastjerne
 parasvømmer
@@ -8015,7 +8114,7 @@ passer
 passere
 passerede
 passeret
-passet
+passing
 passiv
 patriots
 pause
@@ -8040,6 +8139,7 @@ pension
 pensionerede
 pensionerer
 pensionsplan
+pep
 peptalk
 per
 perfekt
@@ -8069,7 +8169,8 @@ piercing
 pif
 pige
 piger
-pilen
+pil
+pilene
 pille
 pillede
 piller
@@ -8090,7 +8191,6 @@ pisseondt
 pisser
 pissesur
 pisset
-pisten
 pistol
 pistolvideo
 pit
@@ -8104,12 +8204,14 @@ placeret
 placering
 placeringen
 placeringer
+placeringsrunde
 plade
 plads
 pladsen
 pladser
 pladserne
 plage
+plagede
 plagen
 plager
 plan
@@ -8136,6 +8238,7 @@ plejer
 pletfri
 pletskud
 plettede
+pletten
 pletter
 pligt
 pligtsejr
@@ -8147,7 +8250,6 @@ plæne
 plænen
 podcast
 podcasten
-podie
 podiedrama
 podieplads
 podiepladser
@@ -8165,6 +8267,7 @@ pointhøst
 pointkonto
 pointkontoen
 pointlighed
+pointmaskine
 pointrekord
 pointsejr
 pointsejrede
@@ -8187,7 +8290,6 @@ pokalkamp
 pokalmester
 pokalmesterskab
 pokalmestre
-pokalrevanche
 pokalsejr
 pokalsemifinale
 pokalsemifinalen
@@ -8204,7 +8306,6 @@ polens
 poleposition
 police
 polio
-polish
 politi
 politibanner
 politibetjente
@@ -8225,6 +8326,7 @@ polititilhold
 pompøs
 popcorn
 poppe
+popstjernen
 popularitet
 populær
 populære
@@ -8256,11 +8358,11 @@ potentielle
 potentielt
 powerplay
 pragmatiske
+pragteksemplet
 pragtmål
 pragtpræstation
 pragtpræstationer
 pragtredning
-pragtredninger
 praktiske
 prale
 prekær
@@ -8300,7 +8402,6 @@ prinsesse
 prioritere
 prioriterede
 prioriterer
-prioriteret
 prioriteter
 pris
 prisen
@@ -8308,11 +8409,11 @@ priser
 priserne
 prisvinderne
 privat
+private
 privatlektion
 privatlivet
 pro
 problem
-problematisk
 problemer
 problemerne
 problemet
@@ -8324,6 +8425,7 @@ procent
 procenter
 procents
 producent
+produkt
 professionel
 professionelle
 professionelt
@@ -8342,7 +8444,6 @@ program
 programmet
 project
 projekt
-projektet
 projektil
 proklamerede
 prominent
@@ -8440,7 +8541,6 @@ pulje
 puljefinale
 puljekamp
 puljen
-puljespil
 pulveriserer
 punge
 punkt
@@ -8453,6 +8553,7 @@ pusten
 puster
 pustet
 pyjamas
+pynt
 pyroteknik
 på
 påbegyndt
@@ -8497,12 +8598,14 @@ raceren
 racerklasse
 racerkøren
 racerkører
+racerkørere
 racerkøreren
 racerløb
 racerne
 racertalent
 racertalentet
 racing
+racings
 racisme
 racismesag
 racist
@@ -8544,7 +8647,6 @@ ranglister
 ransager
 rapper
 rapport
-rar
 rart
 ras
 rase
@@ -8553,7 +8655,6 @@ raser
 raseri
 raseriudbrud
 rask
-raske
 raskidræt
 raslede
 ravage
@@ -8570,6 +8671,8 @@ realitet
 realiteten
 rebellen
 receiveren
+recurvehold
+recurvekvinder
 red
 redaktør
 redde
@@ -8661,6 +8764,7 @@ rekordpublikum
 rekordsalg
 rekordscore
 rekordscoring
+rekordsejr
 rekordsko
 rekordstor
 rekordstort
@@ -8702,11 +8806,14 @@ reserverolle
 reservespækket
 respekt
 respektere
+respekteret
 respektive
 respektløse
 respektløst
 respirator
+restaurant
 restaurantbesøg
+restaurantejeren
 resten
 resterende
 resterer
@@ -8732,6 +8839,7 @@ retningslinjerne
 retsmøde
 retssag
 retssagen
+retssystemet
 rette
 rettede
 retten
@@ -8753,12 +8861,10 @@ revaccination
 revanche
 revanchedyst
 revanchekamp
-revanchelyst
 revancheopgør
 revanchere
 revancherer
 revancheres
-revanchetid
 revanchetørstige
 revet
 revision
@@ -8819,6 +8925,7 @@ rive
 riven
 river
 rivers
+rn
 ro
 robotten
 robotter
@@ -8849,6 +8956,7 @@ romerlys
 roning
 ror
 roret
+rorsmand
 ros
 rose
 rosende
@@ -8857,6 +8965,7 @@ rost
 roste
 rostjerner
 rotere
+roteret
 rotte
 rottegift
 royal
@@ -8874,7 +8983,6 @@ rummet
 rumvæsen
 rumvæsenet
 rumænske
-run
 rundbarberede
 runde
 rundede
@@ -8894,7 +9002,6 @@ rutinerede
 rutineret
 rutsjebanetur
 ry
-rydde
 ryddet
 ryg
 ryger
@@ -8954,7 +9061,6 @@ rækkevidde
 ræs
 røbe
 røber
-rød
 rødbedefarvet
 røde
 rødt
@@ -8962,7 +9068,6 @@ røg
 røgen
 røget
 røntgenundersøgelse
-røre
 rørende
 rører
 røret
@@ -9014,6 +9119,7 @@ samlingen
 samlinger
 samme
 sammen
+sammenholdet
 sammenlagt
 sammenlignede
 sammenligner
@@ -9069,7 +9175,6 @@ scene
 scenen
 scener
 scenerne
-schlierenzauer
 score
 scorede
 scorende
@@ -9099,10 +9204,13 @@ sejl
 sejlads
 sejladsen
 sejladser
+sejladsernes
+sejlbåd
 sejlduo
 sejle
 sejlede
 sejlende
+sejlene
 sejler
 sejlerchef
 sejlerduo
@@ -9180,14 +9288,12 @@ selvtillid
 selvtillids
 selvvalgt
 semifinale
-semifinalebrag
 semifinaledeltagere
 semifinaleduel
 semifinalekamp
 semifinaleklar
 semifinaleklø
 semifinalemodstander
-semifinalemøder
 semifinalen
 semifinaleplads
 semifinaler
@@ -9240,12 +9346,14 @@ seriøse
 seriøst
 serv
 serve
+serveesser
 servefejl
-serveparti
+serveregel
 serveren
 serverer
 serves
 service
+servicebilen
 servicemand
 ses
 set
@@ -9255,16 +9363,16 @@ sevillas
 seværdig
 seværdigt
 sexisme
+sexmisbrug
+sexmisbrugte
 sg
 sgu
 sheik
-sherif
 shift
 shitstorm
 show
 showbiz
 showet
-showkamp
 showkampen
 sidde
 sidder
@@ -9300,7 +9408,6 @@ sigtekornet
 sigter
 sigtes
 sigtet
-sikke
 sikker
 sikkerhed
 sikkerheden
@@ -9377,6 +9484,7 @@ skadet
 skaffe
 skaffede
 skaffet
+skaft
 skak
 skakgeniet
 skakspiller
@@ -9394,7 +9502,6 @@ skamfuldt
 skamlen
 skamme
 skammekrogen
-skamplet
 skandale
 skandaledomme
 skandalekamp
@@ -9403,8 +9510,8 @@ skandalen
 skandaleombruste
 skandaler
 skandaleramt
+skandaleramte
 skandalesag
-skandalesejr
 skandaløs
 skandaløse
 skandinavisk
@@ -9461,6 +9568,7 @@ skilles
 skillevej
 skilsmisse
 skilte
+skiløb
 skiløber
 skiløbere
 skiløberen
@@ -9473,9 +9581,11 @@ skipperen
 skippers
 skipræsident
 skiskydning
+skiskydningsekspert
 skiskydningsforbund
 skiskydningsindsats
 skiskydningskonkurrence
+skiskydningskonkurrencer
 skiskytte
 skiskytten
 skiskytter
@@ -9496,6 +9606,7 @@ skole
 skolen
 skoleret
 skoleskyderi
+skomærke
 skorter
 skosede
 skosålens
@@ -9517,7 +9628,6 @@ skred
 skreg
 skrev
 skrevet
-skrider
 skridt
 skridtet
 skrift
@@ -9528,17 +9638,16 @@ skriger
 skrinlagte
 skrinlægger
 skrive
-skrivebordsfejl
 skrivende
 skriver
 skrives
-skrotter
 skruer
 skrumpe
 skrumpede
 skrumpet
 skruppelløs
 skråning
+skræddersyet
 skrækken
 skrækpulje
 skrækpuljer
@@ -9546,6 +9655,7 @@ skrækskade
 skrækstart
 skræmme
 skræmmende
+skræmmer
 skrøbelighed
 skub
 skubbe
@@ -9581,6 +9691,7 @@ skulderklap
 skulderskade
 skulderskadet
 skulderskubbe
+skuldrene
 skulle
 skullet
 skur
@@ -9602,12 +9713,12 @@ skyld
 skylden
 skyldes
 skyldig
-skype
 skytte
 skytteklub
 skytter
+skytterne
+skytternes
 skyttes
-skålede
 skåne
 skåner
 skånsomt
@@ -9629,6 +9740,7 @@ skæmmet
 skænderi
 skændes
 skændsel
+skændtes
 skærene
 skærer
 skærmen
@@ -9657,6 +9769,7 @@ slagsbrødre
 slagsen
 slagsmål
 slagsmålet
+slagstyrke
 slagter
 slalom
 slalomekspert
@@ -9666,6 +9779,7 @@ slam
 slams
 slap
 slappe
+slasket
 slavelignende
 sled
 slem
@@ -9683,7 +9797,6 @@ slide
 slider
 slidt
 slidte
-slikke
 slikkede
 slikker
 slinger
@@ -9720,7 +9833,6 @@ slutspil
 slutspillet
 slutspilschancer
 slutspilsdrama
-slutspilshåb
 slutspilskamp
 slutspilskampe
 slutspilsnederlag
@@ -9788,6 +9900,7 @@ smilet
 smitte
 smittede
 smittefare
+smitteopsporing
 smitter
 smittestigning
 smittet
@@ -9880,16 +9993,17 @@ sommer
 sommeren
 sommerens
 sommerferien
+sommerfugle
 sommerland
 sommerpausen
 sommers
+son
 sondre
 sorg
 sort
 sorte
 sov
 sove
-sovemedicin
 sover
 sovet
 spa
@@ -9905,6 +10019,7 @@ sparkede
 sparker
 sparket
 sparre
+sparsom
 special
 specialdesignet
 specialist
@@ -9912,7 +10027,6 @@ specialister
 specialisterne
 speciallavede
 speciel
-specielle
 specielt
 speederen
 speedskater
@@ -9974,6 +10088,7 @@ spilminutterne
 spin
 spinkelt
 spiseforstyrrelser
+spiser
 spist
 spjældet
 splittede
@@ -9986,6 +10101,7 @@ sponsor
 sponsoraftale
 sponsoraftaler
 sponsorater
+sponsorer
 sponsorklemme
 spor
 spore
@@ -10004,12 +10120,12 @@ sportsdirektør
 sportsdirektøren
 sportsdomstol
 sportsdomstolen
-sportsdomstols
 sportsevents
 sportsfolk
 sportsgiganten
 sportsgren
 sportsgrene
+sportsgrenens
 sportshistorie
 sportshold
 sportsjournalist
@@ -10119,6 +10235,7 @@ stabilitet
 stabiliteten
 stablen
 stablet
+stadfæster
 stadfæstes
 stadfæstet
 stadie
@@ -10137,6 +10254,7 @@ stafetkvinder
 stafetløb
 stafetrekorder
 stafetten
+stafetterne
 stages
 stak
 stammen
@@ -10217,7 +10335,6 @@ stenløse
 stenrig
 stensikkert
 step
-steppe
 steps
 sterling
 steroider
@@ -10259,7 +10376,6 @@ stjernefrø
 stjernehold
 stjernekollega
 stjernekrig
-stjerneløber
 stjerneløberen
 stjerneløbers
 stjernemålmand
@@ -10279,6 +10395,7 @@ stjerneskipper
 stjerneskud
 stjernespiller
 stjernespillere
+stjernesprinter
 stjernespækkede
 stjernespækket
 stjernestatus
@@ -10295,6 +10412,7 @@ stoffer
 stofmisbruger
 stole
 stolen
+stoler
 stolpe
 stolt
 stolte
@@ -10314,10 +10432,10 @@ storbyer
 store
 storebror
 storebæltsbroen
+storesøster
 storfavorit
 storfavoritten
 storfavoritter
-storfavoritterne
 storform
 storfusion
 storhedstid
@@ -10336,8 +10454,11 @@ stormede
 stormen
 stormer
 stormvejr
+stormødet
 storpolitiske
 storroser
+storroses
+storsatsende
 storsejr
 storsejrede
 storsejren
@@ -10373,6 +10494,7 @@ straffer
 strafferetlige
 straffes
 straffeslag
+straffeslaget
 straffeslagskonkurrence
 straffeslagskonkurrencen
 straffeslagssejr
@@ -10386,8 +10508,8 @@ straffesparkskonkurrencen
 straffesparksskytte
 straffet
 strafslag
-straks
 strammer
+strammet
 strand
 strandhåndbold
 strategi
@@ -10444,7 +10566,6 @@ styr
 styre
 styrer
 styrke
-styrkede
 styrkeforhold
 styrkeforholdet
 styrker
@@ -10490,7 +10611,6 @@ støtter
 støttet
 støvet
 støvle
-støvler
 støvlerne
 sublim
 succes
@@ -10518,6 +10638,7 @@ sunde
 sundhed
 sundhedsmyndigheder
 sundhedspersonale
+sundhedsskadelig
 sundhedsstab
 sundt
 sunket
@@ -10544,7 +10665,6 @@ superligakampen
 superligaklub
 superligaklubben
 superligalegenden
-superligamandskabet
 superliganiveau
 superligaopgør
 superligatopscorer
@@ -10606,9 +10726,9 @@ svede
 svedekasse
 svier
 svigende
-svigermor
 svigt
 svigtede
+svigtende
 svigtet
 svime
 svimlende
@@ -10698,7 +10818,6 @@ synes
 synet
 synlig
 synonym
-synspunkt
 syntes
 systemet
 syv
@@ -10720,13 +10839,16 @@ sårbar
 sårene
 såret
 sås
+såvel
 sæde
 sæder
+sædet
 sækken
 sælge
 sælger
 sælges
 sænk
+sænke
 sænkede
 sænker
 sænkes
@@ -10790,6 +10912,7 @@ sønnen
 sønnens
 sønner
 sønnerne
+sønners
 søns
 søren
 sørgebind
@@ -10808,7 +10931,6 @@ tabe
 tabellen
 taber
 taberhold
-tabet
 tabt
 tabte
 tabuet
@@ -10818,7 +10940,6 @@ tacklet
 tackling
 tacklingen
 tacklinger
-tacklingerne
 taekwondo
 taekwondokæmper
 tag
@@ -10846,7 +10967,6 @@ talenter
 talenterne
 talentet
 talentfuld
-talentfulde
 talentliste
 talenttræner
 taler
@@ -10858,11 +10978,9 @@ talsperson
 talt
 talte
 tamme
-tamponspøg
 tand
 tandbeskytter
 tande
-tandes
 tandløst
 tandsæt
 tange
@@ -10870,6 +10988,7 @@ tangere
 tangerede
 tangerer
 tangeret
+tanke
 tankegang
 tanken
 tanker
@@ -10895,16 +11014,17 @@ teamkammerat
 teamkollega
 teams
 teater
-tee
 teenagefænomen
 teenagefænomenet
 teenagekomet
 teenager
 teenagesensation
+teenagetalent
 tegn
 tegne
 tegnede
 tegner
+teknik
 teknikalitet
 teknisk
 tekniske
@@ -10982,6 +11102,7 @@ testmuligheder
 testosteron
 testosteronniveau
 tests
+testsystem
 tete
 th
 thusgaard
@@ -11012,6 +11133,7 @@ tiendebedst
 tiendepladsen
 tifo
 tikampens
+tikket
 tikæmper
 til
 tilbage
@@ -11067,6 +11189,7 @@ tilkæmper
 tilkæmpet
 tilladelse
 tillader
+tilladt
 tilladte
 tillid
 tilliden
@@ -11096,16 +11219,13 @@ tilskuerrækker
 tilskuerstyrtene
 tilslutte
 tilslutter
-tilsluttet
 tilstand
 tilsted
 tilstedeværelse
 tilstrækkelig
 tilsyneladende
 tiltag
-tiltalende
 tiltalepunkter
-tiltaler
 tiltales
 tiltalt
 tiltrak
@@ -11130,7 +11250,6 @@ timet
 timevis
 timing
 timingen
-tinderne
 ting
 tingene
 tippede
@@ -11143,6 +11262,7 @@ tisser
 tit
 titans
 titel
+titelbejler
 titelbrag
 titelfavorit
 titelfavoritter
@@ -11152,10 +11272,8 @@ titelkamp
 titelkampen
 titlen
 titler
-titlerne
 tivoli
 tjek
-tjene
 tjener
 tjeneste
 tjent
@@ -11208,7 +11326,6 @@ topklub
 topklubber
 topligaer
 topmotiveret
-topnavn
 topniveau
 topniveauet
 topopgør
@@ -11236,7 +11353,6 @@ topscorerlisten
 topscorers
 topseedede
 topseedet
-topsejlere
 topspiller
 topspillere
 topsport
@@ -11307,7 +11423,6 @@ tre
 trecifret
 tredje
 tredjedel
-tredjemålmand
 tredjeplads
 tredjepladsen
 tredjeseedet
@@ -11316,8 +11431,8 @@ tredjevalg
 tredobbelt
 tredobbelte
 trek
+treks
 tremålssejr
-trend
 trepointslinjen
 trespringer
 treårig
@@ -11377,6 +11492,7 @@ truende
 truer
 truffet
 trukket
+trumfe
 trup
 truppen
 trusler
@@ -11391,6 +11507,7 @@ trylledrik
 tryller
 tryllerier
 tryllet
+trynede
 tryner
 tråd
 tråde
@@ -11419,8 +11536,8 @@ trænerens
 trænerfyring
 trænerjob
 trænerkaos
-trænerløn
 trænerne
+trænernes
 træners
 trænersituation
 trænersituationen
@@ -11432,7 +11549,6 @@ trænerteamet
 trænes
 trænet
 trænger
-trængt
 trængte
 træning
 træningen
@@ -11480,9 +11596,9 @@ tur
 turbulent
 turde
 turdet
+ture
 turen
 turistattraktion
-turister
 turner
 turnering
 turneringen
@@ -11509,6 +11625,7 @@ tvillinger
 tvillingerne
 tvillingesøster
 tvillingesøstrene
+tvinge
 tvinger
 tvinges
 tvisten
@@ -11535,8 +11652,8 @@ tynd
 tyndslidt
 tynget
 type
-typen
 typer
+typisk
 tysse
 tyssede
 tyve
@@ -11589,15 +11706,15 @@ tørnede
 tørner
 tørre
 tørstegt
-tøve
 u
 uacceptabel
+uacceptable
 uafgjort
 uafhængige
-uafklaret
 ualmindelig
 ualmindeligt
 uanede
+uanmeldt
 uanset
 uansvarligt
 uantastet
@@ -11618,14 +11735,14 @@ ubærlig
 ubærligt
 ud
 udbokser
+udbokset
 udbrede
+udbredt
 udbrud
 udbruddene
 udbruddet
 udbryder
-udbrydere
 udbryderne
-udbryderturneringen
 udbrændte
 udbrød
 udbyder
@@ -11633,7 +11750,6 @@ udbyggede
 udbygger
 udbygget
 udbytte
-uddanne
 uddannelse
 uddeler
 uddeles
@@ -11674,13 +11790,13 @@ udesejren
 udfald
 udfaldet
 udfordre
-udfordrende
 udfordrer
 udfordret
 udfordring
 udfordringen
 udfordringer
 udfylde
+udfører
 udgang
 udgangspunkt
 udgangspunkter
@@ -11694,6 +11810,7 @@ udgivet
 udgå
 udgået
 udgår
+udholde
 udkald
 udkig
 udklasseringen
@@ -11730,6 +11847,7 @@ udnytte
 udnyttede
 udnyttet
 udnævne
+udnævnt
 udover
 udpege
 udpegede
@@ -11738,6 +11856,7 @@ udpeget
 udpluk
 udraderede
 udraderer
+udraderet
 udråbes
 udråbt
 udsagn
@@ -11790,8 +11909,9 @@ udtagelsesmesterskaber
 udtagelsesstævne
 udtager
 udtaget
-udtale
+udtagne
 udtalelse
+udtalelser
 udtaler
 udtalt
 udtalte
@@ -11805,6 +11925,7 @@ udvandret
 udvandring
 udveksle
 udvekslet
+udvide
 udvidelse
 udvider
 udvikle
@@ -11855,6 +11976,7 @@ ugidelig
 ugleset
 uhelbredelig
 uheld
+uheldet
 uheldig
 uheldige
 uheldigt
@@ -11870,6 +11992,8 @@ ukampdygtig
 ukendt
 uklar
 ukoncentreret
+ukvemsord
+uland
 ulidelig
 ulig
 ulmer
@@ -11897,6 +12021,7 @@ umulighed
 umuligt
 unavngiven
 under
+underbukser
 undercover
 underdel
 underdog
@@ -11934,7 +12059,6 @@ undersøger
 undersøges
 undertal
 undertippede
-undertippet
 undervejs
 undervurdere
 undervurderet
@@ -11949,6 +12073,7 @@ undre
 undrede
 undren
 undrer
+undret
 undskyld
 undskylde
 undskylder
@@ -11976,6 +12101,7 @@ ungdomsrækker
 ungdomsrækkerne
 ungdomsspillere
 ungdomstiden
+ungdomstræner
 ungdomsturnering
 ungdomsårene
 unge
@@ -11989,7 +12115,6 @@ unionen
 unions
 unit
 universidad
-unåde
 unødvendigt
 uofficiel
 uofficielle
@@ -12005,9 +12130,11 @@ uprofessionelt
 uprøvet
 ups
 uregelmæssigheder
+uregerlig
 uregerlige
 uret
 uretfærdigt
+urimelig
 uro
 uroen
 urokkelige
@@ -12015,7 +12142,6 @@ uroligheder
 urytmisk
 urørlige
 usande
-usandsynlige
 usbeker
 useedet
 useriøst
@@ -12032,7 +12158,7 @@ uspecificeret
 uspektakulære
 uspiselig
 usportslig
-usportslige
+usportsligt
 ustoppelig
 ustoppelige
 ustyrlig
@@ -12062,8 +12188,8 @@ utrolig
 utrolige
 utroligt
 utryg
+utvivlsomt
 utålmodig
-utænkeligt
 uundgåelig
 uundværlig
 uvaccineret
@@ -12122,7 +12248,6 @@ vanskelig
 vanskeligere
 vanskeligheder
 vant
-vantro
 vanvid
 vanvidscomeback
 vanvidskast
@@ -12150,11 +12275,13 @@ varsel
 varsler
 varslet
 vasken
+vaskes
 vasket
 vaskeægte
 ve
 ved
 vedholdenhed
+vedkommende
 vedrører
 vedtaget
 vegne
@@ -12171,6 +12298,7 @@ vejret
 vejrforhold
 vejrforholdene
 vejrmæssige
+vejrs
 vejrsituationer
 vejrtrækning
 vejrudfordret
@@ -12179,6 +12307,7 @@ vekslede
 veksler
 vekslet
 vel
+velbegrundet
 velbesøgt
 velfortjent
 velgørenhed
@@ -12188,6 +12317,7 @@ velkendte
 velkommen
 velkomne
 velkomst
+vellidt
 vellykket
 velorganiseret
 velreflekteret
@@ -12215,7 +12345,6 @@ venskabet
 venskabskamp
 venstre
 venstrebacken
-venstrehånd
 venstrehåndede
 venstresvingene
 vent
@@ -12244,7 +12373,6 @@ verdenskendt
 verdensklasse
 verdensmester
 verdensmesteren
-verdensmesters
 verdensmesterskab
 verdensmesterskaber
 verdensmesterskaberne
@@ -12260,6 +12388,7 @@ verdensrekord
 verdensrekorden
 verdensrekorder
 verdensrekordholder
+verdensrekordholderen
 verdensrekordhop
 verdensrekordindehaver
 verdensrekordtid
@@ -12270,7 +12399,6 @@ verdenstjerne
 verdenstoeren
 verdenstop
 verdenstoppen
-verserende
 version
 vest
 vesten
@@ -12364,6 +12492,7 @@ vinders
 vindersporet
 vindertale
 vindertiden
+vindforhold
 vindstød
 vinger
 vinke
@@ -12392,6 +12521,7 @@ virker
 virkning
 virksomheder
 virus
+virusudbrud
 vis
 vise
 viser
@@ -12406,7 +12536,6 @@ vitale
 vitalt
 vittigheder
 vm
-vogn
 vogne
 vognen
 vogte
@@ -12450,6 +12579,7 @@ volleyballsucces
 volleyballtriumf
 volleyfavoritterne
 volleyguld
+volleyguldet
 volleyherrer
 volleyherrerne
 volleykvinder
@@ -12543,15 +12673,19 @@ værterne
 værtsbeslutning
 værtsby
 værtshuset
+værtshusslagsmål
 værtskab
 værtskabet
 værtsland
+værtslandet
+værtslandets
 værtsnation
 værtsnationen
 værtsskab
 værtsskabet
 væsentlig
 w
+waliser
 waliserne
 walisiske
 warrington
@@ -12610,7 +12744,6 @@ zoomer
 åbnes
 åbnet
 åbning
-åbningen
 åbningsceremoni
 åbningsceremonien
 åbningsdagen
@@ -12645,6 +12778,7 @@ zoomer
 årige
 årigs
 årigt
+årlig
 årlige
 årrige
 årrække
@@ -12672,7 +12806,6 @@ zoomer
 ændre
 ændrede
 ændrer
-ændres
 ændret
 ændring
 ændringer
@@ -12691,7 +12824,6 @@ zoomer
 ærkerival
 ærlig
 ærligt
-ærmet
 ø
 ødelagde
 ødelagt
@@ -12700,7 +12832,6 @@ zoomer
 ødelægger
 ødelægges
 øge
-øgede
 øgenavn
 øger
 øges
@@ -12722,6 +12853,7 @@ zoomer
 økonomien
 økonomisk
 økonomiske
+økonomiudvalget
 øl
 ømmer
 ømtålelig
