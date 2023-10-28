@@ -47,6 +47,8 @@ def get_sports():
     df_vm_fodbold_3 =  pd.read_csv('articles/vm_fodbold_3.csv', encoding = "ISO-8859-1")
     df_latest_new =  pd.read_csv('articles/latest_new.csv', encoding = "ISO-8859-1")
     df_bueskydning =  pd.read_csv('articles/bueskydning.csv', encoding = "ISO-8859-1")
+    df_motorsport =  pd.read_csv('articles/motorsport.csv', encoding = "ISO-8859-1")
+
 
 
 
@@ -79,7 +81,8 @@ def get_sports():
         df_vm_fodbold_1,
         df_vm_fodbold_3,
         df_latest_new,
-        df_bueskydning
+        df_bueskydning,
+        df_motorsport
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)
