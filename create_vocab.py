@@ -15,7 +15,7 @@ def remove_numeric(words):
 def strip_sentences(sentences):
     words_arr = []
     for ind, sentence in enumerate(sentences):
-        words_arr.append(sentence.rstrip(".")) # removes trailing newline and full stop
+        words_arr.append(sentence.rstrip(".").strip()) # removes trailing newline and full stop
     return words_arr
 
 

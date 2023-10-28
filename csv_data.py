@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from collections import OrderedDict
 import re
+import collections
+from create_vocab import strip_sentences
 
 def format_2_bool(x):
     if type(x) == bool:
@@ -136,14 +138,22 @@ def remove_hidden_spaces(text):
     pattern = r'[\s\u00A0]+'
     return re.sub(pattern, ' ', text)
 
+def check_duplicates(data_arr):
+    duplicates = [item for item, count in collections.Counter(data_arr).items() if count > 1]
+    for d in duplicates:
+        print(d)
+    assert(len(duplicates) == 0)
+
 
 def extract_data(df):
     train_text = df.iloc[:, [0,1,2]].apply(' . '.join, axis=1).replace('\xa0', ' ', regex=True).to_numpy()
     train_text = [remove_hidden_spaces(text) for text in train_text]
+    train_text = strip_sentences(train_text)
 
     labels = df['isResult'].to_numpy().astype(int)
 
     return train_text, labels
+
 
 def split_data(data, percentage):
     train, labels = data
@@ -152,80 +162,3 @@ def split_data(data, percentage):
     p = l - int((percentage/100) * l)
 
     return (train[0:p], train[p:], labels[0:p], labels[p:])
-
-
-
-    tt = list(train)
-    ll = list(labels)
-
-    count = 0
-    i = 0
-    val_data = []
-    val_labels = []
-
-    while count < ((l-p) /2):
-        if ll[i] == 1:
-            val_data.append(tt[i])
-            val_labels.append(ll[i])
-            del tt[i]
-            del ll[i]
-            count += 1
-
-        i += 1  
-
-    count = 0
-    i = 0
-    
-    while count < ((l-p) /2):
-        if ll[i] == 0:
-            val_data.append(tt[i])
-            val_labels.append(ll[i])
-            del tt[i]
-            del ll[i]
-            count += 1
-
-        i += 1   
-
-    return (np.array(tt), np.array(val_data), np.array(ll), np.array(val_labels))
-
-    # train, labels = data
-
-    # l = len(train)
-    # p = l - int((percentage/100) * l)
-    # half_val_length = int((l -p) / 2)
-
-    # # tt = list(train)
-    # # ll = list(labels)
-
-    # pos_ind = [i for (i,x) in enumerate(labels) if x == 0]
-    # neg_ind = [i for (i,x) in enumerate(labels) if x == 1]
-
-    # total_ind = pos_ind[:half_val_length] + neg_ind[:half_val_length]
-    # print(total_ind)
-
-    # val_data, val_labels = zip(*([(train[x], labels[x]) for x in total_ind]))
-    # print(labels[:300])
-    # train = np.delete(train, total_ind)
-    # labels = np.delete(labels, total_ind)
-
-    # return (train, np.array(val_data), labels, np.array(val_labels))
-
-
-
-
-    # return (train[0:p], train[p:], labels[0:p], labels[p:])
-
-# ordered_dict = get_vocab_dict()
-# df_sport = get_sports()
-
-# nationalities = get_csv('nat3.csv')
-# countries = get_csv('countries.csv')
-# navne = get_csv('navne.csv')
-
-# train_data, val_data, train_labels, val_labels = split_data(extract_data(df_sport), 6)
-
-# # train_data_results = get_results_in_data(train_data, train_labels)
-
-# # print("Total data: ", len(train_text))
-# print("Train data length: ", len(train_data), len(train_labels))
-# print("Validation data length: ", len(val_data),  len(val_labels))
