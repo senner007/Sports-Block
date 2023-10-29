@@ -19,6 +19,8 @@ def strip_sentences(sentences):
     return words_arr
 
 
+
+
 def split_sentences(sentences):
     words_arr = []
     for ind, sentence in enumerate(sentences):
@@ -50,6 +52,7 @@ def remove_danske_navne(words, danske_navne):
     return list(set(words_minus_danske_navne))
 
 def remove_danske_fornavne(words, danske_fornavne):
+    print(danske_fornavne)
     words_minus_danske_navne = []
     for w in words:
         result = any(re.compile(fr"^{item}s?\b").search(w) for item in danske_fornavne) # TODO : test me!

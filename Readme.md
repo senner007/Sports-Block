@@ -26,7 +26,7 @@ Golf:
     - hole in one er resultat
 
 Fodbold/basketball/Håndbold/Ishockey:
-    - scoringer/point/udligninger/redninger er også resultater
+    - scoringer/point/udligninger er også resultater
     - scoringsrekorder er resultater
 
 Sejlsport/Cykling:
