@@ -123,9 +123,9 @@ def csv_to_list(csv_name):
 
 def get_vocab_dict():
     # df_ods_vocab = pd.read_table('ods_fullforms_2020-08-26.csv', header=None)
-    df_ddo_vocab = pd.read_table('ddo_fullforms_2020-08-26.csv', header=None)
+    df_ddo_vocab = pd.read_table('resources/ddo_fullforms_2020-08-26.csv', header=None)
     # df_vocab = pd.read_table('cor1.02.tsv', header=None)
-    df_sport_lingo = pd.read_table('sport_lingo.csv', header=None)
+    df_sport_lingo = pd.read_table('resources/sport_lingo.csv', header=None)
 
     # vocab_set = vocab_2_pdset([1,3], df_vocab)
     # ods_vocab_set = vocab_2_pdset([0,1], df_ods_vocab)

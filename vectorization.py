@@ -8,7 +8,6 @@ def increment(x):
 
 # TODO : evt indikere hvilke navneord der starte med stort bogstav(egenavne), evt. lave et opslag for at undersøge ordklasse for det første ord i sætningen 
 
-
 def to_lower(word):
     return tf.strings.lower(word, encoding='utf-8')
 
@@ -16,7 +15,7 @@ def split_dash(word):
   return tf.strings.regex_replace(word, '-', ' ')
 
 def replace_finals(word):
-  r = r'(\b\w*finale(?:n|r|rne|opgør)?\b)'
+  r = r'\w*finale'
   return tf.strings.regex_replace(word, pattern=r, rewrite="xfinale")
 
 def split_included_specials(word):
@@ -81,18 +80,7 @@ def replace_weekday(weekdays):
         return replace_weekday
 
 
-
 # TODO : test hvilke standarization funktioner giver bedre resultater 
-
-# def custom_standardization(x):
-#     x = to_lower(x)
-#     x = split_dash(x)
-#     x = split_specials(x)
-#     x = replace_tournament(x)
-#     x = replace_countries(x)
-#     x = replace_weekday(x)    
-#     # x = replace_nationality(x)                     
-#     return replace_digits(x)
 
 def standardize(func_arr):
     def iterate_funcs(x):
@@ -101,13 +89,6 @@ def standardize(func_arr):
             val = f(val)
         return val
     return iterate_funcs
-
-
-# arrs = [
-#     to_lower, split_dash, split_specials, replace_tournament, replace_countries, replace_countries, replace_weekday, replace_digits
-# ]
-
-# s = standardize(arrs)
 
 def vect_layer_2_text(vect, vect_vocab):
     return np.array([vect_vocab[x] for x in np.trim_zeros(np.squeeze(vect.numpy()))])
@@ -118,29 +99,4 @@ def vectorize_layer(max_features, sequence_length, standardization):
     max_tokens=max_features,
     output_mode="int",
     output_sequence_length=sequence_length)
-
-
-
-# # Model constants.
-# max_features = 5600
-# sequence_length = 100
-
-# vectorize_layer = TextVectorization(
-#     standardize=custom_standardization,
-#     max_tokens=max_features,
-#     output_mode="int",
-#     output_sequence_length=sequence_length,
-# )
-
-# add the word 'xx' to the allowed vocabulary representing all numbers
-# word_generalization = [ "xx", "x_land", "x-tournament", "x_nationality", "x_weekday"]
-# word_generalization.extend(tournaments.values())
-
-# def prepare_vocab(words):
-#     words_copy = words.copy()
-#     words_copy.extend(word_generalization)
-#     return words_copy
-
-# text_ds = vectorize_layer.adapt(prepare_vocab(words_train_vocab))
-# vect_vocab = vectorize_layer.get_vocabulary()
 
