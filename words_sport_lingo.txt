@@ -7,10 +7,10 @@ wroclaw
 wallberg
 purdy
 lakers
+amusan
 knights
 bryant
 wulff
-gue
 vittinghus
 reedtz
 sofyan
@@ -22,7 +22,6 @@ atalanta
 frederiksberg
 jos
 lasitskene
-jorge
 fredericias
 poel
 copenhagen
@@ -33,6 +32,7 @@ sparta
 falster
 shaun
 scottie
+luc
 paul
 galatasarays
 nicolaj
@@ -48,6 +48,7 @@ pick
 peyton
 elming
 kerley
+collin
 mainz
 marvelous
 golden
@@ -74,6 +75,7 @@ philadelphia
 ehf
 christian
 emil
+lyngholm
 aab
 kash
 giroud
@@ -130,6 +132,7 @@ vipers
 nico
 hansen
 club
+birger
 marokkos
 fraulo
 lasse
@@ -158,6 +161,7 @@ napoli
 jan
 karim
 brighton
+mathiasen
 egypten
 cohrt
 diego
@@ -185,10 +189,12 @@ coco
 cameroun
 kuss
 landins
+tobi
 anthony
 trafford
 hørsholm
 sun
+walker
 steve
 chloe
 koljonen
@@ -218,7 +224,6 @@ zil
 hoxer
 mai
 beka
-usada
 grækenland
 diving
 brian
@@ -309,8 +314,8 @@ maurice
 camilla
 aastrand
 nielsens
-nagelsmann
 ricard
+meyers
 marvin
 burgaard
 baena
@@ -329,6 +334,7 @@ everton
 joshua
 walter
 montreal
+roger
 wada
 liege
 mathias
@@ -351,6 +357,7 @@ beck
 madrids
 piastri
 dublin
+kodro
 stanley
 bech
 yussuf
@@ -375,6 +382,7 @@ toulouse
 kiel
 grizzlies
 alm
+palmas
 birmingham
 alexandra
 off
@@ -384,6 +392,7 @@ lauda
 vedel
 ingvartsen
 canadiens
+corales
 olivier
 pelister
 york
@@ -449,10 +458,10 @@ nordic
 hamlin
 uruguay
 asgreens
-bruuns
 vueltaen
 thailand
 luka
+federer
 axelsens
 bull
 estland
@@ -512,7 +521,6 @@ himmerland
 arabien
 hjulmand
 burrow
-lorenzo
 ller
 beckmann
 agk
@@ -520,6 +528,7 @@ stavanger
 fredericia
 afrika
 flick
+pulev
 okako
 fiba
 iivo
@@ -537,6 +546,7 @@ anthon
 kiprop
 ñ
 ihf
+ruud
 celtics
 dahm
 boxen
@@ -551,7 +561,6 @@ dallas
 nigeria
 lauridsen
 emilie
-rotterdam
 vuelta
 zlatan
 chijindu
@@ -562,11 +571,13 @@ thomas
 chris
 feyenoord
 lars
-laugesen
 emile
+laugesen
 kodai
 natus
+fumble
 messi
+joan
 friis
 scheffler
 qatars
@@ -576,6 +587,7 @@ skaggs
 matthias
 sandra
 fiorentina
+ljubljana
 struer
 israel
 heroic
@@ -595,10 +607,10 @@ nilsson
 krystsina
 the
 anfield
-vilda
 !
 bundesliga
 brøndbys
+vos
 rossander
 lvarez
 finland
@@ -692,6 +704,7 @@ dick
 sinner
 spaniens
 jessica
+modri
 knudsen
 frankrig
 dvf
@@ -699,14 +712,13 @@ wallin
 bahrains
 ioc
 lucas
-armenien
 watson
 josh
-daria
 »
 højgaard
 blume
 brasilien
+kubrat
 baku
 leon
 island
@@ -721,6 +733,7 @@ sancho
 rk
 canada
 trump
+nordmakedonien
 achraf
 henrik
 manchester
@@ -741,6 +754,7 @@ fleetwood
 kyrgios
 cameron
 vangsgaard
+up
 serbien
 dk
 demaryius
@@ -771,7 +785,6 @@ casper
 pierre
 rgensen
 mouratoglou
-ganus
 gudme
 tadej
 rindshøj
@@ -797,7 +810,6 @@ wagner
 skaarup
 johannes
 cardinals
-titus
 uefa
 szeged
 meeus
@@ -814,6 +826,7 @@ daniel
 schmidt
 one
 iem
+puntacana
 nestea
 diggins
 sifan
@@ -821,10 +834,12 @@ lindsey
 suns
 thompson
 colts
+sanne
 derek
 jabbar
 maiken
 modric
+hovland
 snogdal
 ganna
 wei
@@ -889,6 +904,7 @@ guardiola
 dimitrov
 kipsang
 canadas
+antonsens
 rajbek
 højlunds
 stearns
@@ -924,10 +940,10 @@ jimmy
 albon
 schleck
 froch
+draisaitl
 bardghji
 hamilton
 batman
-glyngøre
 england
 djokovic
 betis
@@ -936,6 +952,7 @@ iaaf
 cska
 hubert
 nr
+papu
 brix
 tony
 annemiek
@@ -950,6 +967,7 @@ haas
 beijing
 mount
 toyota
+laporta
 ottesen
 kraul
 takashi
@@ -971,6 +989,7 @@ irving
 calle
 musah
 kerr
+jason
 dideriksen
 barca
 kronborg
@@ -1030,7 +1049,6 @@ wales
 danny
 sauerland
 saugstrup
-yuri
 skotland
 hour
 blast
@@ -1075,8 +1093,8 @@ tiril
 luis
 diamond
 girona
-nørgaard
 hole
+nørgaard
 skjelmose
 techs
 valentino
@@ -1130,12 +1148,11 @@ bisultanov
 kecmanovic
 lønloft
 klitschko
+jones
 oslo
-kimberly
 burnley
 leauge
 lendore
-musetti
 half
 søndergaard
 sabres
@@ -1159,7 +1176,6 @@ jelert
 dodgers
 emma
 thomsen
-ekiru
 nuggets
 sven
 augsburg
@@ -1176,6 +1192,7 @@ loze
 wozniacki
 pytlick
 davis
+astrups
 arthur
 usyk
 matt
@@ -1232,7 +1249,6 @@ wolfsburg
 floyd
 popov
 henderson
-chun
 goncalves
 nathalie
 rodenberg
@@ -1255,6 +1271,7 @@ muchova
 froome
 raven
 tottenham
+marit
 evenepoel
 wilson
 french
@@ -1275,9 +1292,11 @@ uniteds
 egil
 vries
 antman
+philipsens
 ducks
 axel
 nuamah
+djokovics
 bjerrehuus
 vystavel
 storbritannien
@@ -1291,6 +1310,7 @@ gauff
 young
 chelseas
 bruxelles
+doye
 pogbas
 antwerpen
 thw
@@ -1303,7 +1323,6 @@ massa
 hamas
 trnava
 carolina
-aleksandr
 frankrigs
 malaika
 touren
@@ -1332,7 +1351,6 @@ hongkong
 frederiksen
 visma
 tysons
-mathieu
 rasmus
 zverev
 goldmann
@@ -1356,6 +1374,7 @@ ampezzo
 næstved
 lubin
 østrigs
+brorsson
 "
 covid
 harder
@@ -1395,6 +1414,7 @@ ons
 powell
 honda
 japans
+oklahoma
 girouds
 neestrup
 alves
@@ -1414,7 +1434,6 @@ fury
 andretti
 evander
 nicolas
-reif
 lazio
 ronaldos
 anna
@@ -1441,6 +1460,7 @@ buzz
 serrano
 oberhof
 istanbul
+devils
 holger
 nrk
 ballerup
@@ -1460,14 +1480,16 @@ simone
 energy
 mvp
 dani
+vladyslav
 jabbi
 fran
-vladyslav
 juul
 williams
 fernando
 mie
+gisli
 eriksen
+henriksen
 ungarn
 søderberg
 krogh
@@ -1495,6 +1517,7 @@ rium
 st
 maze
 bahrain
+thunder
 raiders
 breiner
 jena
@@ -1578,7 +1601,6 @@ alis
 oleksandr
 berlin
 kristoffer
-ishøj
 blatter
 joachim
 pga
@@ -1587,7 +1609,6 @@ infantino
 damar
 frederikshavns
 jeddah
-haskins
 phil
 europe
 poulidor
@@ -1639,7 +1660,6 @@ mortensen
 hamlins
 albanien
 theis
-dwayne
 louis
 brandon
 benzema
@@ -1656,7 +1676,6 @@ indiens
 acu
 valencia
 franck
-mislintat
 argentina
 piotr
 loser
@@ -1671,6 +1690,7 @@ fuglsang
 raymonds
 rindshøjs
 warrior
+werder
 dstny
 stamford
 monteiro
@@ -1709,6 +1729,7 @@ andresen
 lineup
 nadia
 marcus
+von
 søgaard
 wind
 skiathlon
@@ -1765,11 +1786,13 @@ tel
 villadsen
 hooydonck
 cristiano
+alejandro
 klay
 englands
 obama
 cecilie
 maddison
+quay
 russell
 granerud
 mariya
@@ -1816,7 +1839,6 @@ nørregaard
 hypercar
 bale
 janne
-birrell
 wikipedia
 clara
 ribe
@@ -1899,8 +1921,8 @@ australien
 ajax
 warholm
 elmer
-ruslands
 china
+ruslands
 rfef
 navi
 lewis
@@ -1954,8 +1976,8 @@ saint
 bredsdorff
 schou
 opens
-arnoldsen
 pavia
+arnoldsen
 nathan
 marcos
 coe
@@ -1968,7 +1990,6 @@ sheffield
 portugals
 thorning
 taiwan
-busquets
 julian
 maps
 troelsen
@@ -2003,8 +2024,8 @@ antonsen
 dr
 -
 karabatic
-lolenga
 tt
+lolenga
 reinhardt
 mahfoud
 italien
@@ -2048,6 +2069,7 @@ lefevere
 /
 isaac
 canucks
+bremen
 singapores
 ferrari
 dichow
@@ -2056,7 +2078,6 @@ rangers
 simonsen
 hermoso
 gatlin
-severiukhin
 yamal
 alcaraz
 holly
@@ -2088,8 +2109,8 @@ olesens
 fanbase
 mikkelsen
 komit
-dhabi
 wien
+dhabi
 norges
 ludogorets
 jensens

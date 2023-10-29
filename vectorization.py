@@ -41,7 +41,7 @@ def replace_countries(countries):
 
         new_str = word
         for sign in countries:
-            r = sign + "s?\\b"
+            r = "\\b(?:nord|syd|øst|vest)?" + sign + "s?\\b"
             new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="xland")
 
         return new_str
@@ -65,7 +65,7 @@ def replace_nationality(nationalities):
     def replace_nationality(word):
         new_str = word
         for sign in nationalities:
-            r = "\\b" + sign + "\\w*"
+            r = "\\b(?:nord|syd|øst|vest)?" + sign + "\\w*"
             new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="xnationality")
 
         return new_str

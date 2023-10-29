@@ -3,7 +3,8 @@ import numpy as np
 from collections import OrderedDict
 import re
 import collections
-from create_vocab import strip_sentences
+from create_vocab import strip_strings
+from create_vocab import remove_duplicates
 
 def format_2_bool(x):
     if type(x) == bool:
@@ -110,9 +111,13 @@ def vocab_2_dict(sets):
     return OrderedDict.fromkeys(word_set)
 
 def csv_to_list(csv_name):
-    df_nationalities = pd.read_csv(csv_name, encoding = "ISO-8859-1", header=None)
-    nationalities = df_nationalities.fillna('').iloc[:,:].values.ravel().tolist()
-    return [x.strip().lower() for x in nationalities if x!= '']
+    df = pd.read_csv(csv_name, encoding = "ISO-8859-1", header=None)
+    df_list = df.fillna('').iloc[:,:].values.ravel().tolist()
+    df_list = [x for x in df_list if x!= '']
+    df_list = strip_strings(df_list)
+    df_list = [x.lower() for x in df_list if x!= '']
+    df_list = remove_duplicates(df_list)
+    return df_list
 
 # TODO : fjern ord der er kategorisert som "egennavn" i ddo_fullforms_2020-08-26.csv
 
@@ -148,7 +153,7 @@ def check_duplicates(data_arr):
 def extract_data(df):
     train_text = df.iloc[:, [0,1,2]].apply(' . '.join, axis=1).replace('\xa0', ' ', regex=True).to_numpy()
     train_text = [remove_hidden_spaces(text) for text in train_text]
-    train_text = strip_sentences(train_text)
+    train_text = strip_strings(train_text)
 
     labels = df['isResult'].to_numpy().astype(int)
 

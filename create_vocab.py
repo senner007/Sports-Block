@@ -12,14 +12,11 @@ def contains_non_alphanumeric(word):
 def remove_numeric(words):
     return [x for x in words if any(char.isdigit() for char in x) == False]
     
-def strip_sentences(sentences):
-    words_arr = []
-    for ind, sentence in enumerate(sentences):
-        words_arr.append(sentence.rstrip(".").strip()) # removes trailing newline and full stop
-    return words_arr
-
-
-
+def strip_strings(strs):
+    stripped = []
+    for s in  strs:
+        stripped.append(s.rstrip(".").strip()) # removes trailing newline and full stop and space
+    return stripped
 
 def split_sentences(sentences):
     words_arr = []
@@ -86,17 +83,3 @@ def add_non_alpha_numeric(words, non_alpha):
     ws = words
     ws.extend(non_alpha)
     return ws
-
-
-# words_arr = split_sentences(train_data)
-# words_arr_unique = remove_duplicates(words_arr)
-# words_arr_unique = remove_nationalities(words_arr_unique, nationalities)
-# words_arr_unique = remove_numeric(words_arr_unique)
-
-# words_train_vocab, words_sport_lingo = remove_non_dict_words(words_arr_unique, ordered_dict)
-
-# words_train_vocab = add_non_alpha_numeric(words_train_vocab, non_alpha)
-
-# print(words_train_vocab)
-
-
