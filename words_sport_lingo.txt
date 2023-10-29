@@ -11,17 +11,17 @@ amusan
 knights
 bryant
 wulff
+gue
 vittinghus
 reedtz
 sofyan
-mid
 ferencvaros
 salwa
 simon
 atalanta
-frederiksberg
 jos
 lasitskene
+jorge
 fredericias
 poel
 copenhagen
@@ -85,7 +85,6 @@ nikolaj
 nfh
 mighty
 harris
-yassine
 capital
 valievas
 hsv
@@ -117,7 +116,6 @@ dina
 grischa
 fcn
 munoz
-keys
 aabo
 marko
 krakow
@@ -215,8 +213,8 @@ cortina
 christensen
 kesslers
 thy
-plugge
 bronny
+plugge
 charlton
 budapest
 larsen
@@ -224,6 +222,7 @@ zil
 hoxer
 mai
 beka
+usada
 grækenland
 diving
 brian
@@ -273,7 +272,6 @@ japan
 phoenix
 castro
 france
-moneygram
 nordkorea
 silkeborgs
 therese
@@ -306,20 +304,18 @@ luxembourg
 andersens
 hansens
 capitals
-lusail
 fck
 lie
 mikael
-maurice
 camilla
 aastrand
 nielsens
+nagelsmann
 ricard
 meyers
 marvin
 burgaard
 baena
-granollers
 jess
 swiatek
 them
@@ -334,7 +330,6 @@ everton
 joshua
 walter
 montreal
-roger
 wada
 liege
 mathias
@@ -344,7 +339,6 @@ sofie
 jacobs
 cancellara
 neuer
-smarason
 marino
 argentinas
 magnus
@@ -378,7 +372,6 @@ gianni
 merrald
 gog
 regin
-toulouse
 kiel
 grizzlies
 alm
@@ -411,21 +404,17 @@ eddie
 herning
 winther
 karin
-geraint
 mattias
-koepka
 melbourne
-liu
 hopman
+liu
 salzburg
 vincere
 silkeborg
 guiu
 iga
 kasper
-scaglione
 dalby
-janus
 klausen
 pyeongchang
 monza
@@ -433,7 +422,6 @@ roglic
 nykøbing
 leagues
 ungarns
-lyngbys
 sydney
 dhf
 joakim
@@ -450,7 +438,6 @@ bwf
 belarus
 irland
 finlands
-krause
 klaksv
 dolberg
 frankfurt
@@ -458,10 +445,10 @@ nordic
 hamlin
 uruguay
 asgreens
+bruuns
 vueltaen
 thailand
 luka
-federer
 axelsens
 bull
 estland
@@ -501,6 +488,7 @@ miomir
 brooks
 british
 kai
+lyles
 mexicos
 helsinki
 bbc
@@ -521,6 +509,7 @@ himmerland
 arabien
 hjulmand
 burrow
+lorenzo
 ller
 beckmann
 agk
@@ -561,9 +550,9 @@ dallas
 nigeria
 lauridsen
 emilie
+rotterdam
 vuelta
 zlatan
-chijindu
 farah
 katowice
 glifberg
@@ -607,6 +596,7 @@ nilsson
 krystsina
 the
 anfield
+vilda
 !
 bundesliga
 brøndbys
@@ -637,7 +627,6 @@ eurofarm
 frederic
 indycar
 mcilroy
-dvbf
 chokexit
 james
 christina
@@ -684,14 +673,12 @@ alexandre
 sacramento
 zhou
 montenegro
-sumgong
 mercedes
 bergamo
 rodri
 juan
 indians
 chicago
-camille
 jokic
 madsen
 ronnie
@@ -703,8 +690,6 @@ verdenen
 dick
 sinner
 spaniens
-jessica
-modri
 knudsen
 frankrig
 dvf
@@ -712,6 +697,7 @@ wallin
 bahrains
 ioc
 lucas
+armenien
 watson
 josh
 »
@@ -741,7 +727,6 @@ ob
 sonne
 belgiens
 delaney
-rimdal
 indonesien
 felipe
 liquid
@@ -785,6 +770,7 @@ casper
 pierre
 rgensen
 mouratoglou
+ganus
 gudme
 tadej
 rindshøj
@@ -810,6 +796,7 @@ wagner
 skaarup
 johannes
 cardinals
+titus
 uefa
 szeged
 meeus
@@ -817,7 +804,6 @@ heldt
 mcgregor
 movistar
 jordan
-saul
 laura
 slettemark
 tonali
@@ -845,7 +831,6 @@ ganna
 wei
 frandsen
 aviv
-werge
 haag
 marinos
 hannover
@@ -862,9 +847,7 @@ filippo
 liverpool
 philip
 crystal
-fagioli
 bottas
-ujah
 gotytom
 stroll
 mouz
@@ -944,6 +927,7 @@ draisaitl
 bardghji
 hamilton
 batman
+glyngøre
 england
 djokovic
 betis
@@ -1049,6 +1033,7 @@ wales
 danny
 sauerland
 saugstrup
+yuri
 skotland
 hour
 blast
@@ -1093,8 +1078,8 @@ tiril
 luis
 diamond
 girona
-hole
 nørgaard
+hole
 skjelmose
 techs
 valentino
@@ -1114,13 +1099,12 @@ iffe
 chse
 lone
 rasmussen
-vinicius
 baltimore
 ã
 marco
 running
-stefanos
 grabara
+stefanos
 victor
 galiazzo
 lewandowski
@@ -1148,11 +1132,12 @@ bisultanov
 kecmanovic
 lønloft
 klitschko
-jones
 oslo
+kimberly
 burnley
 leauge
 lendore
+musetti
 half
 søndergaard
 sabres
@@ -1176,6 +1161,7 @@ jelert
 dodgers
 emma
 thomsen
+ekiru
 nuggets
 sven
 augsburg
@@ -1249,6 +1235,7 @@ wolfsburg
 floyd
 popov
 henderson
+chun
 goncalves
 nathalie
 rodenberg
@@ -1277,9 +1264,7 @@ wilson
 french
 hernings
 locatelli
-pinto
 semenya
-leaks
 andy
 erne
 danish
@@ -1323,6 +1308,7 @@ massa
 hamas
 trnava
 carolina
+aleksandr
 frankrigs
 malaika
 touren
@@ -1332,7 +1318,6 @@ andrew
 wass
 carsten
 mitchell
-jemima
 tours
 carlsen
 leicester
@@ -1351,6 +1336,7 @@ hongkong
 frederiksen
 visma
 tysons
+mathieu
 rasmus
 zverev
 goldmann
@@ -1429,11 +1415,11 @@ diack
 ancelotti
 carri
 mma
-bosnien
 fury
 andretti
 evander
 nicolas
+reif
 lazio
 ronaldos
 anna
@@ -1441,7 +1427,6 @@ pirates
 cour
 italia
 curry
-cord
 broch
 paulina
 perus
@@ -1465,7 +1450,6 @@ holger
 nrk
 ballerup
 chile
-ingildsen
 kamil
 ç
 remco
@@ -1478,11 +1462,10 @@ esport
 circuit
 simone
 energy
-mvp
 dani
 vladyslav
-jabbi
 fran
+jabbi
 juul
 williams
 fernando
@@ -1519,7 +1502,6 @@ maze
 bahrain
 thunder
 raiders
-breiner
 jena
 kinas
 tauson
@@ -1538,7 +1520,6 @@ winneche
 anderlecht
 triple
 cas
-sigsgaard
 hung
 chelsea
 elias
@@ -1547,6 +1528,7 @@ matti
 adika
 robinson
 tjekkiet
+vigo
 linn
 silva
 greg
@@ -1567,7 +1549,6 @@ artem
 pretty
 aiba
 ottawa
-vesterby
 fcm
 holst
 kappel
@@ -1601,6 +1582,7 @@ alis
 oleksandr
 berlin
 kristoffer
+ishøj
 blatter
 joachim
 pga
@@ -1609,6 +1591,7 @@ infantino
 damar
 frederikshavns
 jeddah
+haskins
 phil
 europe
 poulidor
@@ -1622,7 +1605,6 @@ dalilah
 washington
 saudi
 sail
-rommedahl
 barcelonas
 starstruck
 tampa
@@ -1659,7 +1641,7 @@ hooxi
 mortensen
 hamlins
 albanien
-theis
+dwayne
 louis
 brandon
 benzema
@@ -1668,14 +1650,13 @@ amalie
 maria
 whyte
 ingrid
-holbæk
 barcelona
 wba
 toronto
-indiens
 acu
 valencia
 franck
+mislintat
 argentina
 piotr
 loser
@@ -1795,8 +1776,8 @@ maddison
 quay
 russell
 granerud
-mariya
 griezmann
+mariya
 daniil
 wayne
 carballes
@@ -1814,11 +1795,9 @@ pernille
 faze
 nike
 fame
-montpellier
 landmark
 auger
 hakimi
-derrick
 connor
 dillian
 southgate
@@ -1839,6 +1818,7 @@ nørregaard
 hypercar
 bale
 janne
+birrell
 wikipedia
 clara
 ribe
@@ -1914,7 +1894,6 @@ smith
 jackson
 )
 yew
-alberte
 meinke
 horsens
 australien
@@ -1923,6 +1902,7 @@ warholm
 elmer
 china
 ruslands
+suri
 rfef
 navi
 lewis
@@ -1955,7 +1935,6 @@ roberto
 rory
 mls
 bernie
-alvarez
 martin
 holten
 durant
@@ -1976,7 +1955,6 @@ saint
 bredsdorff
 schou
 opens
-pavia
 arnoldsen
 nathan
 marcos
@@ -1990,6 +1968,7 @@ sheffield
 portugals
 thorning
 taiwan
+busquets
 julian
 maps
 troelsen
@@ -2005,7 +1984,6 @@ ricky
 klæbo
 sverige
 oberstdorf
-edin
 madis
 ford
 shanghai
@@ -2041,7 +2019,6 @@ fullerton
 kif
 mette
 iron
-university
 tranborg
 mikaela
 wbo
@@ -2078,6 +2055,7 @@ rangers
 simonsen
 hermoso
 gatlin
+severiukhin
 yamal
 alcaraz
 holly
@@ -2104,12 +2082,11 @@ todd
 philipsen
 ziyech
 cadian
-mattia
 olesens
+mattia
 fanbase
 mikkelsen
 komit
-wien
 dhabi
 norges
 ludogorets
