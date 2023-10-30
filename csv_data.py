@@ -47,11 +47,14 @@ def get_sports():
     df_vinterol = pd.read_csv('articles/vinterol.csv', encoding = "ISO-8859-1")
     df_esport =  pd.read_csv('articles/esport.csv', encoding = "ISO-8859-1")
     df_vm_fodbold_1 =  pd.read_csv('articles/vm_fodbold_1.csv', encoding = "ISO-8859-1")
+    df_vm_fodbold_2 =  pd.read_csv('articles/vm_fodbold_2.csv', encoding = "ISO-8859-1")
     df_vm_fodbold_3 =  pd.read_csv('articles/vm_fodbold_3.csv', encoding = "ISO-8859-1")
     df_latest_new =  pd.read_csv('articles/latest_new.csv', encoding = "ISO-8859-1")
     df_bueskydning =  pd.read_csv('articles/bueskydning.csv', encoding = "ISO-8859-1")
     df_motorsport =  pd.read_csv('articles/motorsport.csv', encoding = "ISO-8859-1")
-
+    df_dr_latest_2 =  pd.read_csv('articles/dr_latest_2.csv', encoding = "ISO-8859-1")
+    df_20231030T13latest =  pd.read_csv('articles/2023-10-30T13_latest.csv', encoding = "ISO-8859-1")
+    df_20231030T22latest =  pd.read_csv('articles/2023-10-30T22_latest.csv', encoding = "ISO-8859-1")
 
 
 
@@ -82,10 +85,14 @@ def get_sports():
         df_vinterol,
         df_esport,
         df_vm_fodbold_1,
+        df_vm_fodbold_2,
         df_vm_fodbold_3,
         df_latest_new,
         df_bueskydning,
-        df_motorsport
+        df_motorsport,
+        df_dr_latest_2,
+        df_20231030T13latest,
+        df_20231030T22latest
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)

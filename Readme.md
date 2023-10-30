@@ -13,7 +13,7 @@ Polyglots Notebooks (Extension)
         ◦ Resultat : ”Tabte i lørdags...”
         ◦ Ikke resultat: ”Vandt guld i 2020...”
     • Kommende resultater klassificeres ikke som resultater.
-    • Permanente afbrydelser, som forårsaget af eksempelvis skader gælder heller ikke som resultat.
+    • Permanente afbrydelser, som forårsaget af eksempelvis skader gælder heller ikke som resultat, medmindre resultat nævnes
     • At udøveren udgår, melder afbud, diskvalificeres eller på forhånd misser deltagelse gælder ikke som resultat. Ved styrt, motorproblemer eller andet gælder det kun som resultat, hvis et resultat nævnes. 
     • Hædringer, hyldninger, kåringer og fejringer for resultater ( ikke nomineringer ) medtages som resultat, hvis resultatet indgår i overskriften.
     • Ændringer på rangliste medtages er også resultat
