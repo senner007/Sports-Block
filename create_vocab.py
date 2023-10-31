@@ -15,7 +15,7 @@ def remove_numeric(words):
 def strip_strings(strs):
     stripped = []
     for s in  strs:
-        stripped.append(s.rstrip(".").strip()) # removes trailing newline and full stop and space
+        stripped.append(s.rstrip(". ").strip()) # removes trailing newline and full stop and space
     return stripped
 
 def split_sentences(sentences):

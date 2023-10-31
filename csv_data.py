@@ -55,8 +55,7 @@ def get_sports():
     df_dr_latest_2 =  pd.read_csv('articles/dr_latest_2.csv', encoding = "ISO-8859-1")
     df_20231030T13latest =  pd.read_csv('articles/2023-10-30T13_latest.csv', encoding = "ISO-8859-1")
     df_20231030T22latest =  pd.read_csv('articles/2023-10-30T22_latest.csv', encoding = "ISO-8859-1")
-
-
+    df_20231031T12latest =  pd.read_csv('articles/2023-10-31T12_latest.csv', encoding = "ISO-8859-1")
 
     df = pd.concat([
         df_sport_latest, 
@@ -92,7 +91,8 @@ def get_sports():
         df_motorsport,
         df_dr_latest_2,
         df_20231030T13latest,
-        df_20231030T22latest
+        df_20231030T22latest,
+        df_20231031T12latest
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)
