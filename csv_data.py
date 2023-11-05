@@ -61,6 +61,9 @@ def get_sports():
     df_20231101T185533942Zlatest =  pd.read_csv('articles/2023-11-01T185533942Z_latest.csv', encoding = "ISO-8859-1")
     df_20231103T202824523Zlatest =  pd.read_csv('articles/2023-11-03T202824523Z_latest.csv', encoding = "ISO-8859-1")
     df_20231104T184054651Zlatest =  pd.read_csv('articles/2023-11-04T184054651Z_latest.csv', encoding = "ISO-8859-1")
+    df_20231105T210551764Zlatest =  pd.read_csv('articles/2023-11-05T210551764Z_latest.csv', encoding = "ISO-8859-1")
+
+    
 
     
 
@@ -106,7 +109,8 @@ def get_sports():
         df_20231101T18latest,
         df_20231101T185533942Zlatest,
         df_20231103T202824523Zlatest,
-        df_20231104T184054651Zlatest
+        df_20231104T184054651Zlatest,
+        df_20231105T210551764Zlatest
         ])
     
     df = df.sample(frac=1).reset_index(drop=True)
