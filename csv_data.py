@@ -140,7 +140,7 @@ def csv_list_to_list(csv_name):
 
 def get_vocab_dict():
     df_ddo_vocab = pd.read_table('resources/ddo_fullforms_2020-08-26.csv', header=None)
-    df_sport_lingo = pd.read_table('resources/sport_lingo.csv', header=None)
+    df_sport_lingo = pd.read_table('resources/sport_lingo.csv', encoding = "ISO-8859-1", header=None)
 
     ddo_vocab_set = column_data_2_list([0,1], df_ddo_vocab)
     sport_lingo_set = column_data_2_list([0], df_sport_lingo)
