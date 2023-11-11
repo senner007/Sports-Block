@@ -6,17 +6,9 @@ def split_specials(word):
     words_new.extend([x for x in parts])
     return words_new
 
-def contains_non_alphanumeric(word):
-    return bool(re.search(r'[^a-zæøåA-ZÆØÅ0-9]', word))
+# def contains_non_alphanumeric(word):
+#     return bool(re.search(r'[^a-zæøåA-ZÆØÅ0-9]', word))
 
-def remove_numeric(words):
-    return [x for x in words if any(char.isdigit() for char in x) == False]
-    
-def strip_strings(strs):
-    stripped = []
-    for s in  strs:
-        stripped.append(s.rstrip(". ").strip()) # removes trailing newline and full stop and space
-    return stripped
 
 def split_sentences(sentences):
     words_arr = []
