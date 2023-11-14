@@ -1,10 +1,7 @@
 import re
 
 def split_specials(word):
-    words_new = []
-    parts = re.findall(r"[A-ZÆØÅa-zæøå0-9]+|\S", word)
-    words_new.extend([x for x in parts])
-    return words_new
+    return re.findall(r"[A-ZÆØÅa-zæøå0-9]+|\S", word)
 
 # def contains_non_alphanumeric(word):
 #     return bool(re.search(r'[^a-zæøåA-ZÆØÅ0-9]', word))
@@ -12,11 +9,9 @@ def split_specials(word):
 
 def split_sentences(sentences):
     words_arr = []
-    for ind, sentence in enumerate(sentences):
-        words = sentence.split()
-        for word in words:
-            w = split_specials(word)
-            words_arr.extend([x.lower() for x in w])
+    for sentence in sentences:
+        words = split_specials(sentence)
+        words_arr.extend(words)
     return words_arr
 
 def remove_duplicates(words):
