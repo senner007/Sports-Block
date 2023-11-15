@@ -18,6 +18,10 @@ def get_set_of_chars(str_arr):
 
     return set(total_chars)
 
+def test_bad():
+    print(get_set_of_chars(sentences_total))
+    assert False
+
 def test_allowed_chars_in_data():
     set_of_chars = get_set_of_chars(sentences_total)
     for c in set_of_chars:

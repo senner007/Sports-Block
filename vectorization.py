@@ -11,7 +11,7 @@ def increment(x):
 def to_lower(word):
     return tf.strings.lower(word, encoding='utf-8')
 
-def split_dash(word):
+def remove_dash(word):
   return tf.strings.regex_replace(word, '-', ' ')
 
 def replace_finals(word):
@@ -20,8 +20,8 @@ def replace_finals(word):
 
 def split_included_specials(word):
 
-    new_str = tf.strings.regex_replace(word, pattern=r'([^a-zæøåA-ZÆØÅ\d\sñé])', rewrite=r' \1 ', replace_global=True)
-    new_str = tf.strings.regex_replace(new_str, pattern=r'([»«_,?\'])', rewrite=r'', replace_global=True)
+    new_str = tf.strings.regex_replace(word, pattern=r'([^a-zæøåñäöîçíãúéïèüáëó0-9\s])', rewrite=r' \1 ', replace_global=True)
+    new_str = tf.strings.regex_replace(new_str, pattern=r'([»«_,?\'\"])', rewrite=r'', replace_global=True)
     return new_str
 
 def replace_digits(word):
@@ -29,8 +29,8 @@ def replace_digits(word):
     new_str = word
     new_str = tf.strings.regex_replace(new_str, pattern=r'(?:18|19|20)\d{2}', rewrite=r'xyear')
     new_str = tf.strings.regex_replace(new_str, pattern=r'\d+', rewrite=r'xnumber', replace_global=True)
-    # new_str = tf.strings.regex_replace(new_str, pattern=r'\b(?:to|tre|fire|fem|seks|syv|otte|ni|ti)\b', rewrite=r'xnumber_multiple', replace_global=True)
-    # new_str = tf.strings.regex_replace(new_str, pattern=r'\b(?:anden|tredje|fjerde|femte|sjette|syvende|ottende|niende|tiende)(?:-)?', rewrite=r'xnumber_multiple', replace_global=True)
+    new_str = tf.strings.regex_replace(new_str, pattern=r'\b(?:to|tre|fire|fem|seks|syv|otte|ni|ti)\b', rewrite=r'xnumber_multiple', replace_global=True)
+    new_str = tf.strings.regex_replace(new_str, pattern=r'\b(?:anden|tredje|fjerde|femte|sjette|syvende|ottende|niende|tiende)(?:-)?', rewrite=r'xnumber_multiple', replace_global=True)
 
     return new_str
 
@@ -64,8 +64,8 @@ def replace_nationality(nationalities):
     def replace_nationality(word):
         new_str = word
         for sign in nationalities:
-            r = "\\b(?:nord|syd|øst|vest)?" + sign + "\\w*"
-            new_str = tf.strings.regex_replace(new_str, pattern=r, rewrite="xnationality")
+            r = "\\b(?:nord|syd|øst|vest)?" + sign + "(?:eren|erne|ere|ne|en|er|r|e|isk)?" + "(\w*)\\b" #https://regex101.com/r/G6LBoR/1
+            new_str = tf.strings.regex_replace(new_str, pattern=r,  rewrite=r'xnationality \1')
 
         return new_str
     return replace_nationality

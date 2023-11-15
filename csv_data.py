@@ -142,12 +142,16 @@ def get_vocab_dict():
     df_ddo_vocab = pd.read_table('resources/ddo_fullforms_2020-08-26.csv', header=None)
     df_sport_lingo = pd.read_table('resources/sport_lingo.csv', encoding = "ISO-8859-1", header=None)
 
+    names_to_omit = text_formatter(csv_list_to_list('resources/names_to_omit.csv'))
+
     ddo_vocab_set = column_data_2_list([0,1], df_ddo_vocab)
     sport_lingo_set = column_data_2_list([0], df_sport_lingo)
 
-    l = text_formatter(np.concatenate([ddo_vocab_set, sport_lingo_set]))
+    vocab_arr = text_formatter(np.concatenate([ddo_vocab_set, sport_lingo_set]))
 
-    vocab_dict = vocab_2_dict(l)
+    vocab_arr = np.setdiff1d(vocab_arr, names_to_omit)
+
+    vocab_dict = vocab_2_dict(vocab_arr)
 
     return vocab_dict
 

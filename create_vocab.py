@@ -1,11 +1,8 @@
 import re
+import numpy as np
 
 def split_specials(word):
     return re.findall(r"[A-ZÆØÅa-zæøå0-9]+|\S", word)
-
-# def contains_non_alphanumeric(word):
-#     return bool(re.search(r'[^a-zæøåA-ZÆØÅ0-9]', word))
-
 
 def split_sentences(sentences):
     words_arr = []
@@ -26,7 +23,7 @@ def remove_nationalities(words, nationalities):
     
     return list(set(words_minus_nationalities))
 
-def remove_danske_navne(words, danske_navne):
+def remove_varioius_names(words, danske_navne):
     words_minus_danske_navne = []
     for w in words:
         result = any(w.startswith(item) for item in danske_navne)
@@ -70,3 +67,17 @@ def add_non_alpha_numeric(words, non_alpha):
     ws = words
     ws.extend(non_alpha)
     return ws
+
+def words_by_frequency(arr):
+    xx = np.array(arr, dtype=object)
+    unique, counts = np.unique(xx, return_counts=True)
+    aa = np.asarray((unique, counts)).T
+    return np.flip(aa[aa[:, 1].argsort()])
+
+def remove_non_frequent(words_arr, threshold):
+    words_dict = words_by_frequency(words_arr)
+    words_above_threshold = []
+    for f in words_dict:
+        if f[0] > threshold:
+            words_above_threshold.append(f[1])
+    return words_above_threshold
