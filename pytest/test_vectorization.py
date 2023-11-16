@@ -15,13 +15,14 @@ from vectorization import replace_nationality
 from vectorization import vect_layer_2_text
 from vectorization import vectorize_layer
 from vectorization import standardize
+from vectorization import custom_standardization
 from static_data import tournaments
 from static_data import weekdays
 from static_data import non_alpha
 from static_data import word_generalization
 
 countries = csv_list_to_list('resources/countries.csv')
-nationalities = csv_list_to_list('resources/nat2.csv')
+nationalities = csv_list_to_list('resources/nationalities.csv')
 
 words_train_vocab = ["formel", "fodbold", "pokalen", "-", "mål", "duel"]
 
@@ -45,7 +46,7 @@ words_train_vocab.extend(non_alpha)
 max_features = 5700
 sequence_length = 100
 
-vectorized_layer = vectorize_layer(max_features, sequence_length, s)
+vectorized_layer = vectorize_layer(max_features, sequence_length, custom_standardization)
 
 text_ds = vectorized_layer.adapt(words_train_vocab)
 vect_vocab = vectorized_layer.get_vocabulary()

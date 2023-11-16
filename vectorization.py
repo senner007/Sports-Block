@@ -2,6 +2,11 @@ from tensorflow.keras.layers.experimental.preprocessing import TextVectorization
 import tensorflow as tf
 import numpy as np
 from static_data import non_alpha
+from static_data import weekdays
+from static_data import tournaments
+from csv_data import csv_list_to_list
+nationalities = csv_list_to_list('resources/nationalities.csv')
+countries = csv_list_to_list('resources/countries.csv')
 
 def increment(x):
     return x + 1
@@ -92,7 +97,35 @@ def standardize(func_arr):
 
 def vect_layer_2_text(vect, vect_vocab):
     return np.array([vect_vocab[x] for x in np.trim_zeros(np.squeeze(vect.numpy()))])
+ 
+weekdays_func = replace_weekday(weekdays)
 
+# vectorization_formatters = [
+#     to_lower, 
+#     remove_dash, 
+#     split_included_specials, 
+#     replace_tournament(tournaments),
+#     replace_countries(countries), 
+#     replace_weekday(weekdays), 
+#     replace_finals,
+#     replace_nationality(nationalities),
+#     replace_digits
+# ]
+
+@tf.keras.utils.register_keras_serializable()
+def custom_standardization(input_data): 
+    x = to_lower(input_data)
+    x = remove_dash(x)
+    x = split_included_specials(x)
+    x = replace_tournament(tournaments)(x)
+    x = replace_countries(countries)(x)
+    x = replace_weekday(weekdays)(x) 
+    x = replace_finals(x)
+    x = replace_nationality(nationalities)(x)
+    x = replace_digits(x)
+    return x
+
+@tf.keras.utils.register_keras_serializable()
 def vectorize_layer(max_features, sequence_length, standardization):
     return TextVectorization(
     standardize=standardization,
