@@ -141,7 +141,7 @@ print("total vocab:", len(words_train_vocab))
 
 # %%
 
-len(words_train_vocab)
+"håndbold" in words_train_vocab
 
 # %%
 file = open('words_sport_lingo.txt','w')
@@ -194,18 +194,10 @@ for f in remove_duplicates(words_formatted):
 
 
 from tensorflow.keras.layers.experimental.preprocessing import TextVectorization
-from vectorization import replace_finals
-from vectorization import replace_nationality
-from vectorization import to_lower
-from vectorization import remove_dash
-from vectorization import split_included_specials
-from vectorization import replace_tournament
-from vectorization import replace_countries
-from vectorization import replace_weekday
-from vectorization import replace_digits
 from vectorization import vect_layer_2_text
 from vectorization import vectorize_layer
 from vectorization import standardize
+from vectorization import custom_standardization
 from static_data import tournaments
 from static_data import weekdays
 from static_data import non_alpha
@@ -215,38 +207,49 @@ from static_data import word_generalization
 # TODO : evt indikere hvilke navneord der starte med stort bogstav(egenavne), evt. lave et opslag for at undersøge ordklasse for det første ord i sætningen 
 # TODO : test hvilke standarization funktioner giver bedre resultater 
 
-vectorization_formatters = [
-    to_lower, 
-    remove_dash, 
-    split_included_specials, 
-    replace_tournament(tournaments),
-    replace_countries(countries), 
-    replace_weekday(weekdays), 
-    replace_finals,
-    replace_nationality(nationalities),
-    replace_digits
-]
+# vectorization_formatters = [
+#     to_lower, 
+#     remove_dash, 
+#     split_included_specials, 
+#     replace_tournament(tournaments),
+#     replace_countries(countries), 
+#     replace_weekday(weekdays), 
+#     replace_finals,
+#     replace_nationality(nationalities),
+#     replace_digits
+# ]
 
-vectorization_pipe = standardize(vectorization_formatters)
+# vectorization_pipe = standardize(vectorization_formatters)
 
 words_train_vocab.extend(word_generalization)
 words_train_vocab.extend(non_alpha)
 
 # Model constants.
-max_features = 7200
+max_features = 7300
 sequence_length = 60
 
-vectorize = vectorize_layer(max_features, sequence_length, vectorization_pipe)
+vectorize = vectorize_layer(max_features, sequence_length, custom_standardization)
 
 vectorize.adapt(words_train_vocab)
 vectorization_vocab = vectorize.get_vocabulary()
 
 print("Total vocab/max_features : ",  len(vectorization_vocab))
 
-print (vect_layer_2_text(vectorize(["HÅNDBOLD . 500 Danskerdrama og dansk føring med danskermål i danskerfinale"]), vectorization_vocab))
+print (vect_layer_2_text(vectorize(["danmark skal med i OL, hvor danskere skal besejre svenskere"]), vectorization_vocab))
+
+vectorize(["danmark skal med i OL, hvor danskere skal besejre svenskere"])
 
 
-vectorize(["OL Meget skal ske før en medalje 500 kommer inden for rækkevidde. Dressurrytter Malene dsds har mistet troen på success"])
+# %%
+import json
+
+from vectorization import regex_dict
+
+with open('vocab.json', 'w',  encoding='utf8') as file:
+    json.dump(vectorization_vocab, file, ensure_ascii=False)
+
+with open('regexes.json', 'w',  encoding='utf8') as file:
+    json.dump(regex_dict, file, ensure_ascii=False)
 
 
 
@@ -257,7 +260,7 @@ vectorize(["OL Meget skal ske før en medalje 500 kommer inden for rækkevidde. 
 #         vectorized_layer([t]), vect_vocab
 #         ))
 #     print("\n")
-
+"håndbold" in vectorization_vocab
 
 # %%
 train_data_vect = vectorize(train_data)
@@ -553,7 +556,7 @@ def print_validation_results(predictions, val_data, labels, formatter, only_inco
 
 # %%
 
-epochs= 1
+epochs= 6
 transformer_model = get_transformer_model()
 
 transformer_history = transformer_model.fit(train_data_vect, train_labels, epochs=epochs, batch_size=120, validation_data=(val_data_vect, val_labels),  class_weight=class_weight,)
@@ -717,31 +720,28 @@ print(end_to_end_model.predict(
         ]))
 
 # %%
-# transformer_model.save("model")
+transformer_model.save('transformer_model')
+loaded_model = keras.models.load_model('transformer_model')
 
 # %%
-end_to_end_model.save('end_to_end_model_new',  save_format="keras")
-loaded_model = keras.models.load_model('end_to_end_model_new')
+# import tensorflowjs as tfjs
 
-# %%
-import tensorflowjs as tfjs
-
-tfjs.converters.save_keras_model(end_to_end_model, "js_end_to_end")
+# tfjs
 
 # %%
 # !tensorflowjs_converter --input_format tf_saved_model "model" ./jsmodel
 
 # %%
-loaded_model.predict(
-    [
-       "Fodbold . Fjerritslev vandt i lørdags over Vordingborg 1-0. Den danske anfører dasdad dasdasd triumferer",
-       "Fodbold . Fjerritslev vandt i lørdags over Vordingborg. Den danske anfører adasdasdd daddas triumferer",
-       "Fodbold . Fjerritslev vandt i lørdags over Vordingborg. Efter kampen meddelyte den danske anfører sdfd sdfdf, at han skal under kniven",
-       "Fodbold . Superliga-profil efter storsejr over Vordingborg. ' Den danske anfører fsdsdff sdffsd skal opereres og er ude i flere måneder",
-       "Fodbold . Superliga-profil har meddelelse efter sejr. Den danske anfører fdfd sdffdf skal opereres og er ude i flere måneder",
-       "Fodbold . Superliga-profil kan se frem til en længere pause. Den danske anfører fdfd sdfff skal opereres og er ude i flere måneder",
+# loaded_model.predict(
+#     [
+#        "Fodbold . Fjerritslev vandt i lørdags over Vordingborg 1-0. Den danske anfører dasdad dasdasd triumferer",
+#        "Fodbold . Fjerritslev vandt i lørdags over Vordingborg. Den danske anfører adasdasdd daddas triumferer",
+#        "Fodbold . Fjerritslev vandt i lørdags over Vordingborg. Efter kampen meddelyte den danske anfører sdfd sdfdf, at han skal under kniven",
+#        "Fodbold . Superliga-profil efter storsejr over Vordingborg. ' Den danske anfører fsdsdff sdffsd skal opereres og er ude i flere måneder",
+#        "Fodbold . Superliga-profil har meddelelse efter sejr. Den danske anfører fdfd sdffdf skal opereres og er ude i flere måneder",
+#        "Fodbold . Superliga-profil kan se frem til en længere pause. Den danske anfører fdfd sdfff skal opereres og er ude i flere måneder",
        
-        ])
+#         ])
 
 # %%
 # !pip install tensorflowjs

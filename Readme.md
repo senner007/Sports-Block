@@ -2,6 +2,17 @@
 <code>conda activate newenv</code>
 <code>python -m pytest --disable-warnings</code>
 
+### Convert model:
+<code>docker run -it --rm -v $PWD:/tmp -w /tmp tensorflow/tensorflow:2.6.0 bash</code>
+<code>pip install pandas</code>
+<code>pip install tensorflowjs</code>
+<code>python main.py</code>
+<code>tensorflowjs_converter --input_format tf_saved_model "transformer_model" ./transformer_model_js</code>
+
+- copy transformer_model_js, vocab.json, regexes.json til extension
+
+
+
 The .NET SDK version 6.0.100 is not sufficient. The minimum required version is 7.0.
 
 Polyglots Notebooks (Extension)

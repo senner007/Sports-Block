@@ -3,15 +3,6 @@ import sys
 sys.path.append('..')
 
 from csv_data import csv_list_to_list
-from vectorization import to_lower
-from vectorization import remove_dash
-from vectorization import split_included_specials
-from vectorization import replace_tournament
-from vectorization import replace_countries
-from vectorization import replace_weekday
-from vectorization import replace_digits
-from vectorization import replace_finals
-from vectorization import replace_nationality
 from vectorization import vect_layer_2_text
 from vectorization import vectorize_layer
 from vectorization import standardize
@@ -26,19 +17,19 @@ nationalities = csv_list_to_list('resources/nationalities.csv')
 
 words_train_vocab = ["formel", "fodbold", "pokalen", "-", "mål", "duel"]
 
-arrs = [
-    to_lower, 
-    remove_dash, 
-    split_included_specials, 
-    replace_tournament(tournaments),
-    replace_countries(countries), 
-    replace_weekday(weekdays), 
-    replace_finals,
-    replace_nationality(nationalities),
-    replace_digits
-]
+# arrs = [
+#     to_lower, 
+#     remove_dash, 
+#     split_included_specials, 
+#     replace_tournament(tournaments),
+#     replace_countries(countries), 
+#     replace_weekday(weekdays), 
+#     replace_finals,
+#     replace_nationality(nationalities),
+#     replace_digits
+# ]
 
-s = standardize(arrs)
+# s = standardize(arrs)
 
 words_train_vocab.extend(word_generalization)
 words_train_vocab.extend(non_alpha)
@@ -65,7 +56,9 @@ vectorization_tests = {
     "fodbold-pokalen": ["fodbold", "pokalen"],
     "fodbold  -  pokalen": ["fodbold", "pokalen"],
     "dansk danskermål danskerduel": ["xnationality", "xnationality", "mål", "xnationality", "duel"],
-    "kroatisk vietnamesisk indonesisk tysk engelsk" : ["xnationality", "xnationality", "xnationality",  "xnationality"]
+    "kroatisk vietnamesisk indonesisk tysk engelsk" : ["xnationality", "xnationality", "xnationality",  "xnationality"],
+    "fodbold-fodbold" : ["fodbold", "fodbold"],
+    "fodbold'fodbold" : ["fodbold", "'", "fodbold"]
 }
 
 def test_vectorization():
