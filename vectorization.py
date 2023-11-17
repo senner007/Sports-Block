@@ -122,11 +122,11 @@ def digit_regex():
 
 def countries_regex():
     countries_joined = ("(?:" + "|".join(countries) + ")")
-    return "\\b(?:nord|syd|øst|vest)?" + countries_joined + "s?\\b"
+    return "(?:^|\s)(?:nord|syd|øst|vest)?" + countries_joined + "s?\\b"
 
 def nationalities_regex():
     nationalities_joined = ("(?:" + "|".join(nationalities) + ")")
-    return "\\b(?:nord|syd|øst|vest)?" + nationalities_joined + "(?:eren|erne|ere|ne|en|er|r|e|isk)?" + "(\w*)\\b"
+    return "(?:^|\s)(?:nord|syd|øst|vest)?" + nationalities_joined + "(?:eren|erne|ere|ne|en|er|r|e|isk)?" + "(\w*)"
 
 def weekday_regex():
     weekday_joined = ("(?:" + "|".join(weekdays) + ")")
@@ -143,8 +143,8 @@ def finals_regex():
 regex_dict = {
     "remove_dash" : { "regex" : remove_dash_regex(), "replacewith" : r' '},
     "split_by_specials" : {  "regex" : split_by_specials_regex(), "replacewith" : r' \1 '},
-    "countries" : {  "regex" : countries_regex(), "replacewith" :  "xland" },
-    "nationalities" :  {  "regex" : nationalities_regex(), "replacewith" : r'xnationality \1' },
+    "countries" : {  "regex" : countries_regex(), "replacewith" :  ' xland' },
+    "nationalities" :  {  "regex" : nationalities_regex(), "replacewith" : r' xnationality \1' },
     "weekdays" : {  "regex" : weekday_regex(), "replacewith" : "xweekday" },
     "tournaments" : {  "regex" : tournament_regex(), "replacewith" : "xtournament" },
     "finals" : {  "regex" : finals_regex(), "replacewith" : "xfinale" },
@@ -183,7 +183,7 @@ def custom_standardization(input_data):
     # x = replace_finals(x)
     x =  tf.strings.regex_replace(x, pattern=regex_dict["finals"]["regex"], rewrite=regex_dict["finals"]["replacewith"])
     # x = replace_nationality(nationalities)(x)
-    x =  tf.strings.regex_replace(x, pattern=regex_dict["nationalities"]["regex"], rewrite=r'xnationality \1')
+    x =  tf.strings.regex_replace(x, pattern=regex_dict["nationalities"]["regex"], rewrite=regex_dict["nationalities"]["replacewith"])
     x =  tf.strings.regex_replace(x, pattern=regex_dict["year"]["regex"], rewrite=regex_dict["year"]["replacewith"])
     x =  tf.strings.regex_replace(x, pattern=regex_dict["digit"]["regex"], rewrite=regex_dict["digit"]["replacewith"])
     # x = replace_digits(x)
