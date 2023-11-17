@@ -56,7 +56,7 @@ vectorization_tests = {
     "fodbold-pokalen": ["fodbold", "pokalen"],
     "fodbold-pokalen": ["fodbold", "pokalen"],
     "fodbold  -  pokalen": ["fodbold", "pokalen"],
-    "dansk danskermål danskerduel": ["xnationality", "xnationality", "mål", "xnationality", "duel"],
+    "dansk danskermål danskerduel østrigermål": ["xnationality", "xnationality", "mål", "xnationality", "duel",  "xnationality", "mål"],
     "kroatisk vietnamesisk indonesisk tysk engelsk" : ["xnationality", "xnationality", "xnationality",  "xnationality"],
     "fodbold-fodbold" : ["fodbold", "fodbold"],
     "fodbold'fodbold" : ["fodbold", "'", "fodbold"]
