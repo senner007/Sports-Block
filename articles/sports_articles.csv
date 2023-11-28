@@ -790,7 +790,7 @@ KORT SPORT ,Håndboldstreg stopper i Portugal efter få uger ,Den tidligere danske
 CHAMPIONS LEAGUE ,Henrik Møllgaard spillede storkamp med brækket tå ,Aalborg Håndbold-profilen spillede hele onsdagens brag mod PSG med en brækket tå ,https://www.dr.dk/sporten/haandbold/championsleague/henrik-moellgaard-spillede-storkamp-med-braekket-taa,False,
 KORT SPORT ,FC København skal fremover leje sig ind i Parken ,FC København bliver lejer af græstæppet og tribunerne på mesterholdets hjemmebane i Parken ,https://www.dr.dk/sporten/seneste-sport,False,
 KORT SPORT ,Amerikansk liga afslører Messis gigantiske løn på 144 millioner kroner ,"Ingen fodboldspillere i USA tjener så godt, som Lionel Messi gør ",https://www.dr.dk/sporten/seneste-sport,False,
-KORT SPORT ,Golfprofilen Højgaard snuser til toppen efter stærkt udlæg på PGA Tour ,Golfspilleren Nicolai Højgaard har sat kursen mod en god afslutning på PGA Touren i år ,https://www.dr.dk/sporten/seneste-sport,False,
+KORT SPORT ,Golfprofilen Højgaard snuser til toppen efter stærkt udlæg på PGA Tour ,Golfspilleren Nicolai Højgaard har sat kursen mod en god afslutning på PGA Touren i år ,https://www.dr.dk/sporten/seneste-sport,True,x
 HERRELANDSHOLDET ,Landsholdscomeback er en ære for Mikkel Hansen: 'Det er ekstremt motiverende' ,Mikkel Hansen vender tilbage til landsholdet fuld af motivation efter en længere sygemelding ,https://www.dr.dk/sporten/haandbold/herrelandsholdet/landsholdscomeback-er-en-aere-mikkel-hansen-det-er-ekstremt,False,
 KORT SPORT ,Dansk herredouble ude af Denmark Open efter kinesisk afklapsning ,"Rasmus Kjær og Frederik Søgaard mødte overmagten, da den danske herredouble til formiddag mødte kinesiske He Jiting og Ren Xiangyu i ottendedelsfinalen ved Victor Denmark Open ",https://www.dr.dk/sporten/seneste-sport,True,
 TENNIS ,Boris Becker bliver ny træner for Holger Rune ,Den tidligere topspiller Boris Becker bliver en del af Holger Runes trænerstab i resten af 2023 ,https://www.dr.dk/sporten/tennis/boris-becker-bliver-ny-traener-holger-rune,False,
@@ -996,7 +996,7 @@ KORT SPORT ,Anne-Marie Rindoms træner vinder pris  ,"Bag de fleste store sportsl
 SPORT ,'Hans sæson har jo været uden sidestykke': Eksperter uenige om årets sportsnavn ,"Viktor Axelsen, Jonas Vingegaard og dressurlandsholdet er nomineret til titlen som årets sportsnavn 2022 ",,False,x
 SPORT ,OVERBLIK Her er alle prisvinderne ved Sport 2018 ,"13 priser blev lørdag delt ud ved DR's store Sport 2018-show. Se, hvem der vandt ",,False,x
 SPORT ,JP-journalist vinder fornem pris ,Jyllands-Postens journalist Dan Philipsen blev onsdag kåret som Årets Sportsjournalist 2009 ,,False,x
-SPORT ,Verdens bedste kørestolsfloorballspiller vinder Kulturministerens ParasportsprisSara Slotts karriere slutter med styrt ,28-årige Anders Berenth var i 2018 med til at vinde VM-sølv i powerchair floorball ,,True,x
+SPORT ,Verdens bedste kørestolsfloorballspiller vinder Kulturministerens Parasportspris,28-årige Anders Berenth var i 2018 med til at vinde VM-sølv i powerchair floorball ,,True,x
 VM HÅNDBOLD ,Mandag bliver håndboldherrernes VM-triumf fejret: Se programmet her ,Det danske håndboldlandshold skal i morgen fejres på Københavns Rådhus ,,True,x
 SPORT ,Karin Palshøj fejrer 25 år på DR,"I 1988 blev Karin Palshøj ansat i Danmarks Radio, og kort tid efter blev hun den første kvindelige TV-vært på DR Sporten. Se klip fra hendes debutår ",,False,x
 TOUR DE FRANCE ,I dag lander Vingegaard i København: Sådan forløber fejringen af Tour-vinderen ,Jonas Vingegaard træder efter planen ud på balkonen på Københavns Rådhus klokken 13.40 onsdag ,,True,x
@@ -1220,7 +1220,7 @@ POKALTURNERINGEN ,Fra fan-tog til spillerbus: Silkeborg-kaptajn i sin anden poka
 SPORT ,Blodtørstig multimillionær gør comeback i buret: Men hvorfor bytter McGregor luksuslivet ud med slag i ansigtet? ,Superstjernen Conor McGregor gør for tredje gang comeback i kampsport efter selverklæret pension ,,False,
 SPORT ,'Familien kommer først': Sygdom får dansk MMA-kæmper til at droppe den amerikanske drøm ,"Mark O. Madsens kone kæmper med sklerose, og det får den danske MMA-kæmper til at vende hjem til Danmark ",,False,
 KORT NYT ,Dansk sejler smider EM-føring: Får sølv ,Den danske sejler Anne-Marie Rindom smed tirsdag en stor føring i de to afsluttende finalesejladser ved EM i bådklassen Laser Radial og måtte derfor nøjes med sølv ,,True,
-VM SEJLSPORT ,OVERBLIK Sådan sejler de danske sejlere i dag ,Anne-Marie Rindom kan i dag hente Danmarks første medalje ved VM i sejlsport. Se her hvornår hun og de øvrige danskere skal i aktion i dag ,,True,
+VM SEJLSPORT ,OVERBLIK Sådan sejler de danske sejlere i dag ,Anne-Marie Rindom kan i dag hente Danmarks første medalje ved VM i sejlsport. Se her hvornår hun og de øvrige danskere skal i aktion i dag ,,False,
 SEJLSPORT ,"De var på vej mod OL-guld, da en knækket mast startede legendarisk drama",I 2008 vandt Jonas Warrer og Martin Kirketerp Danmarks måske mest dramatiske OL-guldmedalje nogensinde ,,True,x
 SEJLSPORT ,Øv-dag på vandet for Rindom: Mister førstepladsen ved VM ,To halvsløje sejladser var nok til at sende Anne-Marie Rindom ned på tredjepladsen ved VM ,,True,
 SEJLSPORT ,VM-guldet sejler væk fra Rindom: Gyldent hattrick i stor fare ,Den forsvarende verdensmester kæmper med tingene ved VM i Laser Radial ,,True,x

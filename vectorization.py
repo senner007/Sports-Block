@@ -108,8 +108,11 @@ def vect_layer_2_text(vect, vect_vocab):
     # new_str = tf.strings.regex_replace(new_str, pattern=r'\b(?:anden|tredje|fjerde|femte|sjette|syvende|ottende|niende|tiende)(?:-)?', rewrite=r'xnumber_multiple', replace_global=True)
 
 
-def remove_dash_regex():
-    return '-'
+def remove_special_chars():
+    return '([#()-\/:])'
+
+def replace_quotation():
+    return '([»«"])'
 
 def split_by_specials_regex():
     return '([^a-zæøåñäöîçíãúéïèüáëó0-9\s])'
@@ -141,7 +144,8 @@ def finals_regex():
 
 
 regex_dict = {
-    "remove_dash" : { "regex" : remove_dash_regex(), "replacewith" : r' '},
+    "remove_special_chars" : { "regex" : remove_special_chars(), "replacewith" : r' '},
+    "replace_quotation" : { "regex" : replace_quotation(), "replacewith" : r"'"},
     "split_by_specials" : {  "regex" : split_by_specials_regex(), "replacewith" : r' \1 '},
     "countries" : {  "regex" : countries_regex(), "replacewith" :  ' xland' },
     "nationalities" :  {  "regex" : nationalities_regex(), "replacewith" : r' xnationality \1' },
@@ -154,7 +158,6 @@ regex_dict = {
 
 
 
-print(regex_dict["remove_dash"])
 
 
 # vectorization_formatters = [
@@ -172,7 +175,8 @@ print(regex_dict["remove_dash"])
 @tf.keras.utils.register_keras_serializable()
 def custom_standardization(input_data): 
     x = tf.strings.lower(input_data, encoding='utf-8')
-    x = tf.strings.regex_replace(x, pattern=regex_dict["remove_dash"]["regex"], rewrite=regex_dict["remove_dash"]["replacewith"])
+    x = tf.strings.regex_replace(x, pattern=regex_dict["remove_special_chars"]["regex"], rewrite=regex_dict["remove_special_chars"]["replacewith"])
+    x = tf.strings.regex_replace(x, pattern=regex_dict["replace_quotation"]["regex"], rewrite=regex_dict["replace_quotation"]["replacewith"])
     # x = split_included_specials(x)
     x = tf.strings.regex_replace(x, pattern=regex_dict["split_by_specials"]["regex"], rewrite=regex_dict["split_by_specials"]["replacewith"])
     # x = replace_tournament(tournaments)(x)

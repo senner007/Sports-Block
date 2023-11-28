@@ -63,21 +63,17 @@ def remove_stopwords(words):
     
     return list(set(words_minus_danske_navne))
 
-def add_non_alpha_numeric(words, non_alpha):
-    ws = words
-    ws.extend(non_alpha)
-    return ws
 
 def words_by_frequency(arr):
-    xx = np.array(arr, dtype=object)
-    unique, counts = np.unique(xx, return_counts=True)
+    np_array = np.array(arr, dtype=object)
+    unique, counts = np.unique(np_array, return_counts=True)
     aa = np.asarray((unique, counts)).T
     return np.flip(aa[aa[:, 1].argsort()])
 
 def remove_non_frequent(words_arr, threshold):
     words_dict = words_by_frequency(words_arr)
     words_above_threshold = []
-    for f in words_dict:
-        if f[0] > threshold:
-            words_above_threshold.append(f[1])
+    for word_freq in words_dict:
+        if word_freq[0] > threshold:
+            words_above_threshold.append(word_freq[1])
     return words_above_threshold
